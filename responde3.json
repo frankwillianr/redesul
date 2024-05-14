@@ -333,5 +333,113 @@
       {"data": "01/12/2006", "valor": 0.83, "acumulado": 10.92}
     ],
     "acumulado_anual": 11.30
+  },
+  {
+    "ano": 2005,
+    "dados": [
+      {"data": "01/01/2005", "valor": 1.38, "acumulado": 1.38},
+      {"data": "01/02/2005", "valor": 1.22, "acumulado": 2.60},
+      {"data": "01/03/2005", "valor": 1.53, "acumulado": 4.13},
+      {"data": "01/04/2005", "valor": 1.41, "acumulado": 5.54},
+      {"data": "01/05/2005", "valor": 1.50, "acumulado": 7.04},
+      {"data": "01/06/2005", "valor": 1.59, "acumulado": 8.63},
+      {"data": "01/07/2005", "valor": 1.51, "acumulado": 10.14},
+      {"data": "01/08/2005", "valor": 1.66, "acumulado": 11.80},
+      {"data": "01/09/2005", "valor": 1.50, "acumulado": 13.30},
+      {"data": "01/10/2005", "valor": 1.41, "acumulado": 14.71},
+      {"data": "01/11/2005", "valor": 1.38, "acumulado": 16.09},
+      {"data": "01/12/2005", "valor": 1.47, "acumulado": 17.56}
+    ],
+    "acumulado_anual": 19.05
+  },
+  {
+    "ano": 2004,
+    "dados": [
+      {"data": "01/01/2004", "valor": 1.27, "acumulado": 1.27},
+      {"data": "01/02/2004", "valor": 1.08, "acumulado": 2.35},
+      {"data": "01/03/2004", "valor": 1.38, "acumulado": 3.73},
+      {"data": "01/04/2004", "valor": 1.18, "acumulado": 4.91},
+      {"data": "01/05/2004", "valor": 1.23, "acumulado": 6.14},
+      {"data": "01/06/2004", "valor": 1.23, "acumulado": 7.37},
+      {"data": "01/07/2004", "valor": 1.29, "acumulado": 8.66},
+      {"data": "01/08/2004", "valor": 1.29, "acumulado": 9.95},
+      {"data": "01/09/2004", "valor": 1.25, "acumulado": 11.20},
+      {"data": "01/10/2004", "valor": 1.21, "acumulado": 12.41},
+      {"data": "01/11/2004", "valor": 1.25, "acumulado": 13.66},
+      {"data": "01/12/2004", "valor": 1.48, "acumulado": 15.14}
+    ],
+    "acumulado_anual": 16.25
+  },
+  {
+    "ano": 2003,
+    "dados": [
+      {"data": "01/01/2003", "valor": 1.97, "acumulado": 1.97},
+      {"data": "01/02/2003", "valor": 1.83, "acumulado": 3.80},
+      {"data": "01/03/2003", "valor": 1.78, "acumulado": 5.58},
+      {"data": "01/04/2003", "valor": 1.87, "acumulado": 7.45},
+      {"data": "01/05/2003", "valor": 1.97, "acumulado": 9.42},
+      {"data": "01/06/2003", "valor": 1.86, "acumulado": 11.28},
+      {"data": "01/07/2003", "valor": 2.08, "acumulado": 13.36},
+      {"data": "01/08/2003", "valor": 1.77, "acumulado": 15.13},
+      {"data": "01/09/2003", "valor": 1.68, "acumulado": 16.81},
+      {"data": "01/10/2003", "valor": 1.64, "acumulado": 18.45},
+      {"data": "01/11/2003", "valor": 1.34, "acumulado": 19.79},
+      {"data": "01/12/2003", "valor": 1.37, "acumulado": 21.16}
+    ],
+    "acumulado_anual": 23.35
+  },
+  {
+    "ano": 2002,
+    "dados": [
+      {"data": "01/01/2002", "valor": 1.53, "acumulado": 1.53},
+      {"data": "01/02/2002", "valor": 1.25, "acumulado": 2.78},
+      {"data": "01/03/2002", "valor": 1.37, "acumulado": 4.15},
+      {"data": "01/04/2002", "valor": 1.48, "acumulado": 5.63},
+      {"data": "01/05/2002", "valor": 1.41, "acumulado": 7.04},
+      {"data": "01/06/2002", "valor": 1.33, "acumulado": 8.37},
+      {"data": "01/07/2002", "valor": 1.54, "acumulado": 9.91},
+      {"data": "01/08/2002", "valor": 1.44, "acumulado": 11.35},
+      {"data": "01/09/2002", "valor": 1.38, "acumulado": 12.73},
+      {"data": "01/10/2002", "valor": 1.65, "acumulado": 14.38},
+      {"data": "01/11/2002", "valor": 1.54, "acumulado": 15.92},
+      {"data": "01/12/2002", "valor": 1.74, "acumulado": 17.66}
+    ],
+    "acumulado_anual": 19.17
+  },
+  {
+    "ano": 2001,
+    "dados": [
+      {"data": "01/01/2001", "valor": 1.27, "acumulado": 1.27},
+      {"data": "01/02/2001", "valor": 1.02, "acumulado": 2.29},
+      {"data": "01/03/2001", "valor": 1.26, "acumulado": 3.55},
+      {"data": "01/04/2001", "valor": 1.19, "acumulado": 4.74},
+      {"data": "01/05/2001", "valor": 1.34, "acumulado": 6.08},
+      {"data": "01/06/2001", "valor": 1.27, "acumulado": 7.35},
+      {"data": "01/07/2001", "valor": 1.50, "acumulado": 8.85},
+      {"data": "01/08/2001", "valor": 1.60, "acumulado": 10.45},
+      {"data": "01/09/2001", "valor": 1.32, "acumulado": 11.77},
+      {"data": "01/10/2001", "valor": 1.53, "acumulado": 13.30},
+      {"data": "01/11/2001", "valor": 1.39, "acumulado": 14.69},
+      {"data": "01/12/2001", "valor": 1.39, "acumulado": 16.08}
+    ],
+    "acumulado_anual": 17.32
+  },
+  {
+    "ano": 2000,
+    "dados": [
+      {"data": "01/01/2000", "valor": 1.46, "acumulado": 1.46},
+      {"data": "01/02/2000", "valor": 1.45, "acumulado": 2.91},
+      {"data": "01/03/2000", "valor": 1.45, "acumulado": 4.36},
+      {"data": "01/04/2000", "valor": 1.30, "acumulado": 5.66},
+      {"data": "01/05/2000", "valor": 1.49, "acumulado": 7.15},
+      {"data": "01/06/2000", "valor": 1.39, "acumulado": 8.54},
+      {"data": "01/07/2000", "valor": 1.31, "acumulado": 9.85},
+      {"data": "01/08/2000", "valor": 1.41, "acumulado": 11.26},
+      {"data": "01/09/2000", "valor": 1.22, "acumulado": 12.48},
+      {"data": "01/10/2000", "valor": 1.29, "acumulado": 13.77},
+      {"data": "01/11/2000", "valor": 1.22, "acumulado": 14.99},
+      {"data": "01/12/2000", "valor": 1.20, "acumulado": 16.19}
+    ],
+    "acumulado_anual": 17.43
   }
 ]
