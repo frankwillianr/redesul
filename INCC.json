@@ -4,18 +4,18 @@
         "dados": [
             {"mes": "Jan", "valor": 0.27},
             {"mes": "Fev", "valor": 0.13},
-            {"mes": "Mar", "valor": null},
-            {"mes": "Abr", "valor": null},
-            {"mes": "Mai", "valor": null},
-            {"mes": "Jun", "valor": null},
-            {"mes": "Jul", "valor": null},
-            {"mes": "Ago", "valor": null},
-            {"mes": "Set", "valor": null},
-            {"mes": "Out", "valor": null},
-            {"mes": "Nov", "valor": null},
-            {"mes": "Dez", "valor": null},
-            {"acumulado_anual": 0.40}
-        ]
+            {"mes": "Mar", "valor": 0},
+            {"mes": "Abr", "valor": 0},
+            {"mes": "Mai", "valor": 0},
+            {"mes": "Jun", "valor": 0},
+            {"mes": "Jul", "valor": 0},
+            {"mes": "Ago", "valor": 0},
+            {"mes": "Set", "valor": 0},
+            {"mes": "Out", "valor": 0},
+            {"mes": "Nov", "valor": 0},
+            {"mes": "Dez", "valor": 0}
+        ],
+        "acumulado_anual": 0.40
     },
     {
         "ano": 2023,
@@ -31,9 +31,9 @@
             {"mes": "Set", "valor": 0.34},
             {"mes": "Out", "valor": 0.20},
             {"mes": "Nov", "valor": 0.07},
-            {"mes": "Dez", "valor": 0.31},
-            {"acumulado_anual": 3.49}
-        ]
+            {"mes": "Dez", "valor": 0.31}
+        ],
+        "acumulado_anual": 3.49
     },
     {
         "ano": 2022,
@@ -49,9 +49,9 @@
             {"mes": "Set", "valor": 0.09},
             {"mes": "Out", "valor": 0.12},
             {"mes": "Nov", "valor": 0.36},
-            {"mes": "Dez", "valor": 0.09},
-            {"acumulado_anual": 9.27}
-        ]
+            {"mes": "Dez", "valor": 0.09}
+        ],
+        "acumulado_anual": 9.27
     },
     {
         "ano": 2021,
@@ -67,9 +67,9 @@
             {"mes": "Set", "valor": 0.51},
             {"mes": "Out", "valor": 0.86},
             {"mes": "Nov", "valor": 0.67},
-            {"mes": "Dez", "valor": 0.35},
-            {"acumulado_anual": 13.84}
-        ]
+            {"mes": "Dez", "valor": 0.35}
+        ],
+        "acumulado_anual": 13.84
     },
     {
         "ano": 2020,
@@ -85,9 +85,9 @@
             {"mes": "Set", "valor": 1.16},
             {"mes": "Out", "valor": 1.73},
             {"mes": "Nov", "valor": 1.28},
-            {"mes": "Dez", "valor": 0.70},
-            {"acumulado_anual": 8.81}
-        ]
+            {"mes": "Dez", "valor": 0.70}
+        ],
+        "acumulado_anual": 8.81
     },
     {
         "ano": 2019,
@@ -103,9 +103,9 @@
             {"mes": "Set", "valor": 0.46},
             {"mes": "Out", "valor": 0.18},
             {"mes": "Nov", "valor": 0.04},
-            {"mes": "Dez", "valor": 0.21},
-            {"acumulado_anual": 4.14}
-        ]
+            {"mes": "Dez", "valor": 0.21}
+        ],
+        "acumulado_anual": 4.14
     },
     {
         "ano": 2018,
@@ -121,9 +121,9 @@
             {"mes": "Set", "valor": 0.23},
             {"mes": "Out", "valor": 0.35},
             {"mes": "Nov", "valor": 0.13},
-            {"mes": "Dez", "valor": 0.13},
-            {"acumulado_anual": 3.83}
-        ]
+            {"mes": "Dez", "valor": 0.13}
+        ],
+        "acumulado_anual": 3.83
     },
     {
         "ano": 2017,
@@ -139,9 +139,9 @@
             {"mes": "Set", "valor": 0.06},
             {"mes": "Out", "valor": 0.31},
             {"mes": "Nov", "valor": 0.31},
-            {"mes": "Dez", "valor": 0.07},
-            {"acumulado_anual": 4.25}
-        ]
+            {"mes": "Dez", "valor": 0.07}
+        ],
+        "acumulado_anual": 4.25
     },
     {
         "ano": 2016,
@@ -157,9 +157,9 @@
             {"mes": "Set", "valor": 0.33},
             {"mes": "Out", "valor": 0.21},
             {"mes": "Nov", "valor": 0.16},
-            {"mes": "Dez", "valor": 0.34},
-            {"acumulado_anual": 6.10}
-        ]
+            {"mes": "Dez", "valor": 0.34}
+        ],
+        "acumulado_anual": 6.10
     },
     {
         "ano": 2015,
@@ -175,9 +175,9 @@
             {"mes": "Set", "valor": 0.22},
             {"mes": "Out", "valor": 0.36},
             {"mes": "Nov", "valor": 0.34},
-            {"mes": "Dez", "valor": 0.10},
-            {"acumulado_anual": 7.49}
-        ]
+            {"mes": "Dez", "valor": 0.10}
+        ],
+        "acumulado_anual": 7.49
     },
     {
         "ano": 2014,
@@ -193,9 +193,9 @@
             {"mes": "Set", "valor": 0.15},
             {"mes": "Out", "valor": 0.17},
             {"mes": "Nov", "valor": 0.44},
-            {"mes": "Dez", "valor": 0.08},
-            {"acumulado_anual": 6.94}
-        ]
+            {"mes": "Dez", "valor": 0.08}
+        ],
+        "acumulado_anual": 6.94
     },
     {
         "ano": 2013,
@@ -211,9 +211,9 @@
             {"mes": "Set", "valor": 0.43},
             {"mes": "Out", "valor": 0.26},
             {"mes": "Nov", "valor": 0.35},
-            {"mes": "Dez", "valor": 0.10},
-            {"acumulado_anual": 8.09}
-        ]
+            {"mes": "Dez", "valor": 0.10}
+        ],
+        "acumulado_anual": 8.09
     },
     {
         "ano": 2012,
@@ -229,9 +229,9 @@
             {"mes": "Set", "valor": 0.22},
             {"mes": "Out", "valor": 0.21},
             {"mes": "Nov", "valor": 0.33},
-            {"mes": "Dez", "valor": 0.16},
-            {"acumulado_anual": 7.12}
-        ]
+            {"mes": "Dez", "valor": 0.16}
+        ],
+        "acumulado_anual": 7.12
     },
     {
         "ano": 2011,
@@ -247,9 +247,9 @@
             {"mes": "Set", "valor": 0.14},
             {"mes": "Out", "valor": 0.23},
             {"mes": "Nov", "valor": 0.72},
-            {"mes": "Dez", "valor": 0.11},
-            {"acumulado_anual": 7.48}
-        ]
+            {"mes": "Dez", "valor": 0.11}
+        ],
+        "acumulado_anual": 7.48
     },
     {
         "ano": 2010,
@@ -265,9 +265,9 @@
             {"mes": "Set", "valor": 0.21},
             {"mes": "Out", "valor": 0.20},
             {"mes": "Nov", "valor": 0.37},
-            {"mes": "Dez", "valor": 0.67},
-            {"acumulado_anual": 7.77}
-        ]
+            {"mes": "Dez", "valor": 0.67}
+        ],
+        "acumulado_anual": 7.77
     },
     {
         "ano": 2009,
@@ -283,9 +283,9 @@
             {"mes": "Set", "valor": 0.15},
             {"mes": "Out", "valor": 0.06},
             {"mes": "Nov", "valor": 0.29},
-            {"mes": "Dez", "valor": 0.10},
-            {"acumulado_anual": 3.25}
-        ]
+            {"mes": "Dez", "valor": 0.10}
+        ],
+        "acumulado_anual": 3.25
     },
     {
         "ano": 2008,
@@ -301,9 +301,9 @@
             {"mes": "Set", "valor": 0.95},
             {"mes": "Out", "valor": 0.77},
             {"mes": "Nov", "valor": 0.50},
-            {"mes": "Dez", "valor": 0.17},
-            {"acumulado_anual": 11.86}
-        ]
+            {"mes": "Dez", "valor": 0.17}
+        ],
+        "acumulado_anual": 11.86
     },
     {
         "ano": 2007,
@@ -319,9 +319,9 @@
             {"mes": "Set", "valor": 0.51},
             {"mes": "Out", "valor": 0.51},
             {"mes": "Nov", "valor": 0.36},
-            {"mes": "Dez", "valor": 0.59},
-            {"acumulado_anual": 6.16}
-        ]
+            {"mes": "Dez", "valor": 0.59}
+        ],
+        "acumulado_anual": 6.16
     },
     {
         "ano": 2006,
@@ -337,9 +337,9 @@
             {"mes": "Set", "valor": 0.11},
             {"mes": "Out", "valor": 0.21},
             {"mes": "Nov", "valor": 0.23},
-            {"mes": "Dez", "valor": 0.36},
-            {"acumulado_anual": 5.04}
-        ]
+            {"mes": "Dez", "valor": 0.36}
+        ],
+        "acumulado_anual": 5.04
     },
     {
         "ano": 2005,
@@ -355,9 +355,9 @@
             {"mes": "Set", "valor": 0.24},
             {"mes": "Out", "valor": 0.19},
             {"mes": "Nov", "valor": 0.28},
-            {"mes": "Dez", "valor": 0.37},
-            {"acumulado_anual": 6.83}
-        ]
+            {"mes": "Dez", "valor": 0.37}
+        ],
+        "acumulado_anual": 6.83
     },
     {
         "ano": 2004,
@@ -373,9 +373,9 @@
             {"mes": "Set", "valor": 0.58},
             {"mes": "Out", "valor": 1.19},
             {"mes": "Nov", "valor": 0.71},
-            {"mes": "Dez", "valor": 0.51},
-            {"acumulado_anual": 11.04}
-        ]
+            {"mes": "Dez", "valor": 0.51}
+        ],
+        "acumulado_anual": 11.04
     },
     {
         "ano": 2003,
@@ -391,9 +391,9 @@
             {"mes": "Set", "valor": 0.22},
             {"mes": "Out", "valor": 0.65},
             {"mes": "Nov", "valor": 1.04},
-            {"mes": "Dez", "valor": 0.16},
-            {"acumulado_anual": 14.42}
-        ]
+            {"mes": "Dez", "valor": 0.16}
+        ],
+        "acumulado_anual": 14.42
     },
     {
         "ano": 2002,
@@ -409,9 +409,9 @@
             {"mes": "Set", "valor": 0.71},
             {"mes": "Out", "valor": 1.13},
             {"mes": "Nov", "valor": 2.45},
-            {"mes": "Dez", "valor": 1.70},
-            {"acumulado_anual": 12.87}
-        ]
+            {"mes": "Dez", "valor": 1.70}
+        ],
+        "acumulado_anual": 12.87
     },
     {
         "ano": 2001,
@@ -427,9 +427,9 @@
             {"mes": "Set", "valor": 0.55},
             {"mes": "Out", "valor": 0.93},
             {"mes": "Nov", "valor": 0.74},
-            {"mes": "Dez", "valor": 0.34},
-            {"acumulado_anual": 8.85}
-        ]
+            {"mes": "Dez", "valor": 0.34}
+        ],
+        "acumulado_anual": 8.85
     },
     {
         "ano": 2000,
@@ -445,8 +445,8 @@
             {"mes": "Set", "valor": 0.26},
             {"mes": "Out", "valor": 0.33},
             {"mes": "Nov", "valor": 0.41},
-            {"mes": "Dez", "valor": 0.64},
-            {"acumulado_anual": 7.66}
-        ]
+            {"mes": "Dez", "valor": 0.64}
+        ],
+        "acumulado_anual": 7.66
     }
 ]
