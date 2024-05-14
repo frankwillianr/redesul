@@ -1,135 +1,337 @@
-{
-  "anos": [
-    {
-      "ano": 2024,
-      "taxas_mensais": [0.97, 0.80, 0.83, 0.89, 0.32],
-      "acumulado": 3.86
-    },
-    {
-      "ano": 2023,
-      "taxas_mensais": [1.12, 0.92, 1.17, 0.92, 1.12, 1.07, 1.07, 1.14, 0.97, 1.00, 0.92, 0.89],
-      "acumulado": 13.04
-    },
-    {
-      "ano": 2022,
-      "taxas_mensais": [0.73, 0.76, 0.93, 0.83, 1.03, 1.02, 1.03, 1.17, 1.07, 1.02, 1.02, 1.12],
-      "acumulado": 12.39
-    },
-    {
-      "ano": 2021,
-      "taxas_mensais": [0.15, 0.13, 0.20, 0.21, 0.27, 0.31, 0.36, 0.43, 0.44, 0.49, 0.59, 0.77],
-      "acumulado": 4.42
-    },
-    {
-      "ano": 2020,
-      "taxas_mensais": [0.38, 0.29, 0.34, 0.28, 0.24, 0.21, 0.19, 0.16, 0.16, 0.16, 0.15, 0.16],
-      "acumulado": 2.76
-    },
-    {
-      "ano": 2019,
-      "taxas_mensais": [0.54, 0.49, 0.47, 0.52, 0.54, 0.47, 0.57, 0.50, 0.46, 0.48, 0.38, 0.37],
-      "acumulado": 5.96
-    },
-    {
-      "ano": 2018,
-      "taxas_mensais": [0.58, 0.47, 0.53, 0.52, 0.52, 0.52, 0.54, 0.57, 0.47, 0.54, 0.49, 0.49],
-      "acumulado": 6.43
-    },
-    {
-      "ano": 2017,
-      "taxas_mensais": [1.09, 0.87, 1.05, 0.79, 0.93, 0.81, 0.80, 0.80, 0.64, 0.64, 0.57, 0.54],
-      "acumulado": 9.94
-    },
-    {
-      "ano": 2016,
-      "taxas_mensais": [1.06, 1.00, 1.16, 1.06, 1.11, 1.16, 1.11, 1.22, 1.11, 1.05, 1.04, 1.12],
-      "acumulado": 14.02
-    },
-    {
-      "ano": 2015,
-      "taxas_mensais": [0.94, 0.82, 1.04, 0.95, 0.99, 1.07, 1.18, 1.11, 1.11, 1.11, 1.06, 1.16],
-      "acumulado": 13.27
-    },
-    {
-      "ano": 2014,
-      "taxas_mensais": [0.85, 0.79, 0.77, 0.82, 0.87, 0.82, 0.95, 0.87, 0.91, 0.95, 0.84, 0.96],
-      "acumulado": 10.90
-    },
-    {
-      "ano": 2013,
-      "taxas_mensais": [0.60, 0.49, 0.55, 0.61, 0.60, 0.61, 0.72, 0.71, 0.71, 0.81, 0.72, 0.79],
-      "acumulado": 8.22
-    },
-    {
-      "ano": 2012,
-      "taxas_mensais": [0.89, 0.75, 0.82, 0.71, 0.74, 0.64, 0.68, 0.69, 0.54, 0.61, 0.55, 0.55],
-      "acumulado": 8.49
-    },
-    {
-      "ano": 2011,
-      "taxas_mensais": [0.86, 0.84, 0.92, 0.84, 0.99, 0.96, 0.97, 1.07, 0.94, 0.88, 0.86, 0.91],
-      "acumulado": 11.62
-    },
-    {
-      "ano": 2010,
-      "taxas_mensais": [0.66, 0.59, 0.76, 0.67, 0.75, 0.79, 0.86, 0.89, 0.85, 0.81, 0.81, 0.93],
-      "acumulado": 9.78
-    },
-    {
-      "ano": 2009,
-      "taxas_mensais": [1.05, 0.86, 0.97, 0.84, 0.77, 0.76, 0.79, 0.69, 0.69, 0.69, 0.66, 0.73],
-      "acumulado": 9.93
-    },
-    {
-      "ano": 2008,
-      "taxas_mensais": [0.93, 0.80, 0.84, 0.90, 0.88, 0.96, 1.07, 1.02, 1.10, 1.18, 1.02, 1.12],
-      "acumulado
-": 12.48
-    },
-    {
-      "ano": 2007,
-      "taxas_mensais": [1.08, 0.87, 1.05, 0.94, 1.03, 0.91, 0.97, 0.99, 0.80, 0.93, 0.84, 0.84],
-      "acumulado": 11.88
-    },
-    {
-      "ano": 2006,
-      "taxas_mensais": [1.43, 1.15, 1.42, 1.08, 1.28, 1.18, 1.17, 1.26, 1.06, 1.09, 1.02, 0.99],
-      "acumulado": 15.08
-    },
-    {
-      "ano": 2005,
-      "taxas_mensais": [1.38, 1.22, 1.53, 1.41, 1.50, 1.59, 1.51, 1.66, 1.50, 1.41, 1.38, 1.47],
-      "acumulado": 19.05
-    },
-    {
-      "ano": 2004,
-      "taxas_mensais": [1.27, 1.08, 1.38, 1.18, 1.23, 1.23, 1.29, 1.29, 1.25, 1.21, 1.25, 1.48],
-      "acumulado": 16.25
-    },
-    {
-      "ano": 2003,
-      "taxas_mensais": [1.97, 1.83, 1.78, 1.87, 1.97, 1.86, 2.08, 1.77, 1.68, 1.64, 1.34, 1.37],
-      "acumulado": 23.35
-    },
-    {
-      "ano": 2002,
-      "taxas_mensais": [1.53, 1.25, 1.37, 1.48, 1.41, 1.33, 1.54, 1.44, 1.38, 1.65, 1.54, 1.74],
-      "acumulado": 19.17
-    },
-    {
-      "ano": 2001,
-      "taxas_mensais": [1.27, 1.02, 1.26, 1.19, 1.34, 1.27, 1.50, 1.60, 1.32, 1.53, 1.39, 1.39],
-      "acumulado": 17.32
-    },
-    {
-      "ano": 2000,
-      "taxas_mensais": [1.46, 1.45, 1.45, 1.30, 1.49, 1.39, 1.31, 1.41, 1.22, 1.29, 1.22, 1.20],
-      "acumulado": 17.43
-    },
-    {
-      "ano": 1999,
-      "taxas_mensais": [2.18, 2.38, 3.33, 2.35, 2.02, 1.67, 1.66, 1.57, 1.49, 1.38, 1.39, 1.60],
-      "acumulado": 25.59
-    }
-  ]
-}
+[
+  {
+    "ano": 2024,
+    "dados": [
+      {"data": "01/01/2024", "valor": 0.97, "acumulado": 0.97},
+      {"data": "01/02/2024", "valor": 0.80, "acumulado": 1.77},
+      {"data": "01/03/2024", "valor": 0.83, "acumulado": 2.60},
+      {"data": "01/04/2024", "valor": 0.89, "acumulado": 3.49},
+      {"data": "01/05/2024", "valor": 0.32, "acumulado": 3.81}
+    ],
+    "acumulado_anual": 3.86
+  },
+  {
+    "ano": 2023,
+    "dados": [
+      {"data": "01/01/2023", "valor": 1.12, "acumulado": 1.12},
+      {"data": "01/02/2023", "valor": 0.92, "acumulado": 2.04},
+      {"data": "01/03/2023", "valor": 1.17, "acumulado": 3.21},
+      {"data": "01/04/2023", "valor": 0.92, "acumulado": 4.13},
+      {"data": "01/05/2023", "valor": 1.12, "acumulado": 5.25},
+      {"data": "01/06/2023", "valor": 1.07, "acumulado": 6.32},
+      {"data": "01/07/2023", "valor": 1.07, "acumulado": 7.39},
+      {"data": "01/08/2023", "valor": 1.14, "acumulado": 8.53},
+      {"data": "01/09/2023", "valor": 0.97, "acumulado": 9.50},
+      {"data": "01/10/2023", "valor": 1.00, "acumulado": 10.50},
+      {"data": "01/11/2023", "valor": 0.92, "acumulado": 11.42},
+      {"data": "01/12/2023", "valor": 0.89, "acumulado": 12.31}
+    ],
+    "acumulado_anual": 13.04
+  },
+  {
+    "ano": 2022,
+    "dados": [
+      {"data": "01/01/2022", "valor": 0.73, "acumulado": 0.73},
+      {"data": "01/02/2022", "valor": 0.76, "acumulado": 1.49},
+      {"data": "01/03/2022", "valor": 0.93, "acumulado": 2.42},
+      {"data": "01/04/2022", "valor": 0.83, "acumulado": 3.25},
+      {"data": "01/05/2022", "valor": 1.03, "acumulado": 4.28},
+      {"data": "01/06/2022", "valor": 1.02, "acumulado": 5.30},
+      {"data": "01/07/2022", "valor": 1.03, "acumulado": 6.33},
+      {"data": "01/08/2022", "valor": 1.17, "acumulado": 7.50},
+      {"data": "01/09/2022", "valor": 1.07, "acumulado": 8.57},
+      {"data": "01/10/2022", "valor": 1.02, "acumulado": 9.59},
+      {"data": "01/11/2022", "valor": 1.02, "acumulado": 10.61},
+      {"data": "01/12/2022", "valor": 1.12, "acumulado": 11.73}
+    ],
+    "acumulado_anual": 12.39
+  },
+  {
+    "ano": 2021,
+    "dados": [
+      {"data": "01/01/2021", "valor": 0.15, "acumulado": 0.15},
+      {"data": "01/02/2021", "valor": 0.13, "acumulado": 0.28},
+      {"data": "01/03/2021", "valor": 0.20, "acumulado": 0.48},
+      {"data": "01/04/2021", "valor": 0.21, "acumulado": 0.69},
+      {"data": "01/05/2021", "valor": 0.27, "acumulado": 0.96},
+      {"data": "01/06/2021", "valor": 0.31, "acumulado": 1.27},
+      {"data": "01/07/2021", "valor": 0.36, "acumulado": 1.63},
+      {"data": "01/08/2021", "valor": 0.43, "acumulado": 2.06},
+      {"data": "01/09/2021", "valor": 0.44, "acumulado": 2.50},
+      {"data": "01/10/2021", "valor": 0.49, "acumulado": 2.99},
+      {"data": "01/11/2021", "valor": 0.59, "acumulado": 3.58},
+      {"data": "01/12/2021", "valor": 0.77, "acumulado": 4.35}
+    ],
+    "acumulado_anual": 4.42
+  },
+  {
+    "ano": 2020,
+    "dados": [
+      {"data": "01/01/2020", "valor": 0.38, "acumulado": 0.38},
+      {"data": "01/02/2020", "valor": 0.29, "acumulado": 0.67},
+      {"data": "01/03/2020", "valor": 0.34, "acumulado": 1.01},
+      {"data": "01/04/2020", "valor": 0.28, "acumulado": 1.29},
+      {"data": "01/05/2020", "valor": 0.24, "acumulado": 1.53},
+      {"data": "01/06/2020", "valor": 0.21, "acumulado": 1.74},
+      {"data": "01/07/2020", "valor": 0.19, "acumulado": 1.93},
+      {"data": "01/08/2020", "valor": 0.16, "acumulado": 2.09},
+      {"data": "01/09/2020", "valor": 0.16, "acumulado": 2.25},
+      {"data": "01/10/2020", "valor": 0.16, "acumulado": 2.41},
+      {"data": "01/11/2020", "valor": 0.15, "acumulado": 2.56},
+      {"data": "01/12/2020", "valor": 0.16, "acumulado": 2.72}
+    ],
+    "acumulado_anual": 2.76
+  },
+  {
+    "ano": 2019,
+    "dados": [
+      {"data": "01/01/2019", "valor": 0.54, "acumulado": 0.54},
+      {"data": "01/02/2019", "valor": 0.49, "acumulado": 1.03},
+      {"data": "01/03/2019", "valor": 0.47, "acumulado": 1.50},
+      {"data": "01/04/2019", "valor": 0.52, "acumulado": 2.02},
+      {"data": "01/05/2019", "valor": 0.54, "acumulado": 2.56},
+      {"data": "01/06/2019", "valor": 0.47, "acumulado": 3.03},
+      {"data": "01/07/2019", "valor": 0.57, "acumulado": 3.60},
+      {"data": "01/08/2019", "valor": 0.50, "acumulado": 4.10},
+      {"data": "01/09/2019", "valor": 0.46, "acumulado": 4.56},
+      {"data": "01/10/2019", "valor": 0.48, "acumulado": 5.04},
+      {"data": "01/11/2019", "valor": 0.38, "acumulado": 5.42},
+      {"data": "01/12/2019", "valor": 0.37, "acumulado": 5.79}
+    ],
+    "acumulado_anual": 5.96
+  },
+  {
+    "ano": 2018,
+    "dados": [
+      {"data": "01/01/2018", "valor": 0.58, "acumulado": 0.58},
+      {"data": "01/02/2018", "valor": 0.47, "acumulado": 1.05},
+      {"data": "01/03/2018", "valor": 0.53, "acumulado": 1.58},
+      {"data": "01/04/2018", "valor": 0.52, "acumulado": 2.10},
+      {"data": "01/05/2018", "valor": 0.52, "acumulado": 2.62},
+      {"data": "01/06/2018", "valor": 0.52, "acumulado": 3.14},
+      {"data": "01/07/2018", "valor": 0.54, "acumulado": 3.68},
+      {"data": "01/08/2018", "valor": 0.57, "acumulado": 4.25},
+      {"data": "01/09/2018", "valor": 0.47, "acumulado": 4.72},
+      {"data": "01/10/2018", "valor": 0.54, "acumulado": 5.26},
+      {"data": "01/11/2018", "valor": 0.49, "acumulado": 5.75},
+      {"data": "01/12/2018", "valor": 0.49, "acumulado": 6.24}
+    ],
+    "acumulado_anual": 6.43
+  },
+  {
+    "ano": 2017,
+    "dados": [
+      {"data": "01/01/2017", "valor": 1.09, "acumulado": 1.09},
+      {"data": "01/02/2017", "valor": 0.87, "acumulado": 1.96},
+      {"data": "01/03/2017", "valor": 1.05, "acumulado": 3.01},
+      {"data": "01/04/2017", "valor": 0.79, "acumulado": 3.80},
+      {"data": "01/05/2017", "valor": 0.93, "acumulado": 4.73},
+      {"data": "01/06/2017", "valor": 0.81, "acumulado": 5.54},
+      {"data": "01/07/2017", "valor": 0.80, "acumulado": 6.34},
+      {"data": "01/08/2017", "valor": 0.80, "acumulado": 7.14},
+      {"data": "01/09/2017", "valor": 0.64, "acumulado": 7.78},
+      {"data": "01/10/2017", "valor": 0.64, "acumulado": 8.42},
+      {"data": "01/11/2017", "valor": 0.57, "acumulado": 8.99},
+      {"data": "01/12/2017", "valor": 0.54, "acumulado": 9.53}
+    ],
+    "acumulado_anual": 9.94
+  },
+  {
+    "ano": 2016,
+    "dados": [
+      {"data": "01/01/2016", "valor": 1.06, "acumulado": 1.06},
+      {"data": "01/02/2016", "valor": 1.00, "acumulado": 2.06},
+      {"data": "01/03/2016", "valor": 1.16, "acumulado": 3.22},
+      {"data": "01/04/2016", "valor": 1.06, "acumulado": 4.28},
+      {"data": "01/05/2016", "valor": 1.11, "acumulado": 5.39},
+      {"data": "01/06/2016", "valor": 1.16, "acumulado": 6.55},
+      {"data": "01/07/2016", "valor": 1.11, "acumulado": 7.66},
+      {"data": "01/08/2016", "valor": 1.22, "acumulado": 8.88},
+      {"data": "01/09/2016", "valor": 1.11, "acumulado": 9.99},
+      {"data": "01/10/2016", "valor": 1.05, "acumulado": 11.04},
+      {"data": "01/11/2016", "valor": 1.04, "acumulado": 12.08},
+      {"data": "01/12/2016", "valor": 1.12, "acumulado": 13.20}
+    ],
+    "acumulado_anual": 14.02
+  },
+  {
+    "ano": 2015,
+    "dados": [
+      {"data": "01/01/2015", "valor": 0.94, "acumulado": 0.94},
+      {"data": "01/02/2015", "valor": 0.82, "acumulado": 1.76},
+      {"data": "01/03/2015", "valor": 1.04, "acumulado": 2.80},
+      {"data": "01/04/2015", "valor": 0.95, "acumulado": 3.75},
+      {"data": "01/05/2015", "valor": 0.99, "acumulado": 4.74},
+      {"data": "01/06/2015", "valor": 1.07, "acumulado": 5.81},
+      {"data": "01/07/2015", "valor": 1.18, "acumulado": 6.99},
+      {"data": "01/08/2015", "valor": 1.11, "acumulado": 8.10},
+      {"data": "01/09/2015", "valor": 1.11, "acumulado": 9.21},
+      {"data": "01/10/2015", "valor": 1.11, "acumulado": 10.32},
+      {"data": "01/11/2015", "valor": 1.06, "acumulado": 11.38},
+      {"data": "01/12/2015", "valor": 1.16, "acumulado": 12.54}
+    ],
+    "acumulado_anual": 13.27
+  },
+  {
+    "ano": 2014,
+    "dados": [
+      {"data": "01/01/2014", "valor": 0.85, "acumulado": 0.85},
+      {"data": "01/02/2014", "valor": 0.79, "acumulado": 1.64},
+      {"data": "01/03/2014", "valor": 0.77, "acumulado": 2.41},
+      {"data": "01/04/2014", "valor": 0.82, "acumulado": 3.23},
+      {"data": "01/05/2014", "valor": 0.87, "acumulado": 4.10},
+      {"data": "01/06/2014", "valor": 0.82, "acumulado": 4.92},
+      {"data": "01/07/2014", "valor": 0.95, "acumulado": 5.87},
+      {"data": "01/08/2014", "valor": 0.87, "acumulado": 6.74},
+      {"data": "01/09/2014", "valor": 0.91, "acumulado": 7.65},
+      {"data": "01/10/2014", "valor": 0.95, "acumulado": 8.60},
+      {"data": "01/11/2014", "valor": 0.84, "acumulado": 9.44},
+      {"data": "01/12/2014", "valor": 0.96, "acumulado": 10.40}
+    ],
+    "acumulado_anual": 10.90
+  },
+  {
+    "ano": 2013,
+    "dados": [
+      {"data": "01/01/2013", "valor": 0.60, "acumulado": 0.60},
+      {"data": "01/02/2013", "valor": 0.49, "acumulado": 1.09},
+      {"data": "01/03/2013", "valor": 0.55, "acumulado": 1.64},
+      {"data": "01/04/2013", "valor": 0.61, "acumulado": 2.25},
+      {"data": "01/05/2013", "valor": 0.60, "acumulado": 2.85},
+      {"data": "01/06/2013", "valor": 0.61, "acumulado": 3.46},
+      {"data": "01/07/2013", "valor": 0.72, "acumulado": 4.18},
+      {"data": "01/08/2013", "valor": 0.71, "acumulado": 4.89},
+      {"data": "01/09/2013", "valor": 0.71, "acumulado": 5.60},
+      {"data": "01/10/2013", "valor": 0.81, "acumulado": 6.41},
+      {"data": "01/11/2013", "valor": 0.72, "acumulado": 7.13},
+      {"data": "01/12/2013", "valor": 0.79, "acumulado": 7.92}
+    ],
+    "acumulado_anual": 8.22
+  },
+  {
+    "ano": 2012,
+    "dados": [
+      {"data": "01/01/2012", "valor": 0.89, "acumulado": 0.89},
+      {"data": "01/02/2012", "valor": 0.75, "acumulado": 1.64},
+      {"data": "01/03/2012", "valor": 0.82, "acumulado": 2.46},
+      {"data": "01/04/2012", "valor": 0.71, "acumulado": 3.17},
+      {"data": "01/05/2012", "valor": 0.74, "acumulado": 3.91},
+      {"data": "01/06/2012", "valor": 0.64, "acumulado": 4.55},
+      {"data": "01/07/2012", "valor": 0.68, "acumulado": 5.23},
+      {"data": "01/08/2012", "valor": 0.69, "acumulado": 5.92},
+      {"data": "01/09/2012", "valor": 0.54, "acumulado": 6.46},
+      {"data": "01/10/2012", "valor": 0.61, "acumulado": 7.07},
+      {"data": "01/11/2012", "valor": 0.55, "acumulado": 7.62},
+      {"data": "01/12/2012", "valor": 0.55, "acumulado": 8.17}
+    ],
+    "acumulado_anual": 8.49
+  },
+  {
+    "ano": 2011,
+    "dados": [
+      {"data": "01/01/2011", "valor": 0.86, "acumulado": 0.86},
+      {"data": "01/02/2011", "valor": 0.84, "acumulado": 1.70},
+      {"data": "01/03/2011", "valor": 0.92, "acumulado": 2.62},
+      {"data": "01/04/2011", "valor": 0.84, "acumulado": 3.46},
+      {"data": "01/05/2011", "valor": 0.99, "acumulado": 4.45},
+      {"data": "01/06/2011", "valor": 0.96, "acumulado": 5.41},
+      {"data": "01/07/2011", "valor": 0.97, "acumulado": 6.38},
+      {"data": "01/08/2011", "valor": 1.07, "acumulado": 7.45},
+      {"data": "01/09/2011", "valor": 0.94, "acumulado": 8.39},
+      {"data": "01/10/2011", "valor": 0.88, "acumulado": 9.27},
+      {"data": "01/11/2011", "valor": 0.86, "acumulado": 10.13},
+      {"data": "01/12/2011", "valor": 0.91, "acumulado": 11.04}
+    ],
+    "acumulado_anual": 11.62
+  },
+  {
+    "ano": 2010,
+    "dados": [
+      {"data": "01/01/2010", "valor": 0.66, "acumulado": 0.66},
+      {"data": "01/02/2010", "valor": 0.59, "acumulado": 1.25},
+      {"data": "01/03/2010", "valor": 0.76, "acumulado": 2.01},
+      {"data": "01/04/2010", "valor": 0.67, "acumulado": 2.68},
+      {"data": "01/05/2010", "valor": 0.75, "acumulado": 3.43},
+      {"data": "01/06/2010", "valor": 0.79, "acumulado": 4.22},
+      {"data": "01/07/2010", "valor": 0.86, "acumulado": 5.08},
+      {"data": "01/08/2010", "valor": 0.89, "acumulado": 5.97},
+      {"data": "01/09/2010", "valor": 0.85, "acumulado": 6.82},
+      {"data": "01/10/2010", "valor": 0.81, "acumulado": 7.63},
+      {"data": "01/11/2010", "valor": 0.81, "acumulado": 8.44},
+      {"data": "01/12/2010", "valor": 0.93, "acumulado": 9.37}
+    ],
+    "acumulado_anual": 9.78
+  },
+  {
+    "ano": 2009,
+    "dados": [
+      {"data": "01/01/2009", "valor": 1.05, "acumulado": 1.05},
+      {"data": "01/02/2009", "valor": 0.86, "acumulado": 1.91},
+      {"data": "01/03/2009", "valor": 0.97, "acumulado": 2.88},
+      {"data": "01/04/2009", "valor": 0.84, "acumulado": 3.72},
+      {"data": "01/05/2009", "valor": 0.89, "acumulado": 4.61},
+      {"data": "01/06/2009", "valor": 0.90, "acumulado": 5.51},
+      {"data": "01/07/2009", "valor": 0.97, "acumulado": 6.48},
+      {"data": "01/08/2009", "valor": 1.08, "acumulado": 7.56},
+      {"data": "01/09/2009", "valor": 0.99, "acumulado": 8.55},
+      {"data": "01/10/2009", "valor": 1.02, "acumulado": 9.57},
+      {"data": "01/11/2009", "valor": 0.93, "acumulado": 10.50},
+      {"data": "01/12/2009", "valor": 0.91, "acumulado": 11.41}
+    ],
+    "acumulado_anual": 12.21
+  },
+  {
+    "ano": 2008,
+    "dados": [
+      {"data": "01/01/2008", "valor": 0.76, "acumulado": 0.76},
+      {"data": "01/02/2008", "valor": 0.65, "acumulado": 1.41},
+      {"data": "01/03/2008", "valor": 0.72, "acumulado": 2.13},
+      {"data": "01/04/2008", "valor": 0.64, "acumulado": 2.77},
+      {"data": "01/05/2008", "valor": 0.66, "acumulado": 3.43},
+      {"data": "01/06/2008", "valor": 0.67, "acumulado": 4.10},
+      {"data": "01/07/2008", "valor": 0.72, "acumulado": 4.82},
+      {"data": "01/08/2008", "valor": 0.77, "acumulado": 5.59},
+      {"data": "01/09/2008", "valor": 0.67, "acumulado": 6.26},
+      {"data": "01/10/2008", "valor": 0.67, "acumulado": 6.93},
+      {"data": "01/11/2008", "valor": 0.60, "acumulado": 7.53},
+      {"data": "01/12/2008", "valor": 0.61, "acumulado": 8.14}
+    ],
+    "acumulado_anual": 8.60
+  },
+  {
+    "ano": 2007,
+    "dados": [
+      {"data": "01/01/2007", "valor": 0.83, "acumulado": 0.83},
+      {"data": "01/02/2007", "valor": 0.80, "acumulado": 1.63},
+      {"data": "01/03/2007", "valor": 0.84, "acumulado": 2.47},
+      {"data": "01/04/2007", "valor": 0.87, "acumulado": 3.34},
+      {"data": "01/05/2007", "valor": 0.89, "acumulado": 4.23},
+      {"data": "01/06/2007", "valor": 0.84, "acumulado": 5.07},
+      {"data": "01/07/2007", "valor": 0.96, "acumulado": 6.03},
+      {"data": "01/08/2007", "valor": 1.00, "acumulado": 7.03},
+      {"data": "01/09/2007", "valor": 0.92, "acumulado": 7.95},
+      {"data": "01/10/2007", "valor": 0.95, "acumulado": 8.90},
+      {"data": "01/11/2007", "valor": 0.86, "acumulado": 9.76},
+      {"data": "01/12/2007", "valor": 0.86, "acumulado": 10.62}
+    ],
+    "acumulado_anual": 11.25
+  },
+  {
+    "ano": 2006,
+    "dados": [
+      {"data": "01/01/2006", "valor": 0.99, "acumulado": 0.99},
+      {"data": "01/02/2006", "valor": 0.88, "acumulado": 1.87},
+      {"data": "01/03/2006", "valor": 0.94, "acumulado": 2.81},
+      {"data": "01/04/2006", "valor": 0.89, "acumulado": 3.70},
+      {"data": "01/05/2006", "valor": 0.91, "acumulado": 4.61},
+      {"data": "01/06/2006", "valor": 0.95, "acumulado": 5.56},
+      {"data": "01/07/2006", "valor": 0.93, "acumulado": 6.49},
+      {"data": "01/08/2006", "valor": 0.96, "acumulado": 7.45},
+      {"data": "01/09/2006", "valor": 0.90, "acumulado": 8.35},
+      {"data": "01/10/2006", "valor": 0.92, "acumulado": 9.27},
+      {"data": "01/11/2006", "valor": 0.82, "acumulado": 10.09},
+      {"data": "01/12/2006", "valor": 0.83, "acumulado": 10.92}
+    ],
+    "acumulado_anual": 11.30
+  }
+]
