@@ -1,5 +1,5 @@
 {
-  "Brasil": {
+  "Brasil": [
     "AL": {
       "Arapiraca": [
       "Alto do Cruzeiro",
@@ -15802,5 +15802,6 @@
       "Umuarama"
     ]
   }
-}
+ }
+]
 }
