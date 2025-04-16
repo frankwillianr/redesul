@@ -2,7 +2,7 @@
   {
     "grupo": "000057",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 23,
+    "parcela_atual": 22,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -320,7 +320,7 @@
   {
     "grupo": "000058",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 26,
+    "parcela_atual": 25,
     "prazo_total": 200,
     "taxa": 17.5,
     "fundo_reserva": 3.0,
@@ -614,7 +614,7 @@
   {
     "grupo": "000062",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 28,
+    "parcela_atual": 27,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -896,7 +896,7 @@
   {
     "grupo": "000066",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 30,
+    "parcela_atual": 29,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -986,7 +986,7 @@
   {
     "grupo": "000067",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 33,
+    "parcela_atual": 32,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -1304,7 +1304,7 @@
   {
     "grupo": "000069",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 31,
+    "parcela_atual": 30,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -1736,7 +1736,7 @@
   {
     "grupo": "000070",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 33,
+    "parcela_atual": 32,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -1826,7 +1826,7 @@
   {
     "grupo": "000071",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 34,
+    "parcela_atual": 33,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -1916,7 +1916,7 @@
   {
     "grupo": "000075",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 15,
+    "parcela_atual": 14,
     "prazo_total": 180,
     "taxa": 17.5,
     "fundo_reserva": 3.0,
@@ -2114,7 +2114,7 @@
   {
     "grupo": "000077",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 16,
+    "parcela_atual": 15,
     "prazo_total": 180,
     "taxa": 17.5,
     "fundo_reserva": 3.0,
@@ -2324,7 +2324,7 @@
   {
     "grupo": "000078",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 37,
+    "parcela_atual": 36,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -2756,7 +2756,7 @@
   {
     "grupo": "000079",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 38,
+    "parcela_atual": 37,
     "prazo_total": 200,
     "taxa": 17.5,
     "fundo_reserva": 3.0,
@@ -2864,7 +2864,7 @@
   {
     "grupo": "000081",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 39,
+    "parcela_atual": 38,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -3182,7 +3182,7 @@
   {
     "grupo": "000083",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 40,
+    "parcela_atual": 39,
     "prazo_total": 200,
     "taxa": 17.5,
     "fundo_reserva": 3.0,
@@ -3500,7 +3500,7 @@
   {
     "grupo": "000084",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 40,
+    "parcela_atual": 39,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -3818,7 +3818,7 @@
   {
     "grupo": "000087",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 40,
+    "parcela_atual": 39,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -4136,7 +4136,7 @@
   {
     "grupo": "000088",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 41,
+    "parcela_atual": 40,
     "prazo_total": 200,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -4454,7 +4454,7 @@
   {
     "grupo": "000094",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 35,
+    "parcela_atual": 34,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 3.0,
@@ -4490,7 +4490,7 @@
   {
     "grupo": "000095",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 35,
+    "parcela_atual": 34,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -4700,7 +4700,7 @@
   {
     "grupo": "000100",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 50,
+    "parcela_atual": 49,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -4910,7 +4910,7 @@
   {
     "grupo": "000101",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 50,
+    "parcela_atual": 49,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -5108,7 +5108,7 @@
   {
     "grupo": "000103",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 50,
+    "parcela_atual": 49,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -5318,7 +5318,7 @@
   {
     "grupo": "000104",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 51,
+    "parcela_atual": 50,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -5528,7 +5528,7 @@
   {
     "grupo": "000105",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 51,
+    "parcela_atual": 50,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -5738,7 +5738,7 @@
   {
     "grupo": "000106",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 52,
+    "parcela_atual": 51,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -6056,7 +6056,7 @@
   {
     "grupo": "000108",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 53,
+    "parcela_atual": 52,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -6266,7 +6266,7 @@
   {
     "grupo": "000109",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 53,
+    "parcela_atual": 52,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -6476,7 +6476,7 @@
   {
     "grupo": "000110",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 54,
+    "parcela_atual": 53,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -6794,7 +6794,7 @@
   {
     "grupo": "000111",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 54,
+    "parcela_atual": 53,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -7286,7 +7286,7 @@
   {
     "grupo": "000113",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 54,
+    "parcela_atual": 53,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -7778,7 +7778,7 @@
   {
     "grupo": "000114",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 54,
+    "parcela_atual": 53,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -8270,7 +8270,7 @@
   {
     "grupo": "000115",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 54,
+    "parcela_atual": 53,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -8762,7 +8762,7 @@
   {
     "grupo": "000116",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 55,
+    "parcela_atual": 54,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -9056,7 +9056,7 @@
   {
     "grupo": "000117",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 56,
+    "parcela_atual": 55,
     "prazo_total": 192,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -9380,7 +9380,7 @@
   {
     "grupo": "000118",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 57,
+    "parcela_atual": 56,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -9680,7 +9680,7 @@
   {
     "grupo": "000119",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 58,
+    "parcela_atual": 57,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -9980,7 +9980,7 @@
   {
     "grupo": "000121",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 61,
+    "parcela_atual": 60,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -10340,7 +10340,7 @@
   {
     "grupo": "000122",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 61,
+    "parcela_atual": 60,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -10700,7 +10700,7 @@
   {
     "grupo": "000123",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 62,
+    "parcela_atual": 61,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -11060,7 +11060,7 @@
   {
     "grupo": "000124",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 62,
+    "parcela_atual": 61,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -11420,7 +11420,7 @@
   {
     "grupo": "000125",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 62,
+    "parcela_atual": 61,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -11780,7 +11780,7 @@
   {
     "grupo": "000126",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 63,
+    "parcela_atual": 62,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -12050,7 +12050,7 @@
   {
     "grupo": "000127",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 63,
+    "parcela_atual": 62,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -12320,7 +12320,7 @@
   {
     "grupo": "000128",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 63,
+    "parcela_atual": 62,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -12590,7 +12590,7 @@
   {
     "grupo": "040001",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 74,
+    "parcela_atual": 73,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -12878,7 +12878,7 @@
   {
     "grupo": "040004",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 75,
+    "parcela_atual": 74,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -13166,7 +13166,7 @@
   {
     "grupo": "040005",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 75,
+    "parcela_atual": 74,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -13454,7 +13454,7 @@
   {
     "grupo": "040006",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 76,
+    "parcela_atual": 75,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -13850,7 +13850,7 @@
   {
     "grupo": "040007",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 76,
+    "parcela_atual": 75,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -14246,7 +14246,7 @@
   {
     "grupo": "040008",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 77,
+    "parcela_atual": 76,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -14642,7 +14642,7 @@
   {
     "grupo": "040009",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 78,
+    "parcela_atual": 77,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -15116,7 +15116,7 @@
   {
     "grupo": "040010",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 79,
+    "parcela_atual": 78,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -15524,7 +15524,7 @@
   {
     "grupo": "040011",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 81,
+    "parcela_atual": 80,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -15812,7 +15812,7 @@
   {
     "grupo": "040012",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 87,
+    "parcela_atual": 86,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -16208,7 +16208,7 @@
   {
     "grupo": "040022",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 102,
+    "parcela_atual": 101,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -16496,7 +16496,7 @@
   {
     "grupo": "040023",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 103,
+    "parcela_atual": 102,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -16784,7 +16784,7 @@
   {
     "grupo": "040024",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 104,
+    "parcela_atual": 103,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 3.0,
@@ -17072,7 +17072,7 @@
   {
     "grupo": "040025",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 108,
+    "parcela_atual": 107,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -17252,7 +17252,7 @@
   {
     "grupo": "040026",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 108,
+    "parcela_atual": 107,
     "prazo_total": 192,
     "taxa": 13.0,
     "fundo_reserva": 2.0,
@@ -17312,7 +17312,7 @@
   {
     "grupo": "040027",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 108,
+    "parcela_atual": 107,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -17492,7 +17492,7 @@
   {
     "grupo": "040028",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 108,
+    "parcela_atual": 107,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -17672,7 +17672,7 @@
   {
     "grupo": "040029",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 110,
+    "parcela_atual": 109,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -17942,7 +17942,7 @@
   {
     "grupo": "040030",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 112,
+    "parcela_atual": 111,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -18212,7 +18212,7 @@
   {
     "grupo": "040031",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 113,
+    "parcela_atual": 112,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -18482,7 +18482,7 @@
   {
     "grupo": "040032",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 114,
+    "parcela_atual": 113,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -18662,7 +18662,7 @@
   {
     "grupo": "040033",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 114,
+    "parcela_atual": 113,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -18842,7 +18842,7 @@
   {
     "grupo": "040034",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 115,
+    "parcela_atual": 114,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -19112,7 +19112,7 @@
   {
     "grupo": "040035",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 115,
+    "parcela_atual": 114,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -19382,7 +19382,7 @@
   {
     "grupo": "040036",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 116,
+    "parcela_atual": 115,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -19610,7 +19610,7 @@
   {
     "grupo": "040037",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 116,
+    "parcela_atual": 115,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -19868,7 +19868,7 @@
   {
     "grupo": "040038",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 118,
+    "parcela_atual": 117,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -20078,7 +20078,7 @@
   {
     "grupo": "040039",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 117,
+    "parcela_atual": 116,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -20426,7 +20426,7 @@
   {
     "grupo": "040040",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 117,
+    "parcela_atual": 116,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -20774,7 +20774,7 @@
   {
     "grupo": "040041",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 118,
+    "parcela_atual": 117,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -21032,7 +21032,7 @@
   {
     "grupo": "040042",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 118,
+    "parcela_atual": 117,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -21260,7 +21260,7 @@
   {
     "grupo": "040043",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 118,
+    "parcela_atual": 117,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -21518,7 +21518,7 @@
   {
     "grupo": "040044",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 119,
+    "parcela_atual": 118,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -21746,7 +21746,7 @@
   {
     "grupo": "040045",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 119,
+    "parcela_atual": 118,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -22004,7 +22004,7 @@
   {
     "grupo": "040046",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 120,
+    "parcela_atual": 119,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -22352,7 +22352,7 @@
   {
     "grupo": "040047",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 120,
+    "parcela_atual": 119,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -22700,7 +22700,7 @@
   {
     "grupo": "040048",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 121,
+    "parcela_atual": 120,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -22958,7 +22958,7 @@
   {
     "grupo": "040050",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 121,
+    "parcela_atual": 120,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -23216,7 +23216,7 @@
   {
     "grupo": "040051",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 122,
+    "parcela_atual": 121,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -23474,7 +23474,7 @@
   {
     "grupo": "040052",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 122,
+    "parcela_atual": 121,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -23774,7 +23774,7 @@
   {
     "grupo": "040053",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 123,
+    "parcela_atual": 122,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -24122,7 +24122,7 @@
   {
     "grupo": "040055",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 124,
+    "parcela_atual": 123,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -24380,7 +24380,7 @@
   {
     "grupo": "040056",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 172,
+    "parcela_atual": 171,
     "prazo_total": 240,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -24548,7 +24548,7 @@
   {
     "grupo": "040057",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 125,
+    "parcela_atual": 124,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -24806,7 +24806,7 @@
   {
     "grupo": "040058",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 174,
+    "parcela_atual": 173,
     "prazo_total": 240,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -25052,7 +25052,7 @@
   {
     "grupo": "040059",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 126,
+    "parcela_atual": 125,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -25352,7 +25352,7 @@
   {
     "grupo": "040060",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 127,
+    "parcela_atual": 126,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -25580,7 +25580,7 @@
   {
     "grupo": "040061",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 127,
+    "parcela_atual": 126,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -25838,7 +25838,7 @@
   {
     "grupo": "040062",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 128,
+    "parcela_atual": 127,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -26066,7 +26066,7 @@
   {
     "grupo": "040063",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 129,
+    "parcela_atual": 128,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -26324,7 +26324,7 @@
   {
     "grupo": "040064",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 129,
+    "parcela_atual": 128,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -26372,7 +26372,7 @@
   {
     "grupo": "040065",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 130,
+    "parcela_atual": 129,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -26720,7 +26720,7 @@
   {
     "grupo": "040066",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 130,
+    "parcela_atual": 129,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -26852,7 +26852,7 @@
   {
     "grupo": "040067",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 130,
+    "parcela_atual": 129,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -27200,7 +27200,7 @@
   {
     "grupo": "040068",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 130,
+    "parcela_atual": 129,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -27332,7 +27332,7 @@
   {
     "grupo": "040069",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 131,
+    "parcela_atual": 130,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -27680,7 +27680,7 @@
   {
     "grupo": "040070",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 131,
+    "parcela_atual": 130,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -27812,7 +27812,7 @@
   {
     "grupo": "040071",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 131,
+    "parcela_atual": 130,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -28160,7 +28160,7 @@
   {
     "grupo": "040072",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 132,
+    "parcela_atual": 131,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -28316,7 +28316,7 @@
   {
     "grupo": "040073",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 132,
+    "parcela_atual": 131,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -28598,7 +28598,7 @@
   {
     "grupo": "040074",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 133,
+    "parcela_atual": 132,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -28724,7 +28724,7 @@
   {
     "grupo": "040075",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 132,
+    "parcela_atual": 131,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -29120,7 +29120,7 @@
   {
     "grupo": "040076",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 134,
+    "parcela_atual": 133,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -29402,7 +29402,7 @@
   {
     "grupo": "040079",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 138,
+    "parcela_atual": 137,
     "prazo_total": 192,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -29864,7 +29864,7 @@
   {
     "grupo": "040080",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 139,
+    "parcela_atual": 138,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -30014,7 +30014,7 @@
   {
     "grupo": "040081",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 140,
+    "parcela_atual": 139,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -30116,7 +30116,7 @@
   {
     "grupo": "040082",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 140,
+    "parcela_atual": 139,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -30248,7 +30248,7 @@
   {
     "grupo": "040083",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 140,
+    "parcela_atual": 139,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -30734,7 +30734,7 @@
   {
     "grupo": "040084",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 141,
+    "parcela_atual": 140,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -30866,7 +30866,7 @@
   {
     "grupo": "040085",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 141,
+    "parcela_atual": 140,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -31352,7 +31352,7 @@
   {
     "grupo": "040087",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 141,
+    "parcela_atual": 140,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -31748,7 +31748,7 @@
   {
     "grupo": "040088",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 141,
+    "parcela_atual": 140,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -31952,7 +31952,7 @@
   {
     "grupo": "040089",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 142,
+    "parcela_atual": 141,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -32084,7 +32084,7 @@
   {
     "grupo": "040090",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 190,
+    "parcela_atual": 189,
     "prazo_total": 240,
     "taxa": 20.0,
     "fundo_reserva": 2.0,
@@ -32228,7 +32228,7 @@
   {
     "grupo": "040091",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 143,
+    "parcela_atual": 142,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -32714,7 +32714,7 @@
   {
     "grupo": "040092",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 142,
+    "parcela_atual": 141,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -32996,7 +32996,7 @@
   {
     "grupo": "040093",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 142,
+    "parcela_atual": 141,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -33128,7 +33128,7 @@
   {
     "grupo": "040094",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 190,
+    "parcela_atual": 189,
     "prazo_total": 240,
     "taxa": 20.0,
     "fundo_reserva": 2.0,
@@ -33272,7 +33272,7 @@
   {
     "grupo": "040095",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 143,
+    "parcela_atual": 142,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -33476,7 +33476,7 @@
   {
     "grupo": "040096",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 142,
+    "parcela_atual": 141,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -33746,7 +33746,7 @@
   {
     "grupo": "040097",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 143,
+    "parcela_atual": 142,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -34130,7 +34130,7 @@
   {
     "grupo": "040098",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 191,
+    "parcela_atual": 190,
     "prazo_total": 240,
     "taxa": 14.0,
     "fundo_reserva": 2.0,
@@ -34250,7 +34250,7 @@
   {
     "grupo": "040099",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 144,
+    "parcela_atual": 143,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -34736,7 +34736,7 @@
   {
     "grupo": "040101",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 143,
+    "parcela_atual": 142,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -34940,7 +34940,7 @@
   {
     "grupo": "040102",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 143,
+    "parcela_atual": 142,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -35324,7 +35324,7 @@
   {
     "grupo": "040103",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 144,
+    "parcela_atual": 143,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -35708,7 +35708,7 @@
   {
     "grupo": "040104",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 144,
+    "parcela_atual": 143,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -35840,7 +35840,7 @@
   {
     "grupo": "040105",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 193,
+    "parcela_atual": 192,
     "prazo_total": 240,
     "taxa": 20.0,
     "fundo_reserva": 2.0,
@@ -36038,7 +36038,7 @@
   {
     "grupo": "040106",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 144,
+    "parcela_atual": 143,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -36308,7 +36308,7 @@
   {
     "grupo": "040107",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 145,
+    "parcela_atual": 144,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -36716,7 +36716,7 @@
   {
     "grupo": "040109",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 145,
+    "parcela_atual": 144,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -37100,7 +37100,7 @@
   {
     "grupo": "040110",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 145,
+    "parcela_atual": 144,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -37232,7 +37232,7 @@
   {
     "grupo": "040111",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 145,
+    "parcela_atual": 144,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -37616,7 +37616,7 @@
   {
     "grupo": "040112",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 195,
+    "parcela_atual": 194,
     "prazo_total": 240,
     "taxa": 20.0,
     "fundo_reserva": 2.0,
@@ -37814,7 +37814,7 @@
   {
     "grupo": "040113",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 146,
+    "parcela_atual": 145,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -38198,7 +38198,7 @@
   {
     "grupo": "040114",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 146,
+    "parcela_atual": 145,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -38402,7 +38402,7 @@
   {
     "grupo": "040115",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 146,
+    "parcela_atual": 145,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -38786,7 +38786,7 @@
   {
     "grupo": "040116",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 146,
+    "parcela_atual": 145,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -39056,7 +39056,7 @@
   {
     "grupo": "040117",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 147,
+    "parcela_atual": 146,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -39134,7 +39134,7 @@
   {
     "grupo": "040118",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 147,
+    "parcela_atual": 146,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -39404,7 +39404,7 @@
   {
     "grupo": "040119",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 148,
+    "parcela_atual": 147,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -39668,7 +39668,7 @@
   {
     "grupo": "040120",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 196,
+    "parcela_atual": 195,
     "prazo_total": 240,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -39884,7 +39884,7 @@
   {
     "grupo": "040121",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 147,
+    "parcela_atual": 146,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -40082,7 +40082,7 @@
   {
     "grupo": "040123",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 148,
+    "parcela_atual": 147,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -40160,7 +40160,7 @@
   {
     "grupo": "040124",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 148,
+    "parcela_atual": 147,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -40430,7 +40430,7 @@
   {
     "grupo": "040126",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 149,
+    "parcela_atual": 148,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -40508,7 +40508,7 @@
   {
     "grupo": "040127",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 149,
+    "parcela_atual": 148,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -40778,7 +40778,7 @@
   {
     "grupo": "040128",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 198,
+    "parcela_atual": 197,
     "prazo_total": 240,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -40994,7 +40994,7 @@
   {
     "grupo": "040129",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 150,
+    "parcela_atual": 149,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -41366,7 +41366,7 @@
   {
     "grupo": "040130",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 149,
+    "parcela_atual": 148,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -41444,7 +41444,7 @@
   {
     "grupo": "040131",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 149,
+    "parcela_atual": 148,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -41714,7 +41714,7 @@
   {
     "grupo": "040132",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 150,
+    "parcela_atual": 149,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -41792,7 +41792,7 @@
   {
     "grupo": "040133",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 150,
+    "parcela_atual": 149,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -42062,7 +42062,7 @@
   {
     "grupo": "040134",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 199,
+    "parcela_atual": 198,
     "prazo_total": 240,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -42278,7 +42278,7 @@
   {
     "grupo": "040135",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 151,
+    "parcela_atual": 150,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -42428,7 +42428,7 @@
   {
     "grupo": "040137",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 152,
+    "parcela_atual": 151,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -42692,7 +42692,7 @@
   {
     "grupo": "040138",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 151,
+    "parcela_atual": 150,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -42794,7 +42794,7 @@
   {
     "grupo": "040139",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 151,
+    "parcela_atual": 150,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -43064,7 +43064,7 @@
   {
     "grupo": "040140",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 200,
+    "parcela_atual": 199,
     "prazo_total": 240,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -43184,7 +43184,7 @@
   {
     "grupo": "040141",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 152,
+    "parcela_atual": 151,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -43334,7 +43334,7 @@
   {
     "grupo": "040142",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 152,
+    "parcela_atual": 151,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -43604,7 +43604,7 @@
   {
     "grupo": "040143",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 154,
+    "parcela_atual": 153,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -43868,7 +43868,7 @@
   {
     "grupo": "040144",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 153,
+    "parcela_atual": 152,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -44138,7 +44138,7 @@
   {
     "grupo": "040145",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 153,
+    "parcela_atual": 152,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -44288,7 +44288,7 @@
   {
     "grupo": "040146",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 201,
+    "parcela_atual": 200,
     "prazo_total": 240,
     "taxa": 15.0,
     "fundo_reserva": 2.0,
@@ -44354,7 +44354,7 @@
   {
     "grupo": "040147",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 154,
+    "parcela_atual": 153,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -44636,7 +44636,7 @@
   {
     "grupo": "040148",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 154,
+    "parcela_atual": 153,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -44786,7 +44786,7 @@
   {
     "grupo": "040149",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 203,
+    "parcela_atual": 202,
     "prazo_total": 240,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -45002,7 +45002,7 @@
   {
     "grupo": "040150",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 155,
+    "parcela_atual": 154,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -45272,7 +45272,7 @@
   {
     "grupo": "040151",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 156,
+    "parcela_atual": 155,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -45350,7 +45350,7 @@
   {
     "grupo": "040152",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 156,
+    "parcela_atual": 155,
     "prazo_total": 192,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -45596,7 +45596,7 @@
   {
     "grupo": "040153",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 204,
+    "parcela_atual": 203,
     "prazo_total": 240,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -45812,7 +45812,7 @@
   {
     "grupo": "040154",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 156,
+    "parcela_atual": 155,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -46094,7 +46094,7 @@
   {
     "grupo": "040155",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 156,
+    "parcela_atual": 155,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -46244,7 +46244,7 @@
   {
     "grupo": "040156",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 156,
+    "parcela_atual": 155,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -46514,7 +46514,7 @@
   {
     "grupo": "040157",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 205,
+    "parcela_atual": 204,
     "prazo_total": 240,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -46730,7 +46730,7 @@
   {
     "grupo": "040158",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 158,
+    "parcela_atual": 157,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -47090,7 +47090,7 @@
   {
     "grupo": "040159",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 157,
+    "parcela_atual": 156,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -47372,7 +47372,7 @@
   {
     "grupo": "040160",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 157,
+    "parcela_atual": 156,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -47498,7 +47498,7 @@
   {
     "grupo": "040161",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 206,
+    "parcela_atual": 205,
     "prazo_total": 240,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -47714,7 +47714,7 @@
   {
     "grupo": "040162",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 158,
+    "parcela_atual": 157,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -47984,7 +47984,7 @@
   {
     "grupo": "040163",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 158,
+    "parcela_atual": 157,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -48086,7 +48086,7 @@
   {
     "grupo": "040164",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 159,
+    "parcela_atual": 158,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -48356,7 +48356,7 @@
   {
     "grupo": "040166",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 160,
+    "parcela_atual": 159,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -48458,7 +48458,7 @@
   {
     "grupo": "040167",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 161,
+    "parcela_atual": 160,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -48560,7 +48560,7 @@
   {
     "grupo": "040168",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 160,
+    "parcela_atual": 159,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -48830,7 +48830,7 @@
   {
     "grupo": "040169",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 208,
+    "parcela_atual": 207,
     "prazo_total": 240,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -49046,7 +49046,7 @@
   {
     "grupo": "040170",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 160,
+    "parcela_atual": 159,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -49406,7 +49406,7 @@
   {
     "grupo": "040171",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 209,
+    "parcela_atual": 208,
     "prazo_total": 240,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -49622,7 +49622,7 @@
   {
     "grupo": "040172",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 162,
+    "parcela_atual": 161,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -49706,7 +49706,7 @@
   {
     "grupo": "040173",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 161,
+    "parcela_atual": 160,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -49910,7 +49910,7 @@
   {
     "grupo": "040174",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 210,
+    "parcela_atual": 209,
     "prazo_total": 240,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -50126,7 +50126,7 @@
   {
     "grupo": "040175",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 162,
+    "parcela_atual": 161,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -50324,7 +50324,7 @@
   {
     "grupo": "040176",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 163,
+    "parcela_atual": 162,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -50522,7 +50522,7 @@
   {
     "grupo": "040177",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 211,
+    "parcela_atual": 210,
     "prazo_total": 240,
     "taxa": 23.0,
     "fundo_reserva": 2.0,
@@ -50738,7 +50738,7 @@
   {
     "grupo": "040179",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 163,
+    "parcela_atual": 162,
     "prazo_total": 192,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -50804,7 +50804,7 @@
   {
     "grupo": "040180",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 163,
+    "parcela_atual": 162,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -50936,7 +50936,7 @@
   {
     "grupo": "040181",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 164,
+    "parcela_atual": 163,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -51140,7 +51140,7 @@
   {
     "grupo": "040182",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 165,
+    "parcela_atual": 164,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -51386,7 +51386,7 @@
   {
     "grupo": "040183",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 165,
+    "parcela_atual": 164,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -51590,7 +51590,7 @@
   {
     "grupo": "040186",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 175,
+    "parcela_atual": 174,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -51674,7 +51674,7 @@
   {
     "grupo": "040187",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 176,
+    "parcela_atual": 175,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -51776,7 +51776,7 @@
   {
     "grupo": "040188",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 224,
+    "parcela_atual": 223,
     "prazo_total": 240,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -51842,7 +51842,7 @@
   {
     "grupo": "040190",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 177,
+    "parcela_atual": 176,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -51926,7 +51926,7 @@
   {
     "grupo": "040194",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 178,
+    "parcela_atual": 177,
     "prazo_total": 192,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -51944,7 +51944,7 @@
   {
     "grupo": "040195",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 226,
+    "parcela_atual": 225,
     "prazo_total": 240,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -52010,7 +52010,7 @@
   {
     "grupo": "040196",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 178,
+    "parcela_atual": 177,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 2.0,
@@ -52064,7 +52064,7 @@
   {
     "grupo": "040199",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 184,
+    "parcela_atual": 183,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 3.0,
@@ -52130,7 +52130,7 @@
   {
     "grupo": "040200",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 185,
+    "parcela_atual": 184,
     "prazo_total": 192,
     "taxa": 25.0,
     "fundo_reserva": 3.0,
@@ -52196,7 +52196,7 @@
   {
     "grupo": "040201",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 233,
+    "parcela_atual": 232,
     "prazo_total": 240,
     "taxa": 20.0,
     "fundo_reserva": 3.0,
@@ -52226,7 +52226,7 @@
   {
     "grupo": "040205",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 237,
+    "parcela_atual": 236,
     "prazo_total": 240,
     "taxa": 20.0,
     "fundo_reserva": 3.0,
@@ -52250,7 +52250,7 @@
   {
     "grupo": "040206",
     "segmento": "Imóveis em Andamento",
-    "parcela_atual": 238,
+    "parcela_atual": 237,
     "prazo_total": 240,
     "taxa": 20.0,
     "fundo_reserva": 3.0,
@@ -52274,7 +52274,7 @@
   {
     "grupo": "020234",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 7,
+    "parcela_atual": 6,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -52430,7 +52430,7 @@
   {
     "grupo": "020237",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 7,
+    "parcela_atual": 6,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -52574,7 +52574,7 @@
   {
     "grupo": "020239",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 7,
+    "parcela_atual": 6,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -52718,7 +52718,7 @@
   {
     "grupo": "020241",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 8,
+    "parcela_atual": 7,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -52862,7 +52862,7 @@
   {
     "grupo": "020243",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 8,
+    "parcela_atual": 7,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -53006,7 +53006,7 @@
   {
     "grupo": "020246",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 8,
+    "parcela_atual": 7,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -53150,7 +53150,7 @@
   {
     "grupo": "020248",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 8,
+    "parcela_atual": 7,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -53294,7 +53294,7 @@
   {
     "grupo": "020250",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 9,
+    "parcela_atual": 8,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -53462,7 +53462,7 @@
   {
     "grupo": "020253",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 9,
+    "parcela_atual": 8,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -53630,7 +53630,7 @@
   {
     "grupo": "020254",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 9,
+    "parcela_atual": 8,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -53798,7 +53798,7 @@
   {
     "grupo": "020255",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 9,
+    "parcela_atual": 8,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -53888,7 +53888,7 @@
   {
     "grupo": "020257",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 10,
+    "parcela_atual": 9,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -53936,7 +53936,7 @@
   {
     "grupo": "020264",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 11,
+    "parcela_atual": 10,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -54104,7 +54104,7 @@
   {
     "grupo": "020265",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 13,
+    "parcela_atual": 12,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -54284,7 +54284,7 @@
   {
     "grupo": "020267",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 11,
+    "parcela_atual": 10,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -54374,7 +54374,7 @@
   {
     "grupo": "020279",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 33,
+    "parcela_atual": 32,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -54428,7 +54428,7 @@
   {
     "grupo": "020286",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 34,
+    "parcela_atual": 33,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -54560,7 +54560,7 @@
   {
     "grupo": "020288",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 34,
+    "parcela_atual": 33,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -54692,7 +54692,7 @@
   {
     "grupo": "020290",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 34,
+    "parcela_atual": 33,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -54764,7 +54764,7 @@
   {
     "grupo": "020291",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 35,
+    "parcela_atual": 34,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -54896,7 +54896,7 @@
   {
     "grupo": "020294",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 35,
+    "parcela_atual": 34,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -55028,7 +55028,7 @@
   {
     "grupo": "020295",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 35,
+    "parcela_atual": 34,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -55160,7 +55160,7 @@
   {
     "grupo": "020296",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 36,
+    "parcela_atual": 35,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -55292,7 +55292,7 @@
   {
     "grupo": "020299",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 8,
+    "parcela_atual": 7,
     "prazo_total": 72,
     "taxa": 19.0,
     "fundo_reserva": 2.0,
@@ -55634,7 +55634,7 @@
   {
     "grupo": "020300",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 36,
+    "parcela_atual": 35,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -55766,7 +55766,7 @@
   {
     "grupo": "020301",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 37,
+    "parcela_atual": 36,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -55898,7 +55898,7 @@
   {
     "grupo": "020305",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 10,
+    "parcela_atual": 9,
     "prazo_total": 72,
     "taxa": 19.0,
     "fundo_reserva": 2.0,
@@ -55988,7 +55988,7 @@
   {
     "grupo": "020307",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 37,
+    "parcela_atual": 36,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -56120,7 +56120,7 @@
   {
     "grupo": "020320",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 11,
+    "parcela_atual": 10,
     "prazo_total": 72,
     "taxa": 19.0,
     "fundo_reserva": 2.0,
@@ -56216,7 +56216,7 @@
   {
     "grupo": "020321",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 38,
+    "parcela_atual": 37,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -56312,7 +56312,7 @@
   {
     "grupo": "020324",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 39,
+    "parcela_atual": 38,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -56408,7 +56408,7 @@
   {
     "grupo": "020335",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 13,
+    "parcela_atual": 12,
     "prazo_total": 72,
     "taxa": 19.0,
     "fundo_reserva": 2.0,
@@ -56480,7 +56480,7 @@
   {
     "grupo": "020370",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 49,
+    "parcela_atual": 48,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -56660,7 +56660,7 @@
   {
     "grupo": "020375",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 50,
+    "parcela_atual": 49,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -56756,7 +56756,7 @@
   {
     "grupo": "020377",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 30,
+    "parcela_atual": 29,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -57188,7 +57188,7 @@
   {
     "grupo": "020384",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 31,
+    "parcela_atual": 30,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -57680,7 +57680,7 @@
   {
     "grupo": "020386",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 31,
+    "parcela_atual": 30,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -57776,7 +57776,7 @@
   {
     "grupo": "020387",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 51,
+    "parcela_atual": 50,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -57872,7 +57872,7 @@
   {
     "grupo": "020393",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 52,
+    "parcela_atual": 51,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -57968,7 +57968,7 @@
   {
     "grupo": "020401",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 53,
+    "parcela_atual": 52,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -58064,7 +58064,7 @@
   {
     "grupo": "020403",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 33,
+    "parcela_atual": 32,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -58118,7 +58118,7 @@
   {
     "grupo": "020406",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 54,
+    "parcela_atual": 53,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -58214,7 +58214,7 @@
   {
     "grupo": "020408",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 34,
+    "parcela_atual": 33,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -58274,7 +58274,7 @@
   {
     "grupo": "020409",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 34,
+    "parcela_atual": 33,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -58358,7 +58358,7 @@
   {
     "grupo": "020418",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 55,
+    "parcela_atual": 54,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -58400,7 +58400,7 @@
   {
     "grupo": "020419",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 55,
+    "parcela_atual": 54,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -58418,7 +58418,7 @@
   {
     "grupo": "020425",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 36,
+    "parcela_atual": 35,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -58502,7 +58502,7 @@
   {
     "grupo": "020431",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 56,
+    "parcela_atual": 55,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -58520,7 +58520,7 @@
   {
     "grupo": "020432",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 56,
+    "parcela_atual": 55,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -58562,7 +58562,7 @@
   {
     "grupo": "020433",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 37,
+    "parcela_atual": 36,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -58646,7 +58646,7 @@
   {
     "grupo": "020434",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 56,
+    "parcela_atual": 55,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -58664,7 +58664,7 @@
   {
     "grupo": "020436",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 37,
+    "parcela_atual": 36,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -58724,7 +58724,7 @@
   {
     "grupo": "020437",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 57,
+    "parcela_atual": 56,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -58772,7 +58772,7 @@
   {
     "grupo": "020438",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 56,
+    "parcela_atual": 55,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -58790,7 +58790,7 @@
   {
     "grupo": "020443",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 57,
+    "parcela_atual": 56,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -58862,7 +58862,7 @@
   {
     "grupo": "020447",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 58,
+    "parcela_atual": 57,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 2.0,
@@ -58952,7 +58952,7 @@
   {
     "grupo": "020450",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 58,
+    "parcela_atual": 57,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -59024,7 +59024,7 @@
   {
     "grupo": "020452",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 38,
+    "parcela_atual": 37,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -59192,7 +59192,7 @@
   {
     "grupo": "020453",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 57,
+    "parcela_atual": 56,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -59210,7 +59210,7 @@
   {
     "grupo": "020457",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 38,
+    "parcela_atual": 37,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -59294,7 +59294,7 @@
   {
     "grupo": "020458",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 58,
+    "parcela_atual": 57,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -59366,7 +59366,7 @@
   {
     "grupo": "020461",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 40,
+    "parcela_atual": 39,
     "prazo_total": 80,
     "taxa": 15.0,
     "fundo_reserva": 2.0,
@@ -59564,7 +59564,7 @@
   {
     "grupo": "020462",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 38,
+    "parcela_atual": 37,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -59732,7 +59732,7 @@
   {
     "grupo": "020467",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 39,
+    "parcela_atual": 38,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -59816,7 +59816,7 @@
   {
     "grupo": "020468",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 59,
+    "parcela_atual": 58,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -59888,7 +59888,7 @@
   {
     "grupo": "020471",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 39,
+    "parcela_atual": 38,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -60056,7 +60056,7 @@
   {
     "grupo": "020474",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 60,
+    "parcela_atual": 59,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -60128,7 +60128,7 @@
   {
     "grupo": "020481",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 60,
+    "parcela_atual": 59,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -60200,7 +60200,7 @@
   {
     "grupo": "020485",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 41,
+    "parcela_atual": 40,
     "prazo_total": 80,
     "taxa": 15.0,
     "fundo_reserva": 2.0,
@@ -60338,7 +60338,7 @@
   {
     "grupo": "020486",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 61,
+    "parcela_atual": 60,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -60410,7 +60410,7 @@
   {
     "grupo": "020487",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 61,
+    "parcela_atual": 60,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -60482,7 +60482,7 @@
   {
     "grupo": "020491",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 41,
+    "parcela_atual": 40,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -60542,7 +60542,7 @@
   {
     "grupo": "020492",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 61,
+    "parcela_atual": 60,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -60560,7 +60560,7 @@
   {
     "grupo": "020493",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 61,
+    "parcela_atual": 60,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -60578,7 +60578,7 @@
   {
     "grupo": "020494",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 43,
+    "parcela_atual": 42,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -60662,7 +60662,7 @@
   {
     "grupo": "020496",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 10,
+    "parcela_atual": 9,
     "prazo_total": 48,
     "taxa": 12.0,
     "fundo_reserva": 2.0,
@@ -60740,7 +60740,7 @@
   {
     "grupo": "020497",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 42,
+    "parcela_atual": 41,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -60800,7 +60800,7 @@
   {
     "grupo": "020498",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 62,
+    "parcela_atual": 61,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -60872,7 +60872,7 @@
   {
     "grupo": "020503",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 62,
+    "parcela_atual": 61,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -60944,7 +60944,7 @@
   {
     "grupo": "020504",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 62,
+    "parcela_atual": 61,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -60962,7 +60962,7 @@
   {
     "grupo": "020506",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 43,
+    "parcela_atual": 42,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -61022,7 +61022,7 @@
   {
     "grupo": "020507",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 44,
+    "parcela_atual": 43,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -61106,7 +61106,7 @@
   {
     "grupo": "020509",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 63,
+    "parcela_atual": 62,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -61148,7 +61148,7 @@
   {
     "grupo": "020512",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 12,
+    "parcela_atual": 11,
     "prazo_total": 48,
     "taxa": 12.0,
     "fundo_reserva": 2.0,
@@ -61244,7 +61244,7 @@
   {
     "grupo": "020513",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 44,
+    "parcela_atual": 43,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -61304,7 +61304,7 @@
   {
     "grupo": "020517",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 64,
+    "parcela_atual": 63,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -61400,7 +61400,7 @@
   {
     "grupo": "020522",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 13,
+    "parcela_atual": 12,
     "prazo_total": 48,
     "taxa": 12.0,
     "fundo_reserva": 2.0,
@@ -61496,7 +61496,7 @@
   {
     "grupo": "020523",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 45,
+    "parcela_atual": 44,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -61556,7 +61556,7 @@
   {
     "grupo": "020527",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 65,
+    "parcela_atual": 64,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -61652,7 +61652,7 @@
   {
     "grupo": "020530",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 13,
+    "parcela_atual": 12,
     "prazo_total": 48,
     "taxa": 12.0,
     "fundo_reserva": 2.0,
@@ -61706,7 +61706,7 @@
   {
     "grupo": "020535",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 66,
+    "parcela_atual": 65,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -61778,7 +61778,7 @@
   {
     "grupo": "020546",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 67,
+    "parcela_atual": 66,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -61814,7 +61814,7 @@
   {
     "grupo": "020554",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 48,
+    "parcela_atual": 47,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -61862,7 +61862,7 @@
   {
     "grupo": "020555",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 67,
+    "parcela_atual": 66,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -61934,7 +61934,7 @@
   {
     "grupo": "020570",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 69,
+    "parcela_atual": 68,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 2.0,
@@ -62054,7 +62054,7 @@
   {
     "grupo": "020606",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 72,
+    "parcela_atual": 71,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -62096,7 +62096,7 @@
   {
     "grupo": "020608",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 72,
+    "parcela_atual": 71,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 2.0,
@@ -62186,7 +62186,7 @@
   {
     "grupo": "020612",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 53,
+    "parcela_atual": 52,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -62222,7 +62222,7 @@
   {
     "grupo": "020613",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 72,
+    "parcela_atual": 71,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -62264,7 +62264,7 @@
   {
     "grupo": "020616",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 73,
+    "parcela_atual": 72,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 2.0,
@@ -62384,7 +62384,7 @@
   {
     "grupo": "020617",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 73,
+    "parcela_atual": 72,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -62426,7 +62426,7 @@
   {
     "grupo": "020618",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 22,
+    "parcela_atual": 21,
     "prazo_total": 48,
     "taxa": 12.0,
     "fundo_reserva": 2.0,
@@ -62480,7 +62480,7 @@
   {
     "grupo": "020621",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 73,
+    "parcela_atual": 72,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 2.0,
@@ -62564,7 +62564,7 @@
   {
     "grupo": "020624",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 55,
+    "parcela_atual": 54,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -62600,7 +62600,7 @@
   {
     "grupo": "020626",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 54,
+    "parcela_atual": 53,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -62642,7 +62642,7 @@
   {
     "grupo": "020628",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 74,
+    "parcela_atual": 73,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 2.0,
@@ -62732,7 +62732,7 @@
   {
     "grupo": "020631",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 74,
+    "parcela_atual": 73,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -62768,7 +62768,7 @@
   {
     "grupo": "020633",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 74,
+    "parcela_atual": 73,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 2.0,
@@ -62894,7 +62894,7 @@
   {
     "grupo": "020639",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 75,
+    "parcela_atual": 74,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 2.0,
@@ -62936,7 +62936,7 @@
   {
     "grupo": "020640",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 36,
+    "parcela_atual": 35,
     "prazo_total": 60,
     "taxa": 15.0,
     "fundo_reserva": 2.0,
@@ -62984,7 +62984,7 @@
   {
     "grupo": "020646",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 76,
+    "parcela_atual": 75,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -63026,7 +63026,7 @@
   {
     "grupo": "020647",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 76,
+    "parcela_atual": 75,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 2.0,
@@ -63116,7 +63116,7 @@
   {
     "grupo": "050000",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 73,
+    "parcela_atual": 72,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -63134,7 +63134,7 @@
   {
     "grupo": "050004",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 78,
+    "parcela_atual": 77,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -63152,7 +63152,7 @@
   {
     "grupo": "050008",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 77,
+    "parcela_atual": 76,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 2.0,
@@ -63284,7 +63284,7 @@
   {
     "grupo": "050012",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 78,
+    "parcela_atual": 77,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 2.0,
@@ -63416,7 +63416,7 @@
   {
     "grupo": "050014",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 78,
+    "parcela_atual": 77,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -63482,7 +63482,7 @@
   {
     "grupo": "050022",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 79,
+    "parcela_atual": 78,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 2.0,
@@ -63614,7 +63614,7 @@
   {
     "grupo": "050025",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 79,
+    "parcela_atual": 78,
     "prazo_total": 100,
     "taxa": 24.0,
     "fundo_reserva": 2.0,
@@ -63680,7 +63680,7 @@
   {
     "grupo": "050027",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 61,
+    "parcela_atual": 60,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 2.0,
@@ -63734,7 +63734,7 @@
   {
     "grupo": "050030",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 30,
+    "parcela_atual": 29,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -63764,7 +63764,7 @@
   {
     "grupo": "050032",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 61,
+    "parcela_atual": 60,
     "prazo_total": 80,
     "taxa": 20.0,
     "fundo_reserva": 3.0,
@@ -63806,7 +63806,7 @@
   {
     "grupo": "050033",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 81,
+    "parcela_atual": 80,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 3.0,
@@ -63848,7 +63848,7 @@
   {
     "grupo": "050034",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 29,
+    "parcela_atual": 28,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -63920,7 +63920,7 @@
   {
     "grupo": "050035",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 61,
+    "parcela_atual": 60,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 3.0,
@@ -63986,7 +63986,7 @@
   {
     "grupo": "050036",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 81,
+    "parcela_atual": 80,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -64124,7 +64124,7 @@
   {
     "grupo": "050038",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 82,
+    "parcela_atual": 81,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -64202,7 +64202,7 @@
   {
     "grupo": "050039",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 30,
+    "parcela_atual": 29,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -64232,7 +64232,7 @@
   {
     "grupo": "050040",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 82,
+    "parcela_atual": 81,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 3.0,
@@ -64250,7 +64250,7 @@
   {
     "grupo": "050041",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 30,
+    "parcela_atual": 29,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -64322,7 +64322,7 @@
   {
     "grupo": "050042",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 62,
+    "parcela_atual": 61,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 3.0,
@@ -64388,7 +64388,7 @@
   {
     "grupo": "050043",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 62,
+    "parcela_atual": 61,
     "prazo_total": 80,
     "taxa": 20.0,
     "fundo_reserva": 3.0,
@@ -64430,7 +64430,7 @@
   {
     "grupo": "050044",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 62,
+    "parcela_atual": 61,
     "prazo_total": 80,
     "taxa": 20.0,
     "fundo_reserva": 3.0,
@@ -64472,7 +64472,7 @@
   {
     "grupo": "050047",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 82,
+    "parcela_atual": 81,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 3.0,
@@ -64514,7 +64514,7 @@
   {
     "grupo": "050048",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 82,
+    "parcela_atual": 81,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -64592,7 +64592,7 @@
   {
     "grupo": "050049",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 82,
+    "parcela_atual": 81,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 3.0,
@@ -64634,7 +64634,7 @@
   {
     "grupo": "050050",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 30,
+    "parcela_atual": 29,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -64700,7 +64700,7 @@
   {
     "grupo": "050052",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 63,
+    "parcela_atual": 62,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 3.0,
@@ -64766,7 +64766,7 @@
   {
     "grupo": "050053",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 31,
+    "parcela_atual": 30,
     "prazo_total": 48,
     "taxa": 10.0,
     "fundo_reserva": 3.0,
@@ -64820,7 +64820,7 @@
   {
     "grupo": "050054",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 83,
+    "parcela_atual": 82,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -64958,7 +64958,7 @@
   {
     "grupo": "050055",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 83,
+    "parcela_atual": 82,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -65036,7 +65036,7 @@
   {
     "grupo": "050056",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 43,
+    "parcela_atual": 42,
     "prazo_total": 60,
     "taxa": 16.0,
     "fundo_reserva": 3.0,
@@ -65090,7 +65090,7 @@
   {
     "grupo": "050057",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 83,
+    "parcela_atual": 82,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 3.0,
@@ -65132,7 +65132,7 @@
   {
     "grupo": "050058",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 31,
+    "parcela_atual": 30,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -65198,7 +65198,7 @@
   {
     "grupo": "050060",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 83,
+    "parcela_atual": 82,
     "prazo_total": 100,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -65336,7 +65336,7 @@
   {
     "grupo": "050061",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 83,
+    "parcela_atual": 82,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 3.0,
@@ -65378,7 +65378,7 @@
   {
     "grupo": "050063",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 32,
+    "parcela_atual": 31,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -65408,7 +65408,7 @@
   {
     "grupo": "050064",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 31,
+    "parcela_atual": 30,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -65474,7 +65474,7 @@
   {
     "grupo": "050065",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 64,
+    "parcela_atual": 63,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 3.0,
@@ -65540,7 +65540,7 @@
   {
     "grupo": "050066",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 84,
+    "parcela_atual": 83,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -65618,7 +65618,7 @@
   {
     "grupo": "050068",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 84,
+    "parcela_atual": 83,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -65756,7 +65756,7 @@
   {
     "grupo": "050069",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 33,
+    "parcela_atual": 32,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -65822,7 +65822,7 @@
   {
     "grupo": "050072",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 33,
+    "parcela_atual": 32,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -65888,7 +65888,7 @@
   {
     "grupo": "050073",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 33,
+    "parcela_atual": 32,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -65918,7 +65918,7 @@
   {
     "grupo": "050080",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 66,
+    "parcela_atual": 65,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 3.0,
@@ -65984,7 +65984,7 @@
   {
     "grupo": "050081",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 86,
+    "parcela_atual": 85,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -66062,7 +66062,7 @@
   {
     "grupo": "050082",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 66,
+    "parcela_atual": 65,
     "prazo_total": 80,
     "taxa": 20.0,
     "fundo_reserva": 3.0,
@@ -66104,7 +66104,7 @@
   {
     "grupo": "050084",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 46,
+    "parcela_atual": 45,
     "prazo_total": 60,
     "taxa": 16.0,
     "fundo_reserva": 3.0,
@@ -66158,7 +66158,7 @@
   {
     "grupo": "050085",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 34,
+    "parcela_atual": 33,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -66188,7 +66188,7 @@
   {
     "grupo": "050086",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 46,
+    "parcela_atual": 45,
     "prazo_total": 60,
     "taxa": 16.0,
     "fundo_reserva": 3.0,
@@ -66272,7 +66272,7 @@
   {
     "grupo": "050087",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 86,
+    "parcela_atual": 85,
     "prazo_total": 100,
     "taxa": 12.0,
     "fundo_reserva": 3.0,
@@ -66410,7 +66410,7 @@
   {
     "grupo": "050090",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 86,
+    "parcela_atual": 85,
     "prazo_total": 100,
     "taxa": 22.0,
     "fundo_reserva": 3.0,
@@ -66464,7 +66464,7 @@
   {
     "grupo": "050091",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 66,
+    "parcela_atual": 65,
     "prazo_total": 80,
     "taxa": 20.0,
     "fundo_reserva": 3.0,
@@ -66506,7 +66506,7 @@
   {
     "grupo": "050092",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 86,
+    "parcela_atual": 85,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -66584,7 +66584,7 @@
   {
     "grupo": "050100",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 69,
+    "parcela_atual": 68,
     "prazo_total": 80,
     "taxa": 18.0,
     "fundo_reserva": 3.0,
@@ -66650,7 +66650,7 @@
   {
     "grupo": "050103",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 38,
+    "parcela_atual": 37,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -66680,7 +66680,7 @@
   {
     "grupo": "050107",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 91,
+    "parcela_atual": 90,
     "prazo_total": 100,
     "taxa": 20.0,
     "fundo_reserva": 3.0,
@@ -66818,7 +66818,7 @@
   {
     "grupo": "050109",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 94,
+    "parcela_atual": 93,
     "prazo_total": 100,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -66836,7 +66836,7 @@
   {
     "grupo": "050110",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 73,
+    "parcela_atual": 72,
     "prazo_total": 80,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -66908,7 +66908,7 @@
   {
     "grupo": "050111",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 93,
+    "parcela_atual": 92,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -66986,7 +66986,7 @@
   {
     "grupo": "050112",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 93,
+    "parcela_atual": 92,
     "prazo_total": 100,
     "taxa": 30.0,
     "fundo_reserva": 3.0,
@@ -67028,7 +67028,7 @@
   {
     "grupo": "050114",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 93,
+    "parcela_atual": 92,
     "prazo_total": 100,
     "taxa": 20.0,
     "fundo_reserva": 3.0,
@@ -67160,7 +67160,7 @@
   {
     "grupo": "050115",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 94,
+    "parcela_atual": 93,
     "prazo_total": 100,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -67238,7 +67238,7 @@
   {
     "grupo": "050116",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 43,
+    "parcela_atual": 42,
     "prazo_total": 48,
     "taxa": 15.0,
     "fundo_reserva": 3.0,
@@ -67316,7 +67316,7 @@
   {
     "grupo": "050117",
     "segmento": "Veículos em Andamento",
-    "parcela_atual": 96,
+    "parcela_atual": 95,
     "prazo_total": 100,
     "taxa": 17.0,
     "fundo_reserva": 3.0,
@@ -67394,7 +67394,7 @@
   {
     "grupo": "020515",
     "segmento": "Pesados em Andamento",
-    "parcela_atual": 65,
+    "parcela_atual": 64,
     "prazo_total": 100,
     "taxa": 15.0,
     "fundo_reserva": 2.0,
@@ -67424,7 +67424,7 @@
   {
     "grupo": "020533",
     "segmento": "Pesados em Andamento",
-    "parcela_atual": 67,
+    "parcela_atual": 66,
     "prazo_total": 100,
     "taxa": 20.0,
     "fundo_reserva": 2.0,
@@ -67532,7 +67532,7 @@
   {
     "grupo": "020562",
     "segmento": "Pesados em Andamento",
-    "parcela_atual": 69,
+    "parcela_atual": 68,
     "prazo_total": 100,
     "taxa": 20.0,
     "fundo_reserva": 2.0,
@@ -67640,7 +67640,7 @@
   {
     "grupo": "020601",
     "segmento": "Pesados em Andamento",
-    "parcela_atual": 72,
+    "parcela_atual": 71,
     "prazo_total": 100,
     "taxa": 20.0,
     "fundo_reserva": 2.0,
@@ -67772,7 +67772,7 @@
   {
     "grupo": "020476",
     "segmento": "Motos em Andamento",
-    "parcela_atual": 40,
+    "parcela_atual": 39,
     "prazo_total": 80,
     "taxa": 22.0,
     "fundo_reserva": 2.0,
