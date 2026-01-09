@@ -88294,5 +88294,4112 @@
         "parcela_maxima": 898.67
       }
     ]
+  },
+  {
+    "grupo": "I0513",
+    "segmento": "Imóveis em Formação (Embutido, fixo)",
+    "parcela_atual": 200,
+    "prazo_total": 200,
+    "taxa": 17.5,
+    "fundo_reserva": 2.0,
+    "cotas_total": "123",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 600.000,00",
+        "credito": 600000.0,
+        "parcela_minima": 2915.46,
+        "parcela_maxima": 2915.46
+      },
+      {
+        "cota": "Imóvel - R$ 650.000,00",
+        "credito": 650000.0,
+        "parcela_minima": 3158.42,
+        "parcela_maxima": 3158.42
+      },
+      {
+        "cota": "Imóvel - R$ 700.000,00",
+        "credito": 700000.0,
+        "parcela_minima": 3401.37,
+        "parcela_maxima": 3401.37
+      },
+      {
+        "cota": "Imóvel - R$ 750.000,00",
+        "credito": 750000.0,
+        "parcela_minima": 3644.33,
+        "parcela_maxima": 3644.33
+      },
+      {
+        "cota": "Imóvel - R$ 800.000,00",
+        "credito": 800000.0,
+        "parcela_minima": 3887.28,
+        "parcela_maxima": 3887.28
+      },
+      {
+        "cota": "Imóvel - R$ 850.000,00",
+        "credito": 850000.0,
+        "parcela_minima": 4130.24,
+        "parcela_maxima": 4130.24
+      },
+      {
+        "cota": "Imóvel - R$ 900.000,00",
+        "credito": 900000.0,
+        "parcela_minima": 4373.19,
+        "parcela_maxima": 4373.19
+      }
+    ]
+  },
+  {
+    "grupo": "I0520",
+    "segmento": "Imóveis em Formação (Embutido, fixo)",
+    "parcela_atual": 200,
+    "prazo_total": 200,
+    "taxa": 21.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "715",
+    "administradora": "porto",
+    "cotas": []
+  },
+  {
+    "grupo": "I0522",
+    "segmento": "Imóveis em Formação (Embutido, fixo)",
+    "parcela_atual": 200,
+    "prazo_total": 200,
+    "taxa": 19.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "809",
+    "administradora": "porto",
+    "cotas": []
+  },
+  {
+    "grupo": "I0525",
+    "segmento": "Imóveis em Formação (Embutido, fixo)",
+    "parcela_atual": 200,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "260",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1378.38,
+        "parcela_maxima": 1378.38
+      },
+      {
+        "cota": "Imóvel - R$ 290.000,00",
+        "credito": 290000.0,
+        "parcela_minima": 1427.61,
+        "parcela_maxima": 1427.61
+      },
+      {
+        "cota": "Imóvel - R$ 300.000,00",
+        "credito": 300000.0,
+        "parcela_minima": 1476.84,
+        "parcela_maxima": 1476.84
+      },
+      {
+        "cota": "Imóvel - R$ 310.000,00",
+        "credito": 310000.0,
+        "parcela_minima": 1526.07,
+        "parcela_maxima": 1526.07
+      },
+      {
+        "cota": "Imóvel - R$ 320.000,00",
+        "credito": 320000.0,
+        "parcela_minima": 1575.3,
+        "parcela_maxima": 1575.3
+      },
+      {
+        "cota": "Imóvel - R$ 330.000,00",
+        "credito": 330000.0,
+        "parcela_minima": 1624.52,
+        "parcela_maxima": 1624.52
+      },
+      {
+        "cota": "Imóvel - R$ 340.000,00",
+        "credito": 340000.0,
+        "parcela_minima": 1673.75,
+        "parcela_maxima": 1673.75
+      },
+      {
+        "cota": "Imóvel - R$ 350.000,00",
+        "credito": 350000.0,
+        "parcela_minima": 1722.98,
+        "parcela_maxima": 1722.98
+      },
+      {
+        "cota": "Imóvel - R$ 360.000,00",
+        "credito": 360000.0,
+        "parcela_minima": 1772.21,
+        "parcela_maxima": 1772.21
+      },
+      {
+        "cota": "Imóvel - R$ 370.000,00",
+        "credito": 370000.0,
+        "parcela_minima": 1821.44,
+        "parcela_maxima": 1821.44
+      },
+      {
+        "cota": "Imóvel - R$ 380.000,00",
+        "credito": 380000.0,
+        "parcela_minima": 1870.66,
+        "parcela_maxima": 1870.66
+      },
+      {
+        "cota": "Imóvel - R$ 400.000,00",
+        "credito": 400000.0,
+        "parcela_minima": 1969.12,
+        "parcela_maxima": 1969.12
+      },
+      {
+        "cota": "Imóvel - R$ 420.000,00",
+        "credito": 420000.0,
+        "parcela_minima": 2067.58,
+        "parcela_maxima": 2067.58
+      },
+      {
+        "cota": "Imóvel - R$ 430.000,00",
+        "credito": 430000.0,
+        "parcela_minima": 2116.8,
+        "parcela_maxima": 2116.8
+      },
+      {
+        "cota": "Imóvel - R$ 440.000,00",
+        "credito": 440000.0,
+        "parcela_minima": 2166.03,
+        "parcela_maxima": 2166.03
+      },
+      {
+        "cota": "Imóvel - R$ 450.000,00",
+        "credito": 450000.0,
+        "parcela_minima": 2215.26,
+        "parcela_maxima": 2215.26
+      },
+      {
+        "cota": "Imóvel - R$ 460.000,00",
+        "credito": 460000.0,
+        "parcela_minima": 2264.49,
+        "parcela_maxima": 2264.49
+      },
+      {
+        "cota": "Imóvel - R$ 470.000,00",
+        "credito": 470000.0,
+        "parcela_minima": 2313.72,
+        "parcela_maxima": 2313.72
+      },
+      {
+        "cota": "Imóvel - R$ 480.000,00",
+        "credito": 480000.0,
+        "parcela_minima": 2362.94,
+        "parcela_maxima": 2362.94
+      },
+      {
+        "cota": "Imóvel - R$ 500.000,00",
+        "credito": 500000.0,
+        "parcela_minima": 2461.4,
+        "parcela_maxima": 2461.4
+      },
+      {
+        "cota": "Imóvel - R$ 510.000,00",
+        "credito": 510000.0,
+        "parcela_minima": 2510.63,
+        "parcela_maxima": 2510.63
+      },
+      {
+        "cota": "Imóvel - R$ 520.000,00",
+        "credito": 520000.0,
+        "parcela_minima": 2559.86,
+        "parcela_maxima": 2559.86
+      },
+      {
+        "cota": "Imóvel - R$ 540.000,00",
+        "credito": 540000.0,
+        "parcela_minima": 2658.31,
+        "parcela_maxima": 2658.31
+      },
+      {
+        "cota": "Imóvel - R$ 550.000,00",
+        "credito": 550000.0,
+        "parcela_minima": 2707.54,
+        "parcela_maxima": 2707.54
+      },
+      {
+        "cota": "Imóvel - R$ 560.000,00",
+        "credito": 560000.0,
+        "parcela_minima": 2756.77,
+        "parcela_maxima": 2756.77
+      }
+    ]
+  },
+  {
+    "grupo": "I0526",
+    "segmento": "Imóveis em Formação (Embutido, fixo)",
+    "parcela_atual": 200,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "788",
+    "administradora": "porto",
+    "cotas": []
+  },
+  {
+    "grupo": "I0315",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 171,
+    "prazo_total": 200,
+    "taxa": 19.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "31",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 154.045,12",
+        "credito": 154045.12,
+        "parcela_minima": 884.59,
+        "parcela_maxima": 884.59
+      },
+      {
+        "cota": "Imóvel - R$ 165.048,35",
+        "credito": 165048.35,
+        "parcela_minima": 947.77,
+        "parcela_maxima": 947.77
+      },
+      {
+        "cota": "Imóvel - R$ 176.051,57",
+        "credito": 176051.57,
+        "parcela_minima": 1010.96,
+        "parcela_maxima": 1010.96
+      },
+      {
+        "cota": "Imóvel - R$ 187.054,79",
+        "credito": 187054.79,
+        "parcela_minima": 1074.14,
+        "parcela_maxima": 1074.14
+      },
+      {
+        "cota": "Imóvel - R$ 198.058,01",
+        "credito": 198058.01,
+        "parcela_minima": 1137.32,
+        "parcela_maxima": 1137.32
+      },
+      {
+        "cota": "Imóvel - R$ 209.061,24",
+        "credito": 209061.24,
+        "parcela_minima": 1200.52,
+        "parcela_maxima": 1200.52
+      },
+      {
+        "cota": "Imóvel - R$ 220.064,46",
+        "credito": 220064.46,
+        "parcela_minima": 1263.7,
+        "parcela_maxima": 1263.7
+      },
+      {
+        "cota": "Imóvel - R$ 231.067,68",
+        "credito": 231067.68,
+        "parcela_minima": 1326.88,
+        "parcela_maxima": 1326.88
+      },
+      {
+        "cota": "Imóvel - R$ 242.070,91",
+        "credito": 242070.91,
+        "parcela_minima": 1390.06,
+        "parcela_maxima": 1390.06
+      },
+      {
+        "cota": "Imóvel - R$ 253.074,13",
+        "credito": 253074.13,
+        "parcela_minima": 1453.25,
+        "parcela_maxima": 1453.25
+      },
+      {
+        "cota": "Imóvel - R$ 264.077,35",
+        "credito": 264077.35,
+        "parcela_minima": 1516.44,
+        "parcela_maxima": 1516.44
+      },
+      {
+        "cota": "Imóvel - R$ 275.080,58",
+        "credito": 275080.58,
+        "parcela_minima": 1579.62,
+        "parcela_maxima": 1579.62
+      },
+      {
+        "cota": "Imóvel - R$ 286.083,80",
+        "credito": 286083.8,
+        "parcela_minima": 1642.82,
+        "parcela_maxima": 1642.82
+      },
+      {
+        "cota": "Imóvel - R$ 297.087,02",
+        "credito": 297087.02,
+        "parcela_minima": 1706.0,
+        "parcela_maxima": 1706.0
+      }
+    ]
+  },
+  {
+    "grupo": "I0316",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 171,
+    "prazo_total": 200,
+    "taxa": 19.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "16",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 154.045,12",
+        "credito": 154045.12,
+        "parcela_minima": 884.59,
+        "parcela_maxima": 884.59
+      },
+      {
+        "cota": "Imóvel - R$ 165.048,35",
+        "credito": 165048.35,
+        "parcela_minima": 947.77,
+        "parcela_maxima": 947.77
+      },
+      {
+        "cota": "Imóvel - R$ 176.051,57",
+        "credito": 176051.57,
+        "parcela_minima": 1010.96,
+        "parcela_maxima": 1010.96
+      },
+      {
+        "cota": "Imóvel - R$ 187.054,79",
+        "credito": 187054.79,
+        "parcela_minima": 1074.14,
+        "parcela_maxima": 1074.14
+      },
+      {
+        "cota": "Imóvel - R$ 198.058,01",
+        "credito": 198058.01,
+        "parcela_minima": 1137.32,
+        "parcela_maxima": 1137.32
+      },
+      {
+        "cota": "Imóvel - R$ 209.061,24",
+        "credito": 209061.24,
+        "parcela_minima": 1200.52,
+        "parcela_maxima": 1200.52
+      },
+      {
+        "cota": "Imóvel - R$ 220.064,46",
+        "credito": 220064.46,
+        "parcela_minima": 1263.7,
+        "parcela_maxima": 1263.7
+      },
+      {
+        "cota": "Imóvel - R$ 231.067,68",
+        "credito": 231067.68,
+        "parcela_minima": 1326.88,
+        "parcela_maxima": 1326.88
+      },
+      {
+        "cota": "Imóvel - R$ 242.070,91",
+        "credito": 242070.91,
+        "parcela_minima": 1390.06,
+        "parcela_maxima": 1390.06
+      },
+      {
+        "cota": "Imóvel - R$ 253.074,13",
+        "credito": 253074.13,
+        "parcela_minima": 1453.25,
+        "parcela_maxima": 1453.25
+      },
+      {
+        "cota": "Imóvel - R$ 264.077,35",
+        "credito": 264077.35,
+        "parcela_minima": 1516.44,
+        "parcela_maxima": 1516.44
+      },
+      {
+        "cota": "Imóvel - R$ 275.080,58",
+        "credito": 275080.58,
+        "parcela_minima": 1579.62,
+        "parcela_maxima": 1579.62
+      },
+      {
+        "cota": "Imóvel - R$ 286.083,80",
+        "credito": 286083.8,
+        "parcela_minima": 1642.82,
+        "parcela_maxima": 1642.82
+      },
+      {
+        "cota": "Imóvel - R$ 297.087,02",
+        "credito": 297087.02,
+        "parcela_minima": 1706.0,
+        "parcela_maxima": 1706.0
+      }
+    ]
+  },
+  {
+    "grupo": "I0317",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 171,
+    "prazo_total": 200,
+    "taxa": 21.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "13",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 77.022,56",
+        "credito": 77022.56,
+        "parcela_minima": 449.66,
+        "parcela_maxima": 449.66
+      },
+      {
+        "cota": "Imóvel - R$ 82.524,18",
+        "credito": 82524.18,
+        "parcela_minima": 481.78,
+        "parcela_maxima": 481.78
+      },
+      {
+        "cota": "Imóvel - R$ 88.025,78",
+        "credito": 88025.78,
+        "parcela_minima": 513.89,
+        "parcela_maxima": 513.89
+      },
+      {
+        "cota": "Imóvel - R$ 93.527,40",
+        "credito": 93527.4,
+        "parcela_minima": 546.02,
+        "parcela_maxima": 546.02
+      },
+      {
+        "cota": "Imóvel - R$ 99.029,01",
+        "credito": 99029.01,
+        "parcela_minima": 578.14,
+        "parcela_maxima": 578.14
+      },
+      {
+        "cota": "Imóvel - R$ 104.530,62",
+        "credito": 104530.62,
+        "parcela_minima": 610.24,
+        "parcela_maxima": 610.24
+      },
+      {
+        "cota": "Imóvel - R$ 110.032,23",
+        "credito": 110032.23,
+        "parcela_minima": 642.37,
+        "parcela_maxima": 642.37
+      },
+      {
+        "cota": "Imóvel - R$ 115.533,85",
+        "credito": 115533.85,
+        "parcela_minima": 674.49,
+        "parcela_maxima": 674.49
+      },
+      {
+        "cota": "Imóvel - R$ 121.035,45",
+        "credito": 121035.45,
+        "parcela_minima": 706.6,
+        "parcela_maxima": 706.6
+      },
+      {
+        "cota": "Imóvel - R$ 126.537,07",
+        "credito": 126537.07,
+        "parcela_minima": 738.73,
+        "parcela_maxima": 738.73
+      },
+      {
+        "cota": "Imóvel - R$ 132.038,68",
+        "credito": 132038.68,
+        "parcela_minima": 770.85,
+        "parcela_maxima": 770.85
+      },
+      {
+        "cota": "Imóvel - R$ 137.540,29",
+        "credito": 137540.29,
+        "parcela_minima": 802.97,
+        "parcela_maxima": 802.97
+      },
+      {
+        "cota": "Imóvel - R$ 143.041,90",
+        "credito": 143041.9,
+        "parcela_minima": 835.07,
+        "parcela_maxima": 835.07
+      },
+      {
+        "cota": "Imóvel - R$ 148.543,52",
+        "credito": 148543.52,
+        "parcela_minima": 867.2,
+        "parcela_maxima": 867.2
+      }
+    ]
+  },
+  {
+    "grupo": "I0318",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 172,
+    "prazo_total": 200,
+    "taxa": 21.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "57",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 77.152,78",
+        "credito": 77152.78,
+        "parcela_minima": 447.96,
+        "parcela_maxima": 447.96
+      },
+      {
+        "cota": "Imóvel - R$ 82.663,69",
+        "credito": 82663.69,
+        "parcela_minima": 479.95,
+        "parcela_maxima": 479.95
+      },
+      {
+        "cota": "Imóvel - R$ 88.174,60",
+        "credito": 88174.6,
+        "parcela_minima": 511.94,
+        "parcela_maxima": 511.94
+      },
+      {
+        "cota": "Imóvel - R$ 93.685,52",
+        "credito": 93685.52,
+        "parcela_minima": 543.94,
+        "parcela_maxima": 543.94
+      },
+      {
+        "cota": "Imóvel - R$ 99.196,43",
+        "credito": 99196.43,
+        "parcela_minima": 575.94,
+        "parcela_maxima": 575.94
+      },
+      {
+        "cota": "Imóvel - R$ 104.707,34",
+        "credito": 104707.34,
+        "parcela_minima": 607.94,
+        "parcela_maxima": 607.94
+      },
+      {
+        "cota": "Imóvel - R$ 110.218,26",
+        "credito": 110218.26,
+        "parcela_minima": 639.93,
+        "parcela_maxima": 639.93
+      },
+      {
+        "cota": "Imóvel - R$ 115.729,17",
+        "credito": 115729.17,
+        "parcela_minima": 671.92,
+        "parcela_maxima": 671.92
+      },
+      {
+        "cota": "Imóvel - R$ 121.240,08",
+        "credito": 121240.08,
+        "parcela_minima": 703.93,
+        "parcela_maxima": 703.93
+      },
+      {
+        "cota": "Imóvel - R$ 126.750,99",
+        "credito": 126750.99,
+        "parcela_minima": 735.92,
+        "parcela_maxima": 735.92
+      },
+      {
+        "cota": "Imóvel - R$ 132.261,91",
+        "credito": 132261.91,
+        "parcela_minima": 767.91,
+        "parcela_maxima": 767.91
+      },
+      {
+        "cota": "Imóvel - R$ 137.772,82",
+        "credito": 137772.82,
+        "parcela_minima": 799.91,
+        "parcela_maxima": 799.91
+      },
+      {
+        "cota": "Imóvel - R$ 143.283,73",
+        "credito": 143283.73,
+        "parcela_minima": 831.9,
+        "parcela_maxima": 831.9
+      },
+      {
+        "cota": "Imóvel - R$ 148.794,65",
+        "credito": 148794.65,
+        "parcela_minima": 863.9,
+        "parcela_maxima": 863.9
+      }
+    ]
+  },
+  {
+    "grupo": "I0332",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 179,
+    "prazo_total": 200,
+    "taxa": 21.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "20",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 73.913,00",
+        "credito": 73913.0,
+        "parcela_minima": 413.91,
+        "parcela_maxima": 413.91
+      },
+      {
+        "cota": "Imóvel - R$ 79.192,50",
+        "credito": 79192.5,
+        "parcela_minima": 443.48,
+        "parcela_maxima": 443.48
+      },
+      {
+        "cota": "Imóvel - R$ 84.472,00",
+        "credito": 84472.0,
+        "parcela_minima": 473.03,
+        "parcela_maxima": 473.03
+      },
+      {
+        "cota": "Imóvel - R$ 89.751,50",
+        "credito": 89751.5,
+        "parcela_minima": 502.6,
+        "parcela_maxima": 502.6
+      },
+      {
+        "cota": "Imóvel - R$ 95.031,00",
+        "credito": 95031.0,
+        "parcela_minima": 532.17,
+        "parcela_maxima": 532.17
+      },
+      {
+        "cota": "Imóvel - R$ 100.310,50",
+        "credito": 100310.5,
+        "parcela_minima": 561.74,
+        "parcela_maxima": 561.74
+      },
+      {
+        "cota": "Imóvel - R$ 105.590,00",
+        "credito": 105590.0,
+        "parcela_minima": 591.3,
+        "parcela_maxima": 591.3
+      },
+      {
+        "cota": "Imóvel - R$ 110.869,50",
+        "credito": 110869.5,
+        "parcela_minima": 620.86,
+        "parcela_maxima": 620.86
+      },
+      {
+        "cota": "Imóvel - R$ 116.149,00",
+        "credito": 116149.0,
+        "parcela_minima": 650.43,
+        "parcela_maxima": 650.43
+      },
+      {
+        "cota": "Imóvel - R$ 121.428,50",
+        "credito": 121428.5,
+        "parcela_minima": 680.0,
+        "parcela_maxima": 680.0
+      },
+      {
+        "cota": "Imóvel - R$ 126.708,00",
+        "credito": 126708.0,
+        "parcela_minima": 709.57,
+        "parcela_maxima": 709.57
+      },
+      {
+        "cota": "Imóvel - R$ 131.987,50",
+        "credito": 131987.5,
+        "parcela_minima": 739.12,
+        "parcela_maxima": 739.12
+      },
+      {
+        "cota": "Imóvel - R$ 137.267,00",
+        "credito": 137267.0,
+        "parcela_minima": 768.69,
+        "parcela_maxima": 768.69
+      },
+      {
+        "cota": "Imóvel - R$ 142.546,50",
+        "credito": 142546.5,
+        "parcela_minima": 798.26,
+        "parcela_maxima": 798.26
+      },
+      {
+        "cota": "Imóvel - R$ 147.826,00",
+        "credito": 147826.0,
+        "parcela_minima": 827.83,
+        "parcela_maxima": 827.83
+      }
+    ]
+  },
+  {
+    "grupo": "I0354",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 181,
+    "prazo_total": 200,
+    "taxa": 21.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "72",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 73.871,00",
+        "credito": 73871.0,
+        "parcela_minima": 409.47,
+        "parcela_maxima": 409.47
+      },
+      {
+        "cota": "Imóvel - R$ 79.147,50",
+        "credito": 79147.5,
+        "parcela_minima": 438.72,
+        "parcela_maxima": 438.72
+      },
+      {
+        "cota": "Imóvel - R$ 84.424,00",
+        "credito": 84424.0,
+        "parcela_minima": 467.96,
+        "parcela_maxima": 467.96
+      },
+      {
+        "cota": "Imóvel - R$ 89.700,50",
+        "credito": 89700.5,
+        "parcela_minima": 497.22,
+        "parcela_maxima": 497.22
+      },
+      {
+        "cota": "Imóvel - R$ 94.977,00",
+        "credito": 94977.0,
+        "parcela_minima": 526.46,
+        "parcela_maxima": 526.46
+      },
+      {
+        "cota": "Imóvel - R$ 100.253,50",
+        "credito": 100253.5,
+        "parcela_minima": 555.7,
+        "parcela_maxima": 555.7
+      },
+      {
+        "cota": "Imóvel - R$ 105.530,00",
+        "credito": 105530.0,
+        "parcela_minima": 584.95,
+        "parcela_maxima": 584.95
+      },
+      {
+        "cota": "Imóvel - R$ 110.806,50",
+        "credito": 110806.5,
+        "parcela_minima": 614.2,
+        "parcela_maxima": 614.2
+      },
+      {
+        "cota": "Imóvel - R$ 116.083,00",
+        "credito": 116083.0,
+        "parcela_minima": 643.45,
+        "parcela_maxima": 643.45
+      },
+      {
+        "cota": "Imóvel - R$ 121.359,50",
+        "credito": 121359.5,
+        "parcela_minima": 672.7,
+        "parcela_maxima": 672.7
+      },
+      {
+        "cota": "Imóvel - R$ 126.636,00",
+        "credito": 126636.0,
+        "parcela_minima": 701.94,
+        "parcela_maxima": 701.94
+      },
+      {
+        "cota": "Imóvel - R$ 131.912,50",
+        "credito": 131912.5,
+        "parcela_minima": 731.19,
+        "parcela_maxima": 731.19
+      },
+      {
+        "cota": "Imóvel - R$ 137.189,00",
+        "credito": 137189.0,
+        "parcela_minima": 760.44,
+        "parcela_maxima": 760.44
+      },
+      {
+        "cota": "Imóvel - R$ 142.465,50",
+        "credito": 142465.5,
+        "parcela_minima": 789.68,
+        "parcela_maxima": 789.68
+      },
+      {
+        "cota": "Imóvel - R$ 147.742,00",
+        "credito": 147742.0,
+        "parcela_minima": 818.93,
+        "parcela_maxima": 818.93
+      }
+    ]
+  },
+  {
+    "grupo": "I0355",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 179,
+    "prazo_total": 200,
+    "taxa": 19.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "28",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 147.826,00",
+        "credito": 147826.0,
+        "parcela_minima": 814.43,
+        "parcela_maxima": 814.43
+      },
+      {
+        "cota": "Imóvel - R$ 158.385,00",
+        "credito": 158385.0,
+        "parcela_minima": 872.61,
+        "parcela_maxima": 872.61
+      },
+      {
+        "cota": "Imóvel - R$ 168.944,00",
+        "credito": 168944.0,
+        "parcela_minima": 930.77,
+        "parcela_maxima": 930.77
+      },
+      {
+        "cota": "Imóvel - R$ 179.503,00",
+        "credito": 179503.0,
+        "parcela_minima": 988.96,
+        "parcela_maxima": 988.96
+      },
+      {
+        "cota": "Imóvel - R$ 190.062,00",
+        "credito": 190062.0,
+        "parcela_minima": 1047.12,
+        "parcela_maxima": 1047.12
+      },
+      {
+        "cota": "Imóvel - R$ 200.621,00",
+        "credito": 200621.0,
+        "parcela_minima": 1105.3,
+        "parcela_maxima": 1105.3
+      },
+      {
+        "cota": "Imóvel - R$ 211.180,00",
+        "credito": 211180.0,
+        "parcela_minima": 1163.49,
+        "parcela_maxima": 1163.49
+      },
+      {
+        "cota": "Imóvel - R$ 221.739,00",
+        "credito": 221739.0,
+        "parcela_minima": 1221.65,
+        "parcela_maxima": 1221.65
+      },
+      {
+        "cota": "Imóvel - R$ 232.298,00",
+        "credito": 232298.0,
+        "parcela_minima": 1279.83,
+        "parcela_maxima": 1279.83
+      },
+      {
+        "cota": "Imóvel - R$ 242.857,00",
+        "credito": 242857.0,
+        "parcela_minima": 1338.0,
+        "parcela_maxima": 1338.0
+      },
+      {
+        "cota": "Imóvel - R$ 253.416,00",
+        "credito": 253416.0,
+        "parcela_minima": 1396.16,
+        "parcela_maxima": 1396.16
+      },
+      {
+        "cota": "Imóvel - R$ 263.975,00",
+        "credito": 263975.0,
+        "parcela_minima": 1454.34,
+        "parcela_maxima": 1454.34
+      },
+      {
+        "cota": "Imóvel - R$ 274.534,00",
+        "credito": 274534.0,
+        "parcela_minima": 1512.52,
+        "parcela_maxima": 1512.52
+      },
+      {
+        "cota": "Imóvel - R$ 285.093,00",
+        "credito": 285093.0,
+        "parcela_minima": 1570.68,
+        "parcela_maxima": 1570.68
+      },
+      {
+        "cota": "Imóvel - R$ 295.652,00",
+        "credito": 295652.0,
+        "parcela_minima": 1628.87,
+        "parcela_maxima": 1628.87
+      }
+    ]
+  },
+  {
+    "grupo": "I0356",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 179,
+    "prazo_total": 200,
+    "taxa": 19.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "23",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 147.826,00",
+        "credito": 147826.0,
+        "parcela_minima": 814.43,
+        "parcela_maxima": 814.43
+      },
+      {
+        "cota": "Imóvel - R$ 158.385,00",
+        "credito": 158385.0,
+        "parcela_minima": 872.61,
+        "parcela_maxima": 872.61
+      },
+      {
+        "cota": "Imóvel - R$ 168.944,00",
+        "credito": 168944.0,
+        "parcela_minima": 930.77,
+        "parcela_maxima": 930.77
+      },
+      {
+        "cota": "Imóvel - R$ 179.503,00",
+        "credito": 179503.0,
+        "parcela_minima": 988.96,
+        "parcela_maxima": 988.96
+      },
+      {
+        "cota": "Imóvel - R$ 190.062,00",
+        "credito": 190062.0,
+        "parcela_minima": 1047.12,
+        "parcela_maxima": 1047.12
+      },
+      {
+        "cota": "Imóvel - R$ 200.621,00",
+        "credito": 200621.0,
+        "parcela_minima": 1105.3,
+        "parcela_maxima": 1105.3
+      },
+      {
+        "cota": "Imóvel - R$ 211.180,00",
+        "credito": 211180.0,
+        "parcela_minima": 1163.49,
+        "parcela_maxima": 1163.49
+      },
+      {
+        "cota": "Imóvel - R$ 221.739,00",
+        "credito": 221739.0,
+        "parcela_minima": 1221.65,
+        "parcela_maxima": 1221.65
+      },
+      {
+        "cota": "Imóvel - R$ 232.298,00",
+        "credito": 232298.0,
+        "parcela_minima": 1279.83,
+        "parcela_maxima": 1279.83
+      },
+      {
+        "cota": "Imóvel - R$ 242.857,00",
+        "credito": 242857.0,
+        "parcela_minima": 1338.0,
+        "parcela_maxima": 1338.0
+      },
+      {
+        "cota": "Imóvel - R$ 253.416,00",
+        "credito": 253416.0,
+        "parcela_minima": 1396.16,
+        "parcela_maxima": 1396.16
+      },
+      {
+        "cota": "Imóvel - R$ 263.975,00",
+        "credito": 263975.0,
+        "parcela_minima": 1454.34,
+        "parcela_maxima": 1454.34
+      },
+      {
+        "cota": "Imóvel - R$ 274.534,00",
+        "credito": 274534.0,
+        "parcela_minima": 1512.52,
+        "parcela_maxima": 1512.52
+      },
+      {
+        "cota": "Imóvel - R$ 285.093,00",
+        "credito": 285093.0,
+        "parcela_minima": 1570.68,
+        "parcela_maxima": 1570.68
+      },
+      {
+        "cota": "Imóvel - R$ 295.652,00",
+        "credito": 295652.0,
+        "parcela_minima": 1628.87,
+        "parcela_maxima": 1628.87
+      }
+    ]
+  },
+  {
+    "grupo": "I0357",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 179,
+    "prazo_total": 200,
+    "taxa": 19.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "26",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 147.826,00",
+        "credito": 147826.0,
+        "parcela_minima": 814.43,
+        "parcela_maxima": 814.43
+      },
+      {
+        "cota": "Imóvel - R$ 158.385,00",
+        "credito": 158385.0,
+        "parcela_minima": 872.61,
+        "parcela_maxima": 872.61
+      },
+      {
+        "cota": "Imóvel - R$ 168.944,00",
+        "credito": 168944.0,
+        "parcela_minima": 930.77,
+        "parcela_maxima": 930.77
+      },
+      {
+        "cota": "Imóvel - R$ 179.503,00",
+        "credito": 179503.0,
+        "parcela_minima": 988.96,
+        "parcela_maxima": 988.96
+      },
+      {
+        "cota": "Imóvel - R$ 190.062,00",
+        "credito": 190062.0,
+        "parcela_minima": 1047.12,
+        "parcela_maxima": 1047.12
+      },
+      {
+        "cota": "Imóvel - R$ 200.621,00",
+        "credito": 200621.0,
+        "parcela_minima": 1105.3,
+        "parcela_maxima": 1105.3
+      },
+      {
+        "cota": "Imóvel - R$ 211.180,00",
+        "credito": 211180.0,
+        "parcela_minima": 1163.49,
+        "parcela_maxima": 1163.49
+      },
+      {
+        "cota": "Imóvel - R$ 221.739,00",
+        "credito": 221739.0,
+        "parcela_minima": 1221.65,
+        "parcela_maxima": 1221.65
+      },
+      {
+        "cota": "Imóvel - R$ 232.298,00",
+        "credito": 232298.0,
+        "parcela_minima": 1279.83,
+        "parcela_maxima": 1279.83
+      },
+      {
+        "cota": "Imóvel - R$ 242.857,00",
+        "credito": 242857.0,
+        "parcela_minima": 1338.0,
+        "parcela_maxima": 1338.0
+      },
+      {
+        "cota": "Imóvel - R$ 253.416,00",
+        "credito": 253416.0,
+        "parcela_minima": 1396.16,
+        "parcela_maxima": 1396.16
+      },
+      {
+        "cota": "Imóvel - R$ 263.975,00",
+        "credito": 263975.0,
+        "parcela_minima": 1454.34,
+        "parcela_maxima": 1454.34
+      },
+      {
+        "cota": "Imóvel - R$ 274.534,00",
+        "credito": 274534.0,
+        "parcela_minima": 1512.52,
+        "parcela_maxima": 1512.52
+      },
+      {
+        "cota": "Imóvel - R$ 285.093,00",
+        "credito": 285093.0,
+        "parcela_minima": 1570.68,
+        "parcela_maxima": 1570.68
+      },
+      {
+        "cota": "Imóvel - R$ 295.652,00",
+        "credito": 295652.0,
+        "parcela_minima": 1628.87,
+        "parcela_maxima": 1628.87
+      }
+    ]
+  },
+  {
+    "grupo": "I0358",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 181,
+    "prazo_total": 200,
+    "taxa": 19.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "12",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 147.742,00",
+        "credito": 147742.0,
+        "parcela_minima": 805.68,
+        "parcela_maxima": 805.68
+      },
+      {
+        "cota": "Imóvel - R$ 158.295,00",
+        "credito": 158295.0,
+        "parcela_minima": 863.24,
+        "parcela_maxima": 863.24
+      },
+      {
+        "cota": "Imóvel - R$ 168.848,00",
+        "credito": 168848.0,
+        "parcela_minima": 920.8,
+        "parcela_maxima": 920.8
+      },
+      {
+        "cota": "Imóvel - R$ 179.401,00",
+        "credito": 179401.0,
+        "parcela_minima": 978.34,
+        "parcela_maxima": 978.34
+      },
+      {
+        "cota": "Imóvel - R$ 189.954,00",
+        "credito": 189954.0,
+        "parcela_minima": 1035.89,
+        "parcela_maxima": 1035.89
+      },
+      {
+        "cota": "Imóvel - R$ 200.507,00",
+        "credito": 200507.0,
+        "parcela_minima": 1093.45,
+        "parcela_maxima": 1093.45
+      },
+      {
+        "cota": "Imóvel - R$ 211.060,00",
+        "credito": 211060.0,
+        "parcela_minima": 1151.0,
+        "parcela_maxima": 1151.0
+      },
+      {
+        "cota": "Imóvel - R$ 221.613,00",
+        "credito": 221613.0,
+        "parcela_minima": 1208.54,
+        "parcela_maxima": 1208.54
+      },
+      {
+        "cota": "Imóvel - R$ 232.166,00",
+        "credito": 232166.0,
+        "parcela_minima": 1266.1,
+        "parcela_maxima": 1266.1
+      },
+      {
+        "cota": "Imóvel - R$ 242.719,00",
+        "credito": 242719.0,
+        "parcela_minima": 1323.64,
+        "parcela_maxima": 1323.64
+      },
+      {
+        "cota": "Imóvel - R$ 253.272,00",
+        "credito": 253272.0,
+        "parcela_minima": 1381.19,
+        "parcela_maxima": 1381.19
+      },
+      {
+        "cota": "Imóvel - R$ 263.825,00",
+        "credito": 263825.0,
+        "parcela_minima": 1438.73,
+        "parcela_maxima": 1438.73
+      },
+      {
+        "cota": "Imóvel - R$ 274.378,00",
+        "credito": 274378.0,
+        "parcela_minima": 1496.29,
+        "parcela_maxima": 1496.29
+      },
+      {
+        "cota": "Imóvel - R$ 284.931,00",
+        "credito": 284931.0,
+        "parcela_minima": 1553.84,
+        "parcela_maxima": 1553.84
+      },
+      {
+        "cota": "Imóvel - R$ 295.484,00",
+        "credito": 295484.0,
+        "parcela_minima": 1611.39,
+        "parcela_maxima": 1611.39
+      }
+    ]
+  },
+  {
+    "grupo": "I0359",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 179,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "33",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 295.652,00",
+        "credito": 295652.0,
+        "parcela_minima": 1601.78,
+        "parcela_maxima": 1601.78
+      },
+      {
+        "cota": "Imóvel - R$ 306.211,00",
+        "credito": 306211.0,
+        "parcela_minima": 1658.99,
+        "parcela_maxima": 1658.99
+      },
+      {
+        "cota": "Imóvel - R$ 316.770,00",
+        "credito": 316770.0,
+        "parcela_minima": 1716.19,
+        "parcela_maxima": 1716.19
+      },
+      {
+        "cota": "Imóvel - R$ 327.329,00",
+        "credito": 327329.0,
+        "parcela_minima": 1773.41,
+        "parcela_maxima": 1773.41
+      },
+      {
+        "cota": "Imóvel - R$ 337.888,00",
+        "credito": 337888.0,
+        "parcela_minima": 1830.6,
+        "parcela_maxima": 1830.6
+      },
+      {
+        "cota": "Imóvel - R$ 348.447,00",
+        "credito": 348447.0,
+        "parcela_minima": 1887.82,
+        "parcela_maxima": 1887.82
+      },
+      {
+        "cota": "Imóvel - R$ 359.006,00",
+        "credito": 359006.0,
+        "parcela_minima": 1945.03,
+        "parcela_maxima": 1945.03
+      },
+      {
+        "cota": "Imóvel - R$ 369.565,00",
+        "credito": 369565.0,
+        "parcela_minima": 2002.23,
+        "parcela_maxima": 2002.23
+      },
+      {
+        "cota": "Imóvel - R$ 380.124,00",
+        "credito": 380124.0,
+        "parcela_minima": 2059.44,
+        "parcela_maxima": 2059.44
+      },
+      {
+        "cota": "Imóvel - R$ 390.683,00",
+        "credito": 390683.0,
+        "parcela_minima": 2116.65,
+        "parcela_maxima": 2116.65
+      },
+      {
+        "cota": "Imóvel - R$ 401.242,00",
+        "credito": 401242.0,
+        "parcela_minima": 2173.85,
+        "parcela_maxima": 2173.85
+      },
+      {
+        "cota": "Imóvel - R$ 411.801,00",
+        "credito": 411801.0,
+        "parcela_minima": 2231.05,
+        "parcela_maxima": 2231.05
+      },
+      {
+        "cota": "Imóvel - R$ 422.360,00",
+        "credito": 422360.0,
+        "parcela_minima": 2288.26,
+        "parcela_maxima": 2288.26
+      },
+      {
+        "cota": "Imóvel - R$ 432.919,00",
+        "credito": 432919.0,
+        "parcela_minima": 2345.47,
+        "parcela_maxima": 2345.47
+      },
+      {
+        "cota": "Imóvel - R$ 443.478,00",
+        "credito": 443478.0,
+        "parcela_minima": 2402.67,
+        "parcela_maxima": 2402.67
+      },
+      {
+        "cota": "Imóvel - R$ 454.037,00",
+        "credito": 454037.0,
+        "parcela_minima": 2459.88,
+        "parcela_maxima": 2459.88
+      },
+      {
+        "cota": "Imóvel - R$ 464.596,00",
+        "credito": 464596.0,
+        "parcela_minima": 2517.08,
+        "parcela_maxima": 2517.08
+      },
+      {
+        "cota": "Imóvel - R$ 475.155,00",
+        "credito": 475155.0,
+        "parcela_minima": 2574.3,
+        "parcela_maxima": 2574.3
+      },
+      {
+        "cota": "Imóvel - R$ 485.714,00",
+        "credito": 485714.0,
+        "parcela_minima": 2631.49,
+        "parcela_maxima": 2631.49
+      },
+      {
+        "cota": "Imóvel - R$ 496.273,00",
+        "credito": 496273.0,
+        "parcela_minima": 2688.71,
+        "parcela_maxima": 2688.71
+      },
+      {
+        "cota": "Imóvel - R$ 506.832,00",
+        "credito": 506832.0,
+        "parcela_minima": 2745.92,
+        "parcela_maxima": 2745.92
+      },
+      {
+        "cota": "Imóvel - R$ 517.391,00",
+        "credito": 517391.0,
+        "parcela_minima": 2803.12,
+        "parcela_maxima": 2803.12
+      },
+      {
+        "cota": "Imóvel - R$ 527.950,00",
+        "credito": 527950.0,
+        "parcela_minima": 2860.33,
+        "parcela_maxima": 2860.33
+      },
+      {
+        "cota": "Imóvel - R$ 538.509,00",
+        "credito": 538509.0,
+        "parcela_minima": 2917.54,
+        "parcela_maxima": 2917.54
+      },
+      {
+        "cota": "Imóvel - R$ 549.068,00",
+        "credito": 549068.0,
+        "parcela_minima": 2974.74,
+        "parcela_maxima": 2974.74
+      },
+      {
+        "cota": "Imóvel - R$ 559.627,00",
+        "credito": 559627.0,
+        "parcela_minima": 3031.96,
+        "parcela_maxima": 3031.96
+      },
+      {
+        "cota": "Imóvel - R$ 570.186,00",
+        "credito": 570186.0,
+        "parcela_minima": 3089.15,
+        "parcela_maxima": 3089.15
+      },
+      {
+        "cota": "Imóvel - R$ 580.745,00",
+        "credito": 580745.0,
+        "parcela_minima": 3146.36,
+        "parcela_maxima": 3146.36
+      },
+      {
+        "cota": "Imóvel - R$ 591.304,00",
+        "credito": 591304.0,
+        "parcela_minima": 3203.56,
+        "parcela_maxima": 3203.56
+      }
+    ]
+  },
+  {
+    "grupo": "I0360",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 179,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "23",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 295.652,00",
+        "credito": 295652.0,
+        "parcela_minima": 1601.78,
+        "parcela_maxima": 1601.78
+      },
+      {
+        "cota": "Imóvel - R$ 306.211,00",
+        "credito": 306211.0,
+        "parcela_minima": 1658.99,
+        "parcela_maxima": 1658.99
+      },
+      {
+        "cota": "Imóvel - R$ 316.770,00",
+        "credito": 316770.0,
+        "parcela_minima": 1716.19,
+        "parcela_maxima": 1716.19
+      },
+      {
+        "cota": "Imóvel - R$ 327.329,00",
+        "credito": 327329.0,
+        "parcela_minima": 1773.41,
+        "parcela_maxima": 1773.41
+      },
+      {
+        "cota": "Imóvel - R$ 337.888,00",
+        "credito": 337888.0,
+        "parcela_minima": 1830.6,
+        "parcela_maxima": 1830.6
+      },
+      {
+        "cota": "Imóvel - R$ 348.447,00",
+        "credito": 348447.0,
+        "parcela_minima": 1887.82,
+        "parcela_maxima": 1887.82
+      },
+      {
+        "cota": "Imóvel - R$ 359.006,00",
+        "credito": 359006.0,
+        "parcela_minima": 1945.03,
+        "parcela_maxima": 1945.03
+      },
+      {
+        "cota": "Imóvel - R$ 369.565,00",
+        "credito": 369565.0,
+        "parcela_minima": 2002.23,
+        "parcela_maxima": 2002.23
+      },
+      {
+        "cota": "Imóvel - R$ 380.124,00",
+        "credito": 380124.0,
+        "parcela_minima": 2059.44,
+        "parcela_maxima": 2059.44
+      },
+      {
+        "cota": "Imóvel - R$ 390.683,00",
+        "credito": 390683.0,
+        "parcela_minima": 2116.65,
+        "parcela_maxima": 2116.65
+      },
+      {
+        "cota": "Imóvel - R$ 401.242,00",
+        "credito": 401242.0,
+        "parcela_minima": 2173.85,
+        "parcela_maxima": 2173.85
+      },
+      {
+        "cota": "Imóvel - R$ 411.801,00",
+        "credito": 411801.0,
+        "parcela_minima": 2231.05,
+        "parcela_maxima": 2231.05
+      },
+      {
+        "cota": "Imóvel - R$ 422.360,00",
+        "credito": 422360.0,
+        "parcela_minima": 2288.26,
+        "parcela_maxima": 2288.26
+      },
+      {
+        "cota": "Imóvel - R$ 432.919,00",
+        "credito": 432919.0,
+        "parcela_minima": 2345.47,
+        "parcela_maxima": 2345.47
+      },
+      {
+        "cota": "Imóvel - R$ 443.478,00",
+        "credito": 443478.0,
+        "parcela_minima": 2402.67,
+        "parcela_maxima": 2402.67
+      },
+      {
+        "cota": "Imóvel - R$ 454.037,00",
+        "credito": 454037.0,
+        "parcela_minima": 2459.88,
+        "parcela_maxima": 2459.88
+      },
+      {
+        "cota": "Imóvel - R$ 464.596,00",
+        "credito": 464596.0,
+        "parcela_minima": 2517.08,
+        "parcela_maxima": 2517.08
+      },
+      {
+        "cota": "Imóvel - R$ 475.155,00",
+        "credito": 475155.0,
+        "parcela_minima": 2574.3,
+        "parcela_maxima": 2574.3
+      },
+      {
+        "cota": "Imóvel - R$ 485.714,00",
+        "credito": 485714.0,
+        "parcela_minima": 2631.49,
+        "parcela_maxima": 2631.49
+      },
+      {
+        "cota": "Imóvel - R$ 496.273,00",
+        "credito": 496273.0,
+        "parcela_minima": 2688.71,
+        "parcela_maxima": 2688.71
+      },
+      {
+        "cota": "Imóvel - R$ 506.832,00",
+        "credito": 506832.0,
+        "parcela_minima": 2745.92,
+        "parcela_maxima": 2745.92
+      },
+      {
+        "cota": "Imóvel - R$ 517.391,00",
+        "credito": 517391.0,
+        "parcela_minima": 2803.12,
+        "parcela_maxima": 2803.12
+      },
+      {
+        "cota": "Imóvel - R$ 527.950,00",
+        "credito": 527950.0,
+        "parcela_minima": 2860.33,
+        "parcela_maxima": 2860.33
+      },
+      {
+        "cota": "Imóvel - R$ 538.509,00",
+        "credito": 538509.0,
+        "parcela_minima": 2917.54,
+        "parcela_maxima": 2917.54
+      },
+      {
+        "cota": "Imóvel - R$ 549.068,00",
+        "credito": 549068.0,
+        "parcela_minima": 2974.74,
+        "parcela_maxima": 2974.74
+      },
+      {
+        "cota": "Imóvel - R$ 559.627,00",
+        "credito": 559627.0,
+        "parcela_minima": 3031.96,
+        "parcela_maxima": 3031.96
+      },
+      {
+        "cota": "Imóvel - R$ 570.186,00",
+        "credito": 570186.0,
+        "parcela_minima": 3089.15,
+        "parcela_maxima": 3089.15
+      },
+      {
+        "cota": "Imóvel - R$ 580.745,00",
+        "credito": 580745.0,
+        "parcela_minima": 3146.36,
+        "parcela_maxima": 3146.36
+      },
+      {
+        "cota": "Imóvel - R$ 591.304,00",
+        "credito": 591304.0,
+        "parcela_minima": 3203.56,
+        "parcela_maxima": 3203.56
+      }
+    ]
+  },
+  {
+    "grupo": "I0361",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 179,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "12",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 295.652,00",
+        "credito": 295652.0,
+        "parcela_minima": 1601.78,
+        "parcela_maxima": 1601.78
+      },
+      {
+        "cota": "Imóvel - R$ 306.211,00",
+        "credito": 306211.0,
+        "parcela_minima": 1658.99,
+        "parcela_maxima": 1658.99
+      },
+      {
+        "cota": "Imóvel - R$ 316.770,00",
+        "credito": 316770.0,
+        "parcela_minima": 1716.19,
+        "parcela_maxima": 1716.19
+      },
+      {
+        "cota": "Imóvel - R$ 327.329,00",
+        "credito": 327329.0,
+        "parcela_minima": 1773.41,
+        "parcela_maxima": 1773.41
+      },
+      {
+        "cota": "Imóvel - R$ 337.888,00",
+        "credito": 337888.0,
+        "parcela_minima": 1830.6,
+        "parcela_maxima": 1830.6
+      },
+      {
+        "cota": "Imóvel - R$ 348.447,00",
+        "credito": 348447.0,
+        "parcela_minima": 1887.82,
+        "parcela_maxima": 1887.82
+      },
+      {
+        "cota": "Imóvel - R$ 359.006,00",
+        "credito": 359006.0,
+        "parcela_minima": 1945.03,
+        "parcela_maxima": 1945.03
+      },
+      {
+        "cota": "Imóvel - R$ 369.565,00",
+        "credito": 369565.0,
+        "parcela_minima": 2002.23,
+        "parcela_maxima": 2002.23
+      },
+      {
+        "cota": "Imóvel - R$ 380.124,00",
+        "credito": 380124.0,
+        "parcela_minima": 2059.44,
+        "parcela_maxima": 2059.44
+      },
+      {
+        "cota": "Imóvel - R$ 390.683,00",
+        "credito": 390683.0,
+        "parcela_minima": 2116.65,
+        "parcela_maxima": 2116.65
+      },
+      {
+        "cota": "Imóvel - R$ 401.242,00",
+        "credito": 401242.0,
+        "parcela_minima": 2173.85,
+        "parcela_maxima": 2173.85
+      },
+      {
+        "cota": "Imóvel - R$ 411.801,00",
+        "credito": 411801.0,
+        "parcela_minima": 2231.05,
+        "parcela_maxima": 2231.05
+      },
+      {
+        "cota": "Imóvel - R$ 422.360,00",
+        "credito": 422360.0,
+        "parcela_minima": 2288.26,
+        "parcela_maxima": 2288.26
+      },
+      {
+        "cota": "Imóvel - R$ 432.919,00",
+        "credito": 432919.0,
+        "parcela_minima": 2345.47,
+        "parcela_maxima": 2345.47
+      },
+      {
+        "cota": "Imóvel - R$ 443.478,00",
+        "credito": 443478.0,
+        "parcela_minima": 2402.67,
+        "parcela_maxima": 2402.67
+      },
+      {
+        "cota": "Imóvel - R$ 454.037,00",
+        "credito": 454037.0,
+        "parcela_minima": 2459.88,
+        "parcela_maxima": 2459.88
+      },
+      {
+        "cota": "Imóvel - R$ 464.596,00",
+        "credito": 464596.0,
+        "parcela_minima": 2517.08,
+        "parcela_maxima": 2517.08
+      },
+      {
+        "cota": "Imóvel - R$ 475.155,00",
+        "credito": 475155.0,
+        "parcela_minima": 2574.3,
+        "parcela_maxima": 2574.3
+      },
+      {
+        "cota": "Imóvel - R$ 485.714,00",
+        "credito": 485714.0,
+        "parcela_minima": 2631.49,
+        "parcela_maxima": 2631.49
+      },
+      {
+        "cota": "Imóvel - R$ 496.273,00",
+        "credito": 496273.0,
+        "parcela_minima": 2688.71,
+        "parcela_maxima": 2688.71
+      },
+      {
+        "cota": "Imóvel - R$ 506.832,00",
+        "credito": 506832.0,
+        "parcela_minima": 2745.92,
+        "parcela_maxima": 2745.92
+      },
+      {
+        "cota": "Imóvel - R$ 517.391,00",
+        "credito": 517391.0,
+        "parcela_minima": 2803.12,
+        "parcela_maxima": 2803.12
+      },
+      {
+        "cota": "Imóvel - R$ 527.950,00",
+        "credito": 527950.0,
+        "parcela_minima": 2860.33,
+        "parcela_maxima": 2860.33
+      },
+      {
+        "cota": "Imóvel - R$ 538.509,00",
+        "credito": 538509.0,
+        "parcela_minima": 2917.54,
+        "parcela_maxima": 2917.54
+      },
+      {
+        "cota": "Imóvel - R$ 549.068,00",
+        "credito": 549068.0,
+        "parcela_minima": 2974.74,
+        "parcela_maxima": 2974.74
+      },
+      {
+        "cota": "Imóvel - R$ 559.627,00",
+        "credito": 559627.0,
+        "parcela_minima": 3031.96,
+        "parcela_maxima": 3031.96
+      },
+      {
+        "cota": "Imóvel - R$ 570.186,00",
+        "credito": 570186.0,
+        "parcela_minima": 3089.15,
+        "parcela_maxima": 3089.15
+      },
+      {
+        "cota": "Imóvel - R$ 580.745,00",
+        "credito": 580745.0,
+        "parcela_minima": 3146.36,
+        "parcela_maxima": 3146.36
+      },
+      {
+        "cota": "Imóvel - R$ 591.304,00",
+        "credito": 591304.0,
+        "parcela_minima": 3203.56,
+        "parcela_maxima": 3203.56
+      }
+    ]
+  },
+  {
+    "grupo": "I0408",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 184,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "29",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 295.120,00",
+        "credito": 295120.0,
+        "parcela_minima": 1559.35,
+        "parcela_maxima": 1559.35
+      },
+      {
+        "cota": "Imóvel - R$ 305.660,00",
+        "credito": 305660.0,
+        "parcela_minima": 1615.05,
+        "parcela_maxima": 1615.05
+      },
+      {
+        "cota": "Imóvel - R$ 316.200,00",
+        "credito": 316200.0,
+        "parcela_minima": 1670.73,
+        "parcela_maxima": 1670.73
+      },
+      {
+        "cota": "Imóvel - R$ 326.740,00",
+        "credito": 326740.0,
+        "parcela_minima": 1726.44,
+        "parcela_maxima": 1726.44
+      },
+      {
+        "cota": "Imóvel - R$ 337.280,00",
+        "credito": 337280.0,
+        "parcela_minima": 1782.12,
+        "parcela_maxima": 1782.12
+      },
+      {
+        "cota": "Imóvel - R$ 347.820,00",
+        "credito": 347820.0,
+        "parcela_minima": 1837.8,
+        "parcela_maxima": 1837.8
+      },
+      {
+        "cota": "Imóvel - R$ 358.360,00",
+        "credito": 358360.0,
+        "parcela_minima": 1893.5,
+        "parcela_maxima": 1893.5
+      },
+      {
+        "cota": "Imóvel - R$ 368.900,00",
+        "credito": 368900.0,
+        "parcela_minima": 1949.2,
+        "parcela_maxima": 1949.2
+      },
+      {
+        "cota": "Imóvel - R$ 379.440,00",
+        "credito": 379440.0,
+        "parcela_minima": 2004.88,
+        "parcela_maxima": 2004.88
+      },
+      {
+        "cota": "Imóvel - R$ 389.980,00",
+        "credito": 389980.0,
+        "parcela_minima": 2060.57,
+        "parcela_maxima": 2060.57
+      },
+      {
+        "cota": "Imóvel - R$ 400.520,00",
+        "credito": 400520.0,
+        "parcela_minima": 2116.27,
+        "parcela_maxima": 2116.27
+      },
+      {
+        "cota": "Imóvel - R$ 411.060,00",
+        "credito": 411060.0,
+        "parcela_minima": 2171.97,
+        "parcela_maxima": 2171.97
+      },
+      {
+        "cota": "Imóvel - R$ 421.600,00",
+        "credito": 421600.0,
+        "parcela_minima": 2227.65,
+        "parcela_maxima": 2227.65
+      },
+      {
+        "cota": "Imóvel - R$ 432.140,00",
+        "credito": 432140.0,
+        "parcela_minima": 2283.34,
+        "parcela_maxima": 2283.34
+      },
+      {
+        "cota": "Imóvel - R$ 442.680,00",
+        "credito": 442680.0,
+        "parcela_minima": 2339.04,
+        "parcela_maxima": 2339.04
+      },
+      {
+        "cota": "Imóvel - R$ 453.220,00",
+        "credito": 453220.0,
+        "parcela_minima": 2394.72,
+        "parcela_maxima": 2394.72
+      },
+      {
+        "cota": "Imóvel - R$ 463.760,00",
+        "credito": 463760.0,
+        "parcela_minima": 2450.41,
+        "parcela_maxima": 2450.41
+      },
+      {
+        "cota": "Imóvel - R$ 474.300,00",
+        "credito": 474300.0,
+        "parcela_minima": 2506.11,
+        "parcela_maxima": 2506.11
+      },
+      {
+        "cota": "Imóvel - R$ 484.840,00",
+        "credito": 484840.0,
+        "parcela_minima": 2561.79,
+        "parcela_maxima": 2561.79
+      },
+      {
+        "cota": "Imóvel - R$ 495.380,00",
+        "credito": 495380.0,
+        "parcela_minima": 2617.5,
+        "parcela_maxima": 2617.5
+      },
+      {
+        "cota": "Imóvel - R$ 505.920,00",
+        "credito": 505920.0,
+        "parcela_minima": 2673.18,
+        "parcela_maxima": 2673.18
+      },
+      {
+        "cota": "Imóvel - R$ 516.460,00",
+        "credito": 516460.0,
+        "parcela_minima": 2728.87,
+        "parcela_maxima": 2728.87
+      },
+      {
+        "cota": "Imóvel - R$ 527.000,00",
+        "credito": 527000.0,
+        "parcela_minima": 2784.56,
+        "parcela_maxima": 2784.56
+      },
+      {
+        "cota": "Imóvel - R$ 537.540,00",
+        "credito": 537540.0,
+        "parcela_minima": 2840.26,
+        "parcela_maxima": 2840.26
+      },
+      {
+        "cota": "Imóvel - R$ 548.080,00",
+        "credito": 548080.0,
+        "parcela_minima": 2895.94,
+        "parcela_maxima": 2895.94
+      },
+      {
+        "cota": "Imóvel - R$ 558.620,00",
+        "credito": 558620.0,
+        "parcela_minima": 2951.63,
+        "parcela_maxima": 2951.63
+      },
+      {
+        "cota": "Imóvel - R$ 569.160,00",
+        "credito": 569160.0,
+        "parcela_minima": 3007.33,
+        "parcela_maxima": 3007.33
+      },
+      {
+        "cota": "Imóvel - R$ 579.700,00",
+        "credito": 579700.0,
+        "parcela_minima": 3063.02,
+        "parcela_maxima": 3063.02
+      },
+      {
+        "cota": "Imóvel - R$ 590.240,00",
+        "credito": 590240.0,
+        "parcela_minima": 3118.71,
+        "parcela_maxima": 3118.71
+      }
+    ]
+  },
+  {
+    "grupo": "I0410",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 184,
+    "prazo_total": 200,
+    "taxa": 21.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "28",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 73.780,00",
+        "credito": 73780.0,
+        "parcela_minima": 402.85,
+        "parcela_maxima": 402.85
+      },
+      {
+        "cota": "Imóvel - R$ 79.050,00",
+        "credito": 79050.0,
+        "parcela_minima": 431.61,
+        "parcela_maxima": 431.61
+      },
+      {
+        "cota": "Imóvel - R$ 84.320,00",
+        "credito": 84320.0,
+        "parcela_minima": 460.39,
+        "parcela_maxima": 460.39
+      },
+      {
+        "cota": "Imóvel - R$ 89.590,00",
+        "credito": 89590.0,
+        "parcela_minima": 489.17,
+        "parcela_maxima": 489.17
+      },
+      {
+        "cota": "Imóvel - R$ 94.860,00",
+        "credito": 94860.0,
+        "parcela_minima": 517.93,
+        "parcela_maxima": 517.93
+      },
+      {
+        "cota": "Imóvel - R$ 100.130,00",
+        "credito": 100130.0,
+        "parcela_minima": 546.71,
+        "parcela_maxima": 546.71
+      },
+      {
+        "cota": "Imóvel - R$ 105.400,00",
+        "credito": 105400.0,
+        "parcela_minima": 575.49,
+        "parcela_maxima": 575.49
+      },
+      {
+        "cota": "Imóvel - R$ 110.670,00",
+        "credito": 110670.0,
+        "parcela_minima": 604.25,
+        "parcela_maxima": 604.25
+      },
+      {
+        "cota": "Imóvel - R$ 115.940,00",
+        "credito": 115940.0,
+        "parcela_minima": 633.02,
+        "parcela_maxima": 633.02
+      },
+      {
+        "cota": "Imóvel - R$ 121.210,00",
+        "credito": 121210.0,
+        "parcela_minima": 661.81,
+        "parcela_maxima": 661.81
+      },
+      {
+        "cota": "Imóvel - R$ 126.480,00",
+        "credito": 126480.0,
+        "parcela_minima": 690.59,
+        "parcela_maxima": 690.59
+      },
+      {
+        "cota": "Imóvel - R$ 131.750,00",
+        "credito": 131750.0,
+        "parcela_minima": 719.35,
+        "parcela_maxima": 719.35
+      },
+      {
+        "cota": "Imóvel - R$ 137.020,00",
+        "credito": 137020.0,
+        "parcela_minima": 748.13,
+        "parcela_maxima": 748.13
+      },
+      {
+        "cota": "Imóvel - R$ 142.290,00",
+        "credito": 142290.0,
+        "parcela_minima": 776.91,
+        "parcela_maxima": 776.91
+      },
+      {
+        "cota": "Imóvel - R$ 147.560,00",
+        "credito": 147560.0,
+        "parcela_minima": 805.67,
+        "parcela_maxima": 805.67
+      }
+    ]
+  },
+  {
+    "grupo": "I0411",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 188,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "37",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1450.9,
+        "parcela_maxima": 1450.9
+      },
+      {
+        "cota": "Imóvel - R$ 290.000,00",
+        "credito": 290000.0,
+        "parcela_minima": 1502.72,
+        "parcela_maxima": 1502.72
+      },
+      {
+        "cota": "Imóvel - R$ 300.000,00",
+        "credito": 300000.0,
+        "parcela_minima": 1554.54,
+        "parcela_maxima": 1554.54
+      },
+      {
+        "cota": "Imóvel - R$ 310.000,00",
+        "credito": 310000.0,
+        "parcela_minima": 1606.36,
+        "parcela_maxima": 1606.36
+      },
+      {
+        "cota": "Imóvel - R$ 320.000,00",
+        "credito": 320000.0,
+        "parcela_minima": 1658.18,
+        "parcela_maxima": 1658.18
+      },
+      {
+        "cota": "Imóvel - R$ 330.000,00",
+        "credito": 330000.0,
+        "parcela_minima": 1709.99,
+        "parcela_maxima": 1709.99
+      },
+      {
+        "cota": "Imóvel - R$ 340.000,00",
+        "credito": 340000.0,
+        "parcela_minima": 1761.81,
+        "parcela_maxima": 1761.81
+      },
+      {
+        "cota": "Imóvel - R$ 350.000,00",
+        "credito": 350000.0,
+        "parcela_minima": 1813.63,
+        "parcela_maxima": 1813.63
+      },
+      {
+        "cota": "Imóvel - R$ 360.000,00",
+        "credito": 360000.0,
+        "parcela_minima": 1865.45,
+        "parcela_maxima": 1865.45
+      },
+      {
+        "cota": "Imóvel - R$ 370.000,00",
+        "credito": 370000.0,
+        "parcela_minima": 1917.27,
+        "parcela_maxima": 1917.27
+      },
+      {
+        "cota": "Imóvel - R$ 380.000,00",
+        "credito": 380000.0,
+        "parcela_minima": 1969.08,
+        "parcela_maxima": 1969.08
+      },
+      {
+        "cota": "Imóvel - R$ 390.000,00",
+        "credito": 390000.0,
+        "parcela_minima": 2020.9,
+        "parcela_maxima": 2020.9
+      },
+      {
+        "cota": "Imóvel - R$ 400.000,00",
+        "credito": 400000.0,
+        "parcela_minima": 2072.72,
+        "parcela_maxima": 2072.72
+      },
+      {
+        "cota": "Imóvel - R$ 410.000,00",
+        "credito": 410000.0,
+        "parcela_minima": 2124.54,
+        "parcela_maxima": 2124.54
+      },
+      {
+        "cota": "Imóvel - R$ 420.000,00",
+        "credito": 420000.0,
+        "parcela_minima": 2176.36,
+        "parcela_maxima": 2176.36
+      },
+      {
+        "cota": "Imóvel - R$ 430.000,00",
+        "credito": 430000.0,
+        "parcela_minima": 2228.17,
+        "parcela_maxima": 2228.17
+      },
+      {
+        "cota": "Imóvel - R$ 440.000,00",
+        "credito": 440000.0,
+        "parcela_minima": 2279.99,
+        "parcela_maxima": 2279.99
+      },
+      {
+        "cota": "Imóvel - R$ 450.000,00",
+        "credito": 450000.0,
+        "parcela_minima": 2331.81,
+        "parcela_maxima": 2331.81
+      },
+      {
+        "cota": "Imóvel - R$ 460.000,00",
+        "credito": 460000.0,
+        "parcela_minima": 2383.63,
+        "parcela_maxima": 2383.63
+      },
+      {
+        "cota": "Imóvel - R$ 470.000,00",
+        "credito": 470000.0,
+        "parcela_minima": 2435.45,
+        "parcela_maxima": 2435.45
+      },
+      {
+        "cota": "Imóvel - R$ 480.000,00",
+        "credito": 480000.0,
+        "parcela_minima": 2487.26,
+        "parcela_maxima": 2487.26
+      },
+      {
+        "cota": "Imóvel - R$ 490.000,00",
+        "credito": 490000.0,
+        "parcela_minima": 2539.08,
+        "parcela_maxima": 2539.08
+      },
+      {
+        "cota": "Imóvel - R$ 500.000,00",
+        "credito": 500000.0,
+        "parcela_minima": 2590.9,
+        "parcela_maxima": 2590.9
+      },
+      {
+        "cota": "Imóvel - R$ 510.000,00",
+        "credito": 510000.0,
+        "parcela_minima": 2642.72,
+        "parcela_maxima": 2642.72
+      },
+      {
+        "cota": "Imóvel - R$ 520.000,00",
+        "credito": 520000.0,
+        "parcela_minima": 2694.54,
+        "parcela_maxima": 2694.54
+      },
+      {
+        "cota": "Imóvel - R$ 530.000,00",
+        "credito": 530000.0,
+        "parcela_minima": 2746.35,
+        "parcela_maxima": 2746.35
+      },
+      {
+        "cota": "Imóvel - R$ 540.000,00",
+        "credito": 540000.0,
+        "parcela_minima": 2798.17,
+        "parcela_maxima": 2798.17
+      },
+      {
+        "cota": "Imóvel - R$ 550.000,00",
+        "credito": 550000.0,
+        "parcela_minima": 2849.99,
+        "parcela_maxima": 2849.99
+      },
+      {
+        "cota": "Imóvel - R$ 560.000,00",
+        "credito": 560000.0,
+        "parcela_minima": 2901.81,
+        "parcela_maxima": 2901.81
+      }
+    ]
+  },
+  {
+    "grupo": "I0412",
+    "segmento": "Imóveis em Andamento (Embutido)",
+    "parcela_atual": 191,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "343",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 140.000,00",
+        "credito": 140000.0,
+        "parcela_minima": 931.95,
+        "parcela_maxima": 931.95
+      },
+      {
+        "cota": "Imóvel - R$ 150.000,00",
+        "credito": 150000.0,
+        "parcela_minima": 998.52,
+        "parcela_maxima": 998.52
+      },
+      {
+        "cota": "Imóvel - R$ 160.000,00",
+        "credito": 160000.0,
+        "parcela_minima": 1065.09,
+        "parcela_maxima": 1065.09
+      },
+      {
+        "cota": "Imóvel - R$ 170.000,00",
+        "credito": 170000.0,
+        "parcela_minima": 1131.66,
+        "parcela_maxima": 1131.66
+      },
+      {
+        "cota": "Imóvel - R$ 180.000,00",
+        "credito": 180000.0,
+        "parcela_minima": 1198.22,
+        "parcela_maxima": 1198.22
+      },
+      {
+        "cota": "Imóvel - R$ 190.000,00",
+        "credito": 190000.0,
+        "parcela_minima": 1264.79,
+        "parcela_maxima": 1264.79
+      },
+      {
+        "cota": "Imóvel - R$ 200.000,00",
+        "credito": 200000.0,
+        "parcela_minima": 1331.36,
+        "parcela_maxima": 1331.36
+      },
+      {
+        "cota": "Imóvel - R$ 210.000,00",
+        "credito": 210000.0,
+        "parcela_minima": 1397.93,
+        "parcela_maxima": 1397.93
+      },
+      {
+        "cota": "Imóvel - R$ 220.000,00",
+        "credito": 220000.0,
+        "parcela_minima": 1464.5,
+        "parcela_maxima": 1464.5
+      },
+      {
+        "cota": "Imóvel - R$ 230.000,00",
+        "credito": 230000.0,
+        "parcela_minima": 1531.06,
+        "parcela_maxima": 1531.06
+      },
+      {
+        "cota": "Imóvel - R$ 240.000,00",
+        "credito": 240000.0,
+        "parcela_minima": 1597.63,
+        "parcela_maxima": 1597.63
+      },
+      {
+        "cota": "Imóvel - R$ 250.000,00",
+        "credito": 250000.0,
+        "parcela_minima": 1664.2,
+        "parcela_maxima": 1664.2
+      },
+      {
+        "cota": "Imóvel - R$ 260.000,00",
+        "credito": 260000.0,
+        "parcela_minima": 1730.77,
+        "parcela_maxima": 1730.77
+      },
+      {
+        "cota": "Imóvel - R$ 270.000,00",
+        "credito": 270000.0,
+        "parcela_minima": 1797.34,
+        "parcela_maxima": 1797.34
+      },
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1863.9,
+        "parcela_maxima": 1863.9
+      }
+    ]
+  },
+  {
+    "grupo": "I0414",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 189,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "39",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1443.62,
+        "parcela_maxima": 1443.62
+      },
+      {
+        "cota": "Imóvel - R$ 290.000,00",
+        "credito": 290000.0,
+        "parcela_minima": 1495.18,
+        "parcela_maxima": 1495.18
+      },
+      {
+        "cota": "Imóvel - R$ 300.000,00",
+        "credito": 300000.0,
+        "parcela_minima": 1546.74,
+        "parcela_maxima": 1546.74
+      },
+      {
+        "cota": "Imóvel - R$ 310.000,00",
+        "credito": 310000.0,
+        "parcela_minima": 1598.3,
+        "parcela_maxima": 1598.3
+      },
+      {
+        "cota": "Imóvel - R$ 320.000,00",
+        "credito": 320000.0,
+        "parcela_minima": 1649.86,
+        "parcela_maxima": 1649.86
+      },
+      {
+        "cota": "Imóvel - R$ 330.000,00",
+        "credito": 330000.0,
+        "parcela_minima": 1701.41,
+        "parcela_maxima": 1701.41
+      },
+      {
+        "cota": "Imóvel - R$ 340.000,00",
+        "credito": 340000.0,
+        "parcela_minima": 1752.97,
+        "parcela_maxima": 1752.97
+      },
+      {
+        "cota": "Imóvel - R$ 350.000,00",
+        "credito": 350000.0,
+        "parcela_minima": 1804.53,
+        "parcela_maxima": 1804.53
+      },
+      {
+        "cota": "Imóvel - R$ 360.000,00",
+        "credito": 360000.0,
+        "parcela_minima": 1856.09,
+        "parcela_maxima": 1856.09
+      },
+      {
+        "cota": "Imóvel - R$ 370.000,00",
+        "credito": 370000.0,
+        "parcela_minima": 1907.65,
+        "parcela_maxima": 1907.65
+      },
+      {
+        "cota": "Imóvel - R$ 380.000,00",
+        "credito": 380000.0,
+        "parcela_minima": 1959.2,
+        "parcela_maxima": 1959.2
+      },
+      {
+        "cota": "Imóvel - R$ 390.000,00",
+        "credito": 390000.0,
+        "parcela_minima": 2010.76,
+        "parcela_maxima": 2010.76
+      },
+      {
+        "cota": "Imóvel - R$ 400.000,00",
+        "credito": 400000.0,
+        "parcela_minima": 2062.32,
+        "parcela_maxima": 2062.32
+      },
+      {
+        "cota": "Imóvel - R$ 410.000,00",
+        "credito": 410000.0,
+        "parcela_minima": 2113.88,
+        "parcela_maxima": 2113.88
+      },
+      {
+        "cota": "Imóvel - R$ 420.000,00",
+        "credito": 420000.0,
+        "parcela_minima": 2165.44,
+        "parcela_maxima": 2165.44
+      },
+      {
+        "cota": "Imóvel - R$ 430.000,00",
+        "credito": 430000.0,
+        "parcela_minima": 2216.99,
+        "parcela_maxima": 2216.99
+      },
+      {
+        "cota": "Imóvel - R$ 440.000,00",
+        "credito": 440000.0,
+        "parcela_minima": 2268.55,
+        "parcela_maxima": 2268.55
+      },
+      {
+        "cota": "Imóvel - R$ 450.000,00",
+        "credito": 450000.0,
+        "parcela_minima": 2320.11,
+        "parcela_maxima": 2320.11
+      },
+      {
+        "cota": "Imóvel - R$ 460.000,00",
+        "credito": 460000.0,
+        "parcela_minima": 2371.67,
+        "parcela_maxima": 2371.67
+      },
+      {
+        "cota": "Imóvel - R$ 470.000,00",
+        "credito": 470000.0,
+        "parcela_minima": 2423.23,
+        "parcela_maxima": 2423.23
+      },
+      {
+        "cota": "Imóvel - R$ 480.000,00",
+        "credito": 480000.0,
+        "parcela_minima": 2474.78,
+        "parcela_maxima": 2474.78
+      },
+      {
+        "cota": "Imóvel - R$ 490.000,00",
+        "credito": 490000.0,
+        "parcela_minima": 2526.34,
+        "parcela_maxima": 2526.34
+      },
+      {
+        "cota": "Imóvel - R$ 500.000,00",
+        "credito": 500000.0,
+        "parcela_minima": 2577.9,
+        "parcela_maxima": 2577.9
+      },
+      {
+        "cota": "Imóvel - R$ 510.000,00",
+        "credito": 510000.0,
+        "parcela_minima": 2629.46,
+        "parcela_maxima": 2629.46
+      },
+      {
+        "cota": "Imóvel - R$ 520.000,00",
+        "credito": 520000.0,
+        "parcela_minima": 2681.02,
+        "parcela_maxima": 2681.02
+      },
+      {
+        "cota": "Imóvel - R$ 530.000,00",
+        "credito": 530000.0,
+        "parcela_minima": 2732.57,
+        "parcela_maxima": 2732.57
+      },
+      {
+        "cota": "Imóvel - R$ 540.000,00",
+        "credito": 540000.0,
+        "parcela_minima": 2784.13,
+        "parcela_maxima": 2784.13
+      },
+      {
+        "cota": "Imóvel - R$ 550.000,00",
+        "credito": 550000.0,
+        "parcela_minima": 2835.69,
+        "parcela_maxima": 2835.69
+      },
+      {
+        "cota": "Imóvel - R$ 560.000,00",
+        "credito": 560000.0,
+        "parcela_minima": 2887.25,
+        "parcela_maxima": 2887.25
+      }
+    ]
+  },
+  {
+    "grupo": "I0416",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 191,
+    "prazo_total": 200,
+    "taxa": 19.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "72",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 140.000,00",
+        "credito": 140000.0,
+        "parcela_minima": 727.22,
+        "parcela_maxima": 727.22
+      },
+      {
+        "cota": "Imóvel - R$ 150.000,00",
+        "credito": 150000.0,
+        "parcela_minima": 779.16,
+        "parcela_maxima": 779.16
+      },
+      {
+        "cota": "Imóvel - R$ 160.000,00",
+        "credito": 160000.0,
+        "parcela_minima": 831.1,
+        "parcela_maxima": 831.1
+      },
+      {
+        "cota": "Imóvel - R$ 170.000,00",
+        "credito": 170000.0,
+        "parcela_minima": 883.05,
+        "parcela_maxima": 883.05
+      },
+      {
+        "cota": "Imóvel - R$ 180.000,00",
+        "credito": 180000.0,
+        "parcela_minima": 934.99,
+        "parcela_maxima": 934.99
+      },
+      {
+        "cota": "Imóvel - R$ 190.000,00",
+        "credito": 190000.0,
+        "parcela_minima": 986.94,
+        "parcela_maxima": 986.94
+      },
+      {
+        "cota": "Imóvel - R$ 200.000,00",
+        "credito": 200000.0,
+        "parcela_minima": 1038.88,
+        "parcela_maxima": 1038.88
+      },
+      {
+        "cota": "Imóvel - R$ 220.000,00",
+        "credito": 220000.0,
+        "parcela_minima": 1142.77,
+        "parcela_maxima": 1142.77
+      },
+      {
+        "cota": "Imóvel - R$ 230.000,00",
+        "credito": 230000.0,
+        "parcela_minima": 1194.71,
+        "parcela_maxima": 1194.71
+      },
+      {
+        "cota": "Imóvel - R$ 240.000,00",
+        "credito": 240000.0,
+        "parcela_minima": 1246.66,
+        "parcela_maxima": 1246.66
+      },
+      {
+        "cota": "Imóvel - R$ 250.000,00",
+        "credito": 250000.0,
+        "parcela_minima": 1298.6,
+        "parcela_maxima": 1298.6
+      },
+      {
+        "cota": "Imóvel - R$ 260.000,00",
+        "credito": 260000.0,
+        "parcela_minima": 1350.54,
+        "parcela_maxima": 1350.54
+      },
+      {
+        "cota": "Imóvel - R$ 270.000,00",
+        "credito": 270000.0,
+        "parcela_minima": 1402.49,
+        "parcela_maxima": 1402.49
+      },
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1454.43,
+        "parcela_maxima": 1454.43
+      }
+    ]
+  },
+  {
+    "grupo": "I0471",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 195,
+    "prazo_total": 200,
+    "taxa": 19.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "29",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 140.000,00",
+        "credito": 140000.0,
+        "parcela_minima": 713.64,
+        "parcela_maxima": 713.64
+      },
+      {
+        "cota": "Imóvel - R$ 150.000,00",
+        "credito": 150000.0,
+        "parcela_minima": 764.61,
+        "parcela_maxima": 764.61
+      },
+      {
+        "cota": "Imóvel - R$ 160.000,00",
+        "credito": 160000.0,
+        "parcela_minima": 815.58,
+        "parcela_maxima": 815.58
+      },
+      {
+        "cota": "Imóvel - R$ 170.000,00",
+        "credito": 170000.0,
+        "parcela_minima": 866.56,
+        "parcela_maxima": 866.56
+      },
+      {
+        "cota": "Imóvel - R$ 180.000,00",
+        "credito": 180000.0,
+        "parcela_minima": 917.53,
+        "parcela_maxima": 917.53
+      },
+      {
+        "cota": "Imóvel - R$ 190.000,00",
+        "credito": 190000.0,
+        "parcela_minima": 968.51,
+        "parcela_maxima": 968.51
+      },
+      {
+        "cota": "Imóvel - R$ 200.000,00",
+        "credito": 200000.0,
+        "parcela_minima": 1019.48,
+        "parcela_maxima": 1019.48
+      },
+      {
+        "cota": "Imóvel - R$ 210.000,00",
+        "credito": 210000.0,
+        "parcela_minima": 1070.45,
+        "parcela_maxima": 1070.45
+      },
+      {
+        "cota": "Imóvel - R$ 220.000,00",
+        "credito": 220000.0,
+        "parcela_minima": 1121.43,
+        "parcela_maxima": 1121.43
+      },
+      {
+        "cota": "Imóvel - R$ 230.000,00",
+        "credito": 230000.0,
+        "parcela_minima": 1172.4,
+        "parcela_maxima": 1172.4
+      },
+      {
+        "cota": "Imóvel - R$ 240.000,00",
+        "credito": 240000.0,
+        "parcela_minima": 1223.38,
+        "parcela_maxima": 1223.38
+      },
+      {
+        "cota": "Imóvel - R$ 250.000,00",
+        "credito": 250000.0,
+        "parcela_minima": 1274.35,
+        "parcela_maxima": 1274.35
+      },
+      {
+        "cota": "Imóvel - R$ 260.000,00",
+        "credito": 260000.0,
+        "parcela_minima": 1325.32,
+        "parcela_maxima": 1325.32
+      },
+      {
+        "cota": "Imóvel - R$ 270.000,00",
+        "credito": 270000.0,
+        "parcela_minima": 1376.3,
+        "parcela_maxima": 1376.3
+      },
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1427.27,
+        "parcela_maxima": 1427.27
+      }
+    ]
+  },
+  {
+    "grupo": "I0472",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 195,
+    "prazo_total": 200,
+    "taxa": 21.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "66",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 70.000,00",
+        "credito": 70000.0,
+        "parcela_minima": 362.6,
+        "parcela_maxima": 362.6
+      },
+      {
+        "cota": "Imóvel - R$ 75.000,00",
+        "credito": 75000.0,
+        "parcela_minima": 388.5,
+        "parcela_maxima": 388.5
+      },
+      {
+        "cota": "Imóvel - R$ 80.000,00",
+        "credito": 80000.0,
+        "parcela_minima": 414.4,
+        "parcela_maxima": 414.4
+      },
+      {
+        "cota": "Imóvel - R$ 85.000,00",
+        "credito": 85000.0,
+        "parcela_minima": 440.3,
+        "parcela_maxima": 440.3
+      },
+      {
+        "cota": "Imóvel - R$ 90.000,00",
+        "credito": 90000.0,
+        "parcela_minima": 466.2,
+        "parcela_maxima": 466.2
+      },
+      {
+        "cota": "Imóvel - R$ 95.000,00",
+        "credito": 95000.0,
+        "parcela_minima": 492.1,
+        "parcela_maxima": 492.1
+      },
+      {
+        "cota": "Imóvel - R$ 100.000,00",
+        "credito": 100000.0,
+        "parcela_minima": 518.0,
+        "parcela_maxima": 518.0
+      },
+      {
+        "cota": "Imóvel - R$ 105.000,00",
+        "credito": 105000.0,
+        "parcela_minima": 543.9,
+        "parcela_maxima": 543.9
+      },
+      {
+        "cota": "Imóvel - R$ 110.000,00",
+        "credito": 110000.0,
+        "parcela_minima": 569.8,
+        "parcela_maxima": 569.8
+      },
+      {
+        "cota": "Imóvel - R$ 115.000,00",
+        "credito": 115000.0,
+        "parcela_minima": 595.7,
+        "parcela_maxima": 595.7
+      },
+      {
+        "cota": "Imóvel - R$ 120.000,00",
+        "credito": 120000.0,
+        "parcela_minima": 621.6,
+        "parcela_maxima": 621.6
+      },
+      {
+        "cota": "Imóvel - R$ 125.000,00",
+        "credito": 125000.0,
+        "parcela_minima": 647.5,
+        "parcela_maxima": 647.5
+      },
+      {
+        "cota": "Imóvel - R$ 130.000,00",
+        "credito": 130000.0,
+        "parcela_minima": 673.4,
+        "parcela_maxima": 673.4
+      },
+      {
+        "cota": "Imóvel - R$ 135.000,00",
+        "credito": 135000.0,
+        "parcela_minima": 699.3,
+        "parcela_maxima": 699.3
+      },
+      {
+        "cota": "Imóvel - R$ 140.000,00",
+        "credito": 140000.0,
+        "parcela_minima": 725.2,
+        "parcela_maxima": 725.2
+      }
+    ]
+  },
+  {
+    "grupo": "I0477",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 195,
+    "prazo_total": 200,
+    "taxa": 21.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "66",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 70.000,00",
+        "credito": 70000.0,
+        "parcela_minima": 362.6,
+        "parcela_maxima": 362.6
+      },
+      {
+        "cota": "Imóvel - R$ 75.000,00",
+        "credito": 75000.0,
+        "parcela_minima": 388.5,
+        "parcela_maxima": 388.5
+      },
+      {
+        "cota": "Imóvel - R$ 80.000,00",
+        "credito": 80000.0,
+        "parcela_minima": 414.4,
+        "parcela_maxima": 414.4
+      },
+      {
+        "cota": "Imóvel - R$ 85.000,00",
+        "credito": 85000.0,
+        "parcela_minima": 440.3,
+        "parcela_maxima": 440.3
+      },
+      {
+        "cota": "Imóvel - R$ 90.000,00",
+        "credito": 90000.0,
+        "parcela_minima": 466.2,
+        "parcela_maxima": 466.2
+      },
+      {
+        "cota": "Imóvel - R$ 95.000,00",
+        "credito": 95000.0,
+        "parcela_minima": 492.1,
+        "parcela_maxima": 492.1
+      },
+      {
+        "cota": "Imóvel - R$ 100.000,00",
+        "credito": 100000.0,
+        "parcela_minima": 518.0,
+        "parcela_maxima": 518.0
+      },
+      {
+        "cota": "Imóvel - R$ 105.000,00",
+        "credito": 105000.0,
+        "parcela_minima": 543.9,
+        "parcela_maxima": 543.9
+      },
+      {
+        "cota": "Imóvel - R$ 110.000,00",
+        "credito": 110000.0,
+        "parcela_minima": 569.8,
+        "parcela_maxima": 569.8
+      },
+      {
+        "cota": "Imóvel - R$ 115.000,00",
+        "credito": 115000.0,
+        "parcela_minima": 595.7,
+        "parcela_maxima": 595.7
+      },
+      {
+        "cota": "Imóvel - R$ 120.000,00",
+        "credito": 120000.0,
+        "parcela_minima": 621.6,
+        "parcela_maxima": 621.6
+      },
+      {
+        "cota": "Imóvel - R$ 125.000,00",
+        "credito": 125000.0,
+        "parcela_minima": 647.5,
+        "parcela_maxima": 647.5
+      },
+      {
+        "cota": "Imóvel - R$ 130.000,00",
+        "credito": 130000.0,
+        "parcela_minima": 673.4,
+        "parcela_maxima": 673.4
+      },
+      {
+        "cota": "Imóvel - R$ 135.000,00",
+        "credito": 135000.0,
+        "parcela_minima": 699.3,
+        "parcela_maxima": 699.3
+      },
+      {
+        "cota": "Imóvel - R$ 140.000,00",
+        "credito": 140000.0,
+        "parcela_minima": 725.2,
+        "parcela_maxima": 725.2
+      }
+    ]
+  },
+  {
+    "grupo": "I0478",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 195,
+    "prazo_total": 200,
+    "taxa": 21.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "109",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 70.000,00",
+        "credito": 70000.0,
+        "parcela_minima": 362.6,
+        "parcela_maxima": 362.6
+      },
+      {
+        "cota": "Imóvel - R$ 75.000,00",
+        "credito": 75000.0,
+        "parcela_minima": 388.5,
+        "parcela_maxima": 388.5
+      },
+      {
+        "cota": "Imóvel - R$ 80.000,00",
+        "credito": 80000.0,
+        "parcela_minima": 414.4,
+        "parcela_maxima": 414.4
+      },
+      {
+        "cota": "Imóvel - R$ 85.000,00",
+        "credito": 85000.0,
+        "parcela_minima": 440.3,
+        "parcela_maxima": 440.3
+      },
+      {
+        "cota": "Imóvel - R$ 90.000,00",
+        "credito": 90000.0,
+        "parcela_minima": 466.2,
+        "parcela_maxima": 466.2
+      },
+      {
+        "cota": "Imóvel - R$ 95.000,00",
+        "credito": 95000.0,
+        "parcela_minima": 492.1,
+        "parcela_maxima": 492.1
+      },
+      {
+        "cota": "Imóvel - R$ 100.000,00",
+        "credito": 100000.0,
+        "parcela_minima": 518.0,
+        "parcela_maxima": 518.0
+      },
+      {
+        "cota": "Imóvel - R$ 105.000,00",
+        "credito": 105000.0,
+        "parcela_minima": 543.9,
+        "parcela_maxima": 543.9
+      },
+      {
+        "cota": "Imóvel - R$ 110.000,00",
+        "credito": 110000.0,
+        "parcela_minima": 569.8,
+        "parcela_maxima": 569.8
+      },
+      {
+        "cota": "Imóvel - R$ 115.000,00",
+        "credito": 115000.0,
+        "parcela_minima": 595.7,
+        "parcela_maxima": 595.7
+      },
+      {
+        "cota": "Imóvel - R$ 120.000,00",
+        "credito": 120000.0,
+        "parcela_minima": 621.6,
+        "parcela_maxima": 621.6
+      },
+      {
+        "cota": "Imóvel - R$ 125.000,00",
+        "credito": 125000.0,
+        "parcela_minima": 647.5,
+        "parcela_maxima": 647.5
+      },
+      {
+        "cota": "Imóvel - R$ 130.000,00",
+        "credito": 130000.0,
+        "parcela_minima": 673.4,
+        "parcela_maxima": 673.4
+      },
+      {
+        "cota": "Imóvel - R$ 135.000,00",
+        "credito": 135000.0,
+        "parcela_minima": 699.3,
+        "parcela_maxima": 699.3
+      },
+      {
+        "cota": "Imóvel - R$ 140.000,00",
+        "credito": 140000.0,
+        "parcela_minima": 725.2,
+        "parcela_maxima": 725.2
+      }
+    ]
+  },
+  {
+    "grupo": "I0479",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 195,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "23",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1403.58,
+        "parcela_maxima": 1403.58
+      },
+      {
+        "cota": "Imóvel - R$ 290.000,00",
+        "credito": 290000.0,
+        "parcela_minima": 1453.71,
+        "parcela_maxima": 1453.71
+      },
+      {
+        "cota": "Imóvel - R$ 300.000,00",
+        "credito": 300000.0,
+        "parcela_minima": 1503.84,
+        "parcela_maxima": 1503.84
+      },
+      {
+        "cota": "Imóvel - R$ 310.000,00",
+        "credito": 310000.0,
+        "parcela_minima": 1553.97,
+        "parcela_maxima": 1553.97
+      },
+      {
+        "cota": "Imóvel - R$ 330.000,00",
+        "credito": 330000.0,
+        "parcela_minima": 1654.22,
+        "parcela_maxima": 1654.22
+      },
+      {
+        "cota": "Imóvel - R$ 340.000,00",
+        "credito": 340000.0,
+        "parcela_minima": 1704.35,
+        "parcela_maxima": 1704.35
+      },
+      {
+        "cota": "Imóvel - R$ 350.000,00",
+        "credito": 350000.0,
+        "parcela_minima": 1754.48,
+        "parcela_maxima": 1754.48
+      },
+      {
+        "cota": "Imóvel - R$ 360.000,00",
+        "credito": 360000.0,
+        "parcela_minima": 1804.61,
+        "parcela_maxima": 1804.61
+      },
+      {
+        "cota": "Imóvel - R$ 370.000,00",
+        "credito": 370000.0,
+        "parcela_minima": 1854.74,
+        "parcela_maxima": 1854.74
+      },
+      {
+        "cota": "Imóvel - R$ 380.000,00",
+        "credito": 380000.0,
+        "parcela_minima": 1904.86,
+        "parcela_maxima": 1904.86
+      },
+      {
+        "cota": "Imóvel - R$ 400.000,00",
+        "credito": 400000.0,
+        "parcela_minima": 2005.12,
+        "parcela_maxima": 2005.12
+      },
+      {
+        "cota": "Imóvel - R$ 420.000,00",
+        "credito": 420000.0,
+        "parcela_minima": 2105.38,
+        "parcela_maxima": 2105.38
+      },
+      {
+        "cota": "Imóvel - R$ 430.000,00",
+        "credito": 430000.0,
+        "parcela_minima": 2155.5,
+        "parcela_maxima": 2155.5
+      },
+      {
+        "cota": "Imóvel - R$ 440.000,00",
+        "credito": 440000.0,
+        "parcela_minima": 2205.63,
+        "parcela_maxima": 2205.63
+      },
+      {
+        "cota": "Imóvel - R$ 450.000,00",
+        "credito": 450000.0,
+        "parcela_minima": 2255.76,
+        "parcela_maxima": 2255.76
+      },
+      {
+        "cota": "Imóvel - R$ 460.000,00",
+        "credito": 460000.0,
+        "parcela_minima": 2305.89,
+        "parcela_maxima": 2305.89
+      },
+      {
+        "cota": "Imóvel - R$ 470.000,00",
+        "credito": 470000.0,
+        "parcela_minima": 2356.02,
+        "parcela_maxima": 2356.02
+      },
+      {
+        "cota": "Imóvel - R$ 480.000,00",
+        "credito": 480000.0,
+        "parcela_minima": 2406.14,
+        "parcela_maxima": 2406.14
+      },
+      {
+        "cota": "Imóvel - R$ 500.000,00",
+        "credito": 500000.0,
+        "parcela_minima": 2506.4,
+        "parcela_maxima": 2506.4
+      },
+      {
+        "cota": "Imóvel - R$ 510.000,00",
+        "credito": 510000.0,
+        "parcela_minima": 2556.53,
+        "parcela_maxima": 2556.53
+      },
+      {
+        "cota": "Imóvel - R$ 520.000,00",
+        "credito": 520000.0,
+        "parcela_minima": 2606.66,
+        "parcela_maxima": 2606.66
+      },
+      {
+        "cota": "Imóvel - R$ 540.000,00",
+        "credito": 540000.0,
+        "parcela_minima": 2706.91,
+        "parcela_maxima": 2706.91
+      },
+      {
+        "cota": "Imóvel - R$ 550.000,00",
+        "credito": 550000.0,
+        "parcela_minima": 2757.04,
+        "parcela_maxima": 2757.04
+      },
+      {
+        "cota": "Imóvel - R$ 560.000,00",
+        "credito": 560000.0,
+        "parcela_minima": 2807.17,
+        "parcela_maxima": 2807.17
+      }
+    ]
+  },
+  {
+    "grupo": "I0480",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 195,
+    "prazo_total": 200,
+    "taxa": 21.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "43",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 70.000,00",
+        "credito": 70000.0,
+        "parcela_minima": 362.6,
+        "parcela_maxima": 362.6
+      },
+      {
+        "cota": "Imóvel - R$ 75.000,00",
+        "credito": 75000.0,
+        "parcela_minima": 388.5,
+        "parcela_maxima": 388.5
+      },
+      {
+        "cota": "Imóvel - R$ 80.000,00",
+        "credito": 80000.0,
+        "parcela_minima": 414.4,
+        "parcela_maxima": 414.4
+      },
+      {
+        "cota": "Imóvel - R$ 85.000,00",
+        "credito": 85000.0,
+        "parcela_minima": 440.3,
+        "parcela_maxima": 440.3
+      },
+      {
+        "cota": "Imóvel - R$ 90.000,00",
+        "credito": 90000.0,
+        "parcela_minima": 466.2,
+        "parcela_maxima": 466.2
+      },
+      {
+        "cota": "Imóvel - R$ 95.000,00",
+        "credito": 95000.0,
+        "parcela_minima": 492.1,
+        "parcela_maxima": 492.1
+      },
+      {
+        "cota": "Imóvel - R$ 100.000,00",
+        "credito": 100000.0,
+        "parcela_minima": 518.0,
+        "parcela_maxima": 518.0
+      },
+      {
+        "cota": "Imóvel - R$ 105.000,00",
+        "credito": 105000.0,
+        "parcela_minima": 543.9,
+        "parcela_maxima": 543.9
+      },
+      {
+        "cota": "Imóvel - R$ 110.000,00",
+        "credito": 110000.0,
+        "parcela_minima": 569.8,
+        "parcela_maxima": 569.8
+      },
+      {
+        "cota": "Imóvel - R$ 115.000,00",
+        "credito": 115000.0,
+        "parcela_minima": 595.7,
+        "parcela_maxima": 595.7
+      },
+      {
+        "cota": "Imóvel - R$ 120.000,00",
+        "credito": 120000.0,
+        "parcela_minima": 621.6,
+        "parcela_maxima": 621.6
+      },
+      {
+        "cota": "Imóvel - R$ 125.000,00",
+        "credito": 125000.0,
+        "parcela_minima": 647.5,
+        "parcela_maxima": 647.5
+      },
+      {
+        "cota": "Imóvel - R$ 130.000,00",
+        "credito": 130000.0,
+        "parcela_minima": 673.4,
+        "parcela_maxima": 673.4
+      },
+      {
+        "cota": "Imóvel - R$ 135.000,00",
+        "credito": 135000.0,
+        "parcela_minima": 699.3,
+        "parcela_maxima": 699.3
+      },
+      {
+        "cota": "Imóvel - R$ 140.000,00",
+        "credito": 140000.0,
+        "parcela_minima": 725.2,
+        "parcela_maxima": 725.2
+      }
+    ]
+  },
+  {
+    "grupo": "I0509",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 198,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "48",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1384.54,
+        "parcela_maxima": 1384.54
+      },
+      {
+        "cota": "Imóvel - R$ 290.000,00",
+        "credito": 290000.0,
+        "parcela_minima": 1433.99,
+        "parcela_maxima": 1433.99
+      },
+      {
+        "cota": "Imóvel - R$ 300.000,00",
+        "credito": 300000.0,
+        "parcela_minima": 1483.44,
+        "parcela_maxima": 1483.44
+      },
+      {
+        "cota": "Imóvel - R$ 310.000,00",
+        "credito": 310000.0,
+        "parcela_minima": 1532.89,
+        "parcela_maxima": 1532.89
+      },
+      {
+        "cota": "Imóvel - R$ 320.000,00",
+        "credito": 320000.0,
+        "parcela_minima": 1582.34,
+        "parcela_maxima": 1582.34
+      },
+      {
+        "cota": "Imóvel - R$ 330.000,00",
+        "credito": 330000.0,
+        "parcela_minima": 1631.78,
+        "parcela_maxima": 1631.78
+      },
+      {
+        "cota": "Imóvel - R$ 340.000,00",
+        "credito": 340000.0,
+        "parcela_minima": 1681.23,
+        "parcela_maxima": 1681.23
+      },
+      {
+        "cota": "Imóvel - R$ 350.000,00",
+        "credito": 350000.0,
+        "parcela_minima": 1730.68,
+        "parcela_maxima": 1730.68
+      },
+      {
+        "cota": "Imóvel - R$ 360.000,00",
+        "credito": 360000.0,
+        "parcela_minima": 1780.13,
+        "parcela_maxima": 1780.13
+      },
+      {
+        "cota": "Imóvel - R$ 370.000,00",
+        "credito": 370000.0,
+        "parcela_minima": 1829.58,
+        "parcela_maxima": 1829.58
+      },
+      {
+        "cota": "Imóvel - R$ 380.000,00",
+        "credito": 380000.0,
+        "parcela_minima": 1879.02,
+        "parcela_maxima": 1879.02
+      },
+      {
+        "cota": "Imóvel - R$ 400.000,00",
+        "credito": 400000.0,
+        "parcela_minima": 1977.92,
+        "parcela_maxima": 1977.92
+      },
+      {
+        "cota": "Imóvel - R$ 420.000,00",
+        "credito": 420000.0,
+        "parcela_minima": 2076.82,
+        "parcela_maxima": 2076.82
+      },
+      {
+        "cota": "Imóvel - R$ 440.000,00",
+        "credito": 440000.0,
+        "parcela_minima": 2175.71,
+        "parcela_maxima": 2175.71
+      },
+      {
+        "cota": "Imóvel - R$ 450.000,00",
+        "credito": 450000.0,
+        "parcela_minima": 2225.16,
+        "parcela_maxima": 2225.16
+      },
+      {
+        "cota": "Imóvel - R$ 460.000,00",
+        "credito": 460000.0,
+        "parcela_minima": 2274.61,
+        "parcela_maxima": 2274.61
+      },
+      {
+        "cota": "Imóvel - R$ 470.000,00",
+        "credito": 470000.0,
+        "parcela_minima": 2324.06,
+        "parcela_maxima": 2324.06
+      },
+      {
+        "cota": "Imóvel - R$ 480.000,00",
+        "credito": 480000.0,
+        "parcela_minima": 2373.5,
+        "parcela_maxima": 2373.5
+      },
+      {
+        "cota": "Imóvel - R$ 500.000,00",
+        "credito": 500000.0,
+        "parcela_minima": 2472.4,
+        "parcela_maxima": 2472.4
+      },
+      {
+        "cota": "Imóvel - R$ 510.000,00",
+        "credito": 510000.0,
+        "parcela_minima": 2521.85,
+        "parcela_maxima": 2521.85
+      },
+      {
+        "cota": "Imóvel - R$ 520.000,00",
+        "credito": 520000.0,
+        "parcela_minima": 2571.3,
+        "parcela_maxima": 2571.3
+      },
+      {
+        "cota": "Imóvel - R$ 540.000,00",
+        "credito": 540000.0,
+        "parcela_minima": 2670.19,
+        "parcela_maxima": 2670.19
+      },
+      {
+        "cota": "Imóvel - R$ 550.000,00",
+        "credito": 550000.0,
+        "parcela_minima": 2719.64,
+        "parcela_maxima": 2719.64
+      },
+      {
+        "cota": "Imóvel - R$ 560.000,00",
+        "credito": 560000.0,
+        "parcela_minima": 2769.09,
+        "parcela_maxima": 2769.09
+      }
+    ]
+  },
+  {
+    "grupo": "I0510",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 198,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "10",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1384.54,
+        "parcela_maxima": 1384.54
+      },
+      {
+        "cota": "Imóvel - R$ 290.000,00",
+        "credito": 290000.0,
+        "parcela_minima": 1433.99,
+        "parcela_maxima": 1433.99
+      },
+      {
+        "cota": "Imóvel - R$ 300.000,00",
+        "credito": 300000.0,
+        "parcela_minima": 1483.44,
+        "parcela_maxima": 1483.44
+      },
+      {
+        "cota": "Imóvel - R$ 310.000,00",
+        "credito": 310000.0,
+        "parcela_minima": 1532.89,
+        "parcela_maxima": 1532.89
+      },
+      {
+        "cota": "Imóvel - R$ 320.000,00",
+        "credito": 320000.0,
+        "parcela_minima": 1582.34,
+        "parcela_maxima": 1582.34
+      },
+      {
+        "cota": "Imóvel - R$ 330.000,00",
+        "credito": 330000.0,
+        "parcela_minima": 1631.78,
+        "parcela_maxima": 1631.78
+      },
+      {
+        "cota": "Imóvel - R$ 340.000,00",
+        "credito": 340000.0,
+        "parcela_minima": 1681.23,
+        "parcela_maxima": 1681.23
+      },
+      {
+        "cota": "Imóvel - R$ 350.000,00",
+        "credito": 350000.0,
+        "parcela_minima": 1730.68,
+        "parcela_maxima": 1730.68
+      },
+      {
+        "cota": "Imóvel - R$ 360.000,00",
+        "credito": 360000.0,
+        "parcela_minima": 1780.13,
+        "parcela_maxima": 1780.13
+      },
+      {
+        "cota": "Imóvel - R$ 370.000,00",
+        "credito": 370000.0,
+        "parcela_minima": 1829.58,
+        "parcela_maxima": 1829.58
+      },
+      {
+        "cota": "Imóvel - R$ 380.000,00",
+        "credito": 380000.0,
+        "parcela_minima": 1879.02,
+        "parcela_maxima": 1879.02
+      },
+      {
+        "cota": "Imóvel - R$ 400.000,00",
+        "credito": 400000.0,
+        "parcela_minima": 1977.92,
+        "parcela_maxima": 1977.92
+      },
+      {
+        "cota": "Imóvel - R$ 420.000,00",
+        "credito": 420000.0,
+        "parcela_minima": 2076.82,
+        "parcela_maxima": 2076.82
+      },
+      {
+        "cota": "Imóvel - R$ 450.000,00",
+        "credito": 450000.0,
+        "parcela_minima": 2225.16,
+        "parcela_maxima": 2225.16
+      },
+      {
+        "cota": "Imóvel - R$ 460.000,00",
+        "credito": 460000.0,
+        "parcela_minima": 2274.61,
+        "parcela_maxima": 2274.61
+      },
+      {
+        "cota": "Imóvel - R$ 470.000,00",
+        "credito": 470000.0,
+        "parcela_minima": 2324.06,
+        "parcela_maxima": 2324.06
+      },
+      {
+        "cota": "Imóvel - R$ 480.000,00",
+        "credito": 480000.0,
+        "parcela_minima": 2373.5,
+        "parcela_maxima": 2373.5
+      },
+      {
+        "cota": "Imóvel - R$ 500.000,00",
+        "credito": 500000.0,
+        "parcela_minima": 2472.4,
+        "parcela_maxima": 2472.4
+      },
+      {
+        "cota": "Imóvel - R$ 510.000,00",
+        "credito": 510000.0,
+        "parcela_minima": 2521.85,
+        "parcela_maxima": 2521.85
+      },
+      {
+        "cota": "Imóvel - R$ 520.000,00",
+        "credito": 520000.0,
+        "parcela_minima": 2571.3,
+        "parcela_maxima": 2571.3
+      },
+      {
+        "cota": "Imóvel - R$ 540.000,00",
+        "credito": 540000.0,
+        "parcela_minima": 2670.19,
+        "parcela_maxima": 2670.19
+      },
+      {
+        "cota": "Imóvel - R$ 550.000,00",
+        "credito": 550000.0,
+        "parcela_minima": 2719.64,
+        "parcela_maxima": 2719.64
+      },
+      {
+        "cota": "Imóvel - R$ 560.000,00",
+        "credito": 560000.0,
+        "parcela_minima": 2769.09,
+        "parcela_maxima": 2769.09
+      }
+    ]
+  },
+  {
+    "grupo": "I0511",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 198,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "90",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1384.54,
+        "parcela_maxima": 1384.54
+      },
+      {
+        "cota": "Imóvel - R$ 290.000,00",
+        "credito": 290000.0,
+        "parcela_minima": 1433.99,
+        "parcela_maxima": 1433.99
+      },
+      {
+        "cota": "Imóvel - R$ 300.000,00",
+        "credito": 300000.0,
+        "parcela_minima": 1483.44,
+        "parcela_maxima": 1483.44
+      },
+      {
+        "cota": "Imóvel - R$ 310.000,00",
+        "credito": 310000.0,
+        "parcela_minima": 1532.89,
+        "parcela_maxima": 1532.89
+      },
+      {
+        "cota": "Imóvel - R$ 320.000,00",
+        "credito": 320000.0,
+        "parcela_minima": 1582.34,
+        "parcela_maxima": 1582.34
+      },
+      {
+        "cota": "Imóvel - R$ 330.000,00",
+        "credito": 330000.0,
+        "parcela_minima": 1631.78,
+        "parcela_maxima": 1631.78
+      },
+      {
+        "cota": "Imóvel - R$ 340.000,00",
+        "credito": 340000.0,
+        "parcela_minima": 1681.23,
+        "parcela_maxima": 1681.23
+      },
+      {
+        "cota": "Imóvel - R$ 350.000,00",
+        "credito": 350000.0,
+        "parcela_minima": 1730.68,
+        "parcela_maxima": 1730.68
+      },
+      {
+        "cota": "Imóvel - R$ 360.000,00",
+        "credito": 360000.0,
+        "parcela_minima": 1780.13,
+        "parcela_maxima": 1780.13
+      },
+      {
+        "cota": "Imóvel - R$ 370.000,00",
+        "credito": 370000.0,
+        "parcela_minima": 1829.58,
+        "parcela_maxima": 1829.58
+      },
+      {
+        "cota": "Imóvel - R$ 380.000,00",
+        "credito": 380000.0,
+        "parcela_minima": 1879.02,
+        "parcela_maxima": 1879.02
+      },
+      {
+        "cota": "Imóvel - R$ 400.000,00",
+        "credito": 400000.0,
+        "parcela_minima": 1977.92,
+        "parcela_maxima": 1977.92
+      },
+      {
+        "cota": "Imóvel - R$ 420.000,00",
+        "credito": 420000.0,
+        "parcela_minima": 2076.82,
+        "parcela_maxima": 2076.82
+      },
+      {
+        "cota": "Imóvel - R$ 430.000,00",
+        "credito": 430000.0,
+        "parcela_minima": 2126.26,
+        "parcela_maxima": 2126.26
+      },
+      {
+        "cota": "Imóvel - R$ 440.000,00",
+        "credito": 440000.0,
+        "parcela_minima": 2175.71,
+        "parcela_maxima": 2175.71
+      },
+      {
+        "cota": "Imóvel - R$ 460.000,00",
+        "credito": 460000.0,
+        "parcela_minima": 2274.61,
+        "parcela_maxima": 2274.61
+      },
+      {
+        "cota": "Imóvel - R$ 470.000,00",
+        "credito": 470000.0,
+        "parcela_minima": 2324.06,
+        "parcela_maxima": 2324.06
+      },
+      {
+        "cota": "Imóvel - R$ 480.000,00",
+        "credito": 480000.0,
+        "parcela_minima": 2373.5,
+        "parcela_maxima": 2373.5
+      },
+      {
+        "cota": "Imóvel - R$ 500.000,00",
+        "credito": 500000.0,
+        "parcela_minima": 2472.4,
+        "parcela_maxima": 2472.4
+      },
+      {
+        "cota": "Imóvel - R$ 510.000,00",
+        "credito": 510000.0,
+        "parcela_minima": 2521.85,
+        "parcela_maxima": 2521.85
+      },
+      {
+        "cota": "Imóvel - R$ 520.000,00",
+        "credito": 520000.0,
+        "parcela_minima": 2571.3,
+        "parcela_maxima": 2571.3
+      },
+      {
+        "cota": "Imóvel - R$ 540.000,00",
+        "credito": 540000.0,
+        "parcela_minima": 2670.19,
+        "parcela_maxima": 2670.19
+      },
+      {
+        "cota": "Imóvel - R$ 550.000,00",
+        "credito": 550000.0,
+        "parcela_minima": 2719.64,
+        "parcela_maxima": 2719.64
+      },
+      {
+        "cota": "Imóvel - R$ 560.000,00",
+        "credito": 560000.0,
+        "parcela_minima": 2769.09,
+        "parcela_maxima": 2769.09
+      }
+    ]
+  },
+  {
+    "grupo": "I0512",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 198,
+    "prazo_total": 200,
+    "taxa": 17.5,
+    "fundo_reserva": 2.0,
+    "cotas_total": "148",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 600.000,00",
+        "credito": 600000.0,
+        "parcela_minima": 2928.66,
+        "parcela_maxima": 2928.66
+      },
+      {
+        "cota": "Imóvel - R$ 650.000,00",
+        "credito": 650000.0,
+        "parcela_minima": 3172.72,
+        "parcela_maxima": 3172.72
+      },
+      {
+        "cota": "Imóvel - R$ 700.000,00",
+        "credito": 700000.0,
+        "parcela_minima": 3416.77,
+        "parcela_maxima": 3416.77
+      },
+      {
+        "cota": "Imóvel - R$ 750.000,00",
+        "credito": 750000.0,
+        "parcela_minima": 3660.83,
+        "parcela_maxima": 3660.83
+      },
+      {
+        "cota": "Imóvel - R$ 800.000,00",
+        "credito": 800000.0,
+        "parcela_minima": 3904.88,
+        "parcela_maxima": 3904.88
+      },
+      {
+        "cota": "Imóvel - R$ 850.000,00",
+        "credito": 850000.0,
+        "parcela_minima": 4148.94,
+        "parcela_maxima": 4148.94
+      },
+      {
+        "cota": "Imóvel - R$ 900.000,00",
+        "credito": 900000.0,
+        "parcela_minima": 4392.99,
+        "parcela_maxima": 4392.99
+      }
+    ]
+  },
+  {
+    "grupo": "I0515",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 198,
+    "prazo_total": 200,
+    "taxa": 17.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "164",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1384.54,
+        "parcela_maxima": 1384.54
+      },
+      {
+        "cota": "Imóvel - R$ 290.000,00",
+        "credito": 290000.0,
+        "parcela_minima": 1433.99,
+        "parcela_maxima": 1433.99
+      },
+      {
+        "cota": "Imóvel - R$ 300.000,00",
+        "credito": 300000.0,
+        "parcela_minima": 1483.44,
+        "parcela_maxima": 1483.44
+      },
+      {
+        "cota": "Imóvel - R$ 310.000,00",
+        "credito": 310000.0,
+        "parcela_minima": 1532.89,
+        "parcela_maxima": 1532.89
+      },
+      {
+        "cota": "Imóvel - R$ 320.000,00",
+        "credito": 320000.0,
+        "parcela_minima": 1582.34,
+        "parcela_maxima": 1582.34
+      },
+      {
+        "cota": "Imóvel - R$ 330.000,00",
+        "credito": 330000.0,
+        "parcela_minima": 1631.78,
+        "parcela_maxima": 1631.78
+      },
+      {
+        "cota": "Imóvel - R$ 340.000,00",
+        "credito": 340000.0,
+        "parcela_minima": 1681.23,
+        "parcela_maxima": 1681.23
+      },
+      {
+        "cota": "Imóvel - R$ 350.000,00",
+        "credito": 350000.0,
+        "parcela_minima": 1730.68,
+        "parcela_maxima": 1730.68
+      },
+      {
+        "cota": "Imóvel - R$ 360.000,00",
+        "credito": 360000.0,
+        "parcela_minima": 1780.13,
+        "parcela_maxima": 1780.13
+      },
+      {
+        "cota": "Imóvel - R$ 370.000,00",
+        "credito": 370000.0,
+        "parcela_minima": 1829.58,
+        "parcela_maxima": 1829.58
+      },
+      {
+        "cota": "Imóvel - R$ 380.000,00",
+        "credito": 380000.0,
+        "parcela_minima": 1879.02,
+        "parcela_maxima": 1879.02
+      },
+      {
+        "cota": "Imóvel - R$ 400.000,00",
+        "credito": 400000.0,
+        "parcela_minima": 1977.92,
+        "parcela_maxima": 1977.92
+      },
+      {
+        "cota": "Imóvel - R$ 420.000,00",
+        "credito": 420000.0,
+        "parcela_minima": 2076.82,
+        "parcela_maxima": 2076.82
+      },
+      {
+        "cota": "Imóvel - R$ 430.000,00",
+        "credito": 430000.0,
+        "parcela_minima": 2126.26,
+        "parcela_maxima": 2126.26
+      },
+      {
+        "cota": "Imóvel - R$ 440.000,00",
+        "credito": 440000.0,
+        "parcela_minima": 2175.71,
+        "parcela_maxima": 2175.71
+      },
+      {
+        "cota": "Imóvel - R$ 450.000,00",
+        "credito": 450000.0,
+        "parcela_minima": 2225.16,
+        "parcela_maxima": 2225.16
+      },
+      {
+        "cota": "Imóvel - R$ 460.000,00",
+        "credito": 460000.0,
+        "parcela_minima": 2274.61,
+        "parcela_maxima": 2274.61
+      },
+      {
+        "cota": "Imóvel - R$ 470.000,00",
+        "credito": 470000.0,
+        "parcela_minima": 2324.06,
+        "parcela_maxima": 2324.06
+      },
+      {
+        "cota": "Imóvel - R$ 480.000,00",
+        "credito": 480000.0,
+        "parcela_minima": 2373.5,
+        "parcela_maxima": 2373.5
+      },
+      {
+        "cota": "Imóvel - R$ 500.000,00",
+        "credito": 500000.0,
+        "parcela_minima": 2472.4,
+        "parcela_maxima": 2472.4
+      },
+      {
+        "cota": "Imóvel - R$ 510.000,00",
+        "credito": 510000.0,
+        "parcela_minima": 2521.85,
+        "parcela_maxima": 2521.85
+      },
+      {
+        "cota": "Imóvel - R$ 520.000,00",
+        "credito": 520000.0,
+        "parcela_minima": 2571.3,
+        "parcela_maxima": 2571.3
+      },
+      {
+        "cota": "Imóvel - R$ 540.000,00",
+        "credito": 540000.0,
+        "parcela_minima": 2670.19,
+        "parcela_maxima": 2670.19
+      },
+      {
+        "cota": "Imóvel - R$ 550.000,00",
+        "credito": 550000.0,
+        "parcela_minima": 2719.64,
+        "parcela_maxima": 2719.64
+      },
+      {
+        "cota": "Imóvel - R$ 560.000,00",
+        "credito": 560000.0,
+        "parcela_minima": 2769.09,
+        "parcela_maxima": 2769.09
+      }
+    ]
+  },
+  {
+    "grupo": "I0518",
+    "segmento": "Imóveis em Andamento (Embutido, fixo)",
+    "parcela_atual": 198,
+    "prazo_total": 200,
+    "taxa": 19.0,
+    "fundo_reserva": 2.0,
+    "cotas_total": "118",
+    "administradora": "porto",
+    "cotas": [
+      {
+        "cota": "Imóvel - R$ 140.000,00",
+        "credito": 140000.0,
+        "parcela_minima": 703.84,
+        "parcela_maxima": 703.84
+      },
+      {
+        "cota": "Imóvel - R$ 150.000,00",
+        "credito": 150000.0,
+        "parcela_minima": 754.11,
+        "parcela_maxima": 754.11
+      },
+      {
+        "cota": "Imóvel - R$ 160.000,00",
+        "credito": 160000.0,
+        "parcela_minima": 804.38,
+        "parcela_maxima": 804.38
+      },
+      {
+        "cota": "Imóvel - R$ 170.000,00",
+        "credito": 170000.0,
+        "parcela_minima": 854.66,
+        "parcela_maxima": 854.66
+      },
+      {
+        "cota": "Imóvel - R$ 180.000,00",
+        "credito": 180000.0,
+        "parcela_minima": 904.93,
+        "parcela_maxima": 904.93
+      },
+      {
+        "cota": "Imóvel - R$ 190.000,00",
+        "credito": 190000.0,
+        "parcela_minima": 955.21,
+        "parcela_maxima": 955.21
+      },
+      {
+        "cota": "Imóvel - R$ 200.000,00",
+        "credito": 200000.0,
+        "parcela_minima": 1005.48,
+        "parcela_maxima": 1005.48
+      },
+      {
+        "cota": "Imóvel - R$ 210.000,00",
+        "credito": 210000.0,
+        "parcela_minima": 1055.75,
+        "parcela_maxima": 1055.75
+      },
+      {
+        "cota": "Imóvel - R$ 220.000,00",
+        "credito": 220000.0,
+        "parcela_minima": 1106.03,
+        "parcela_maxima": 1106.03
+      },
+      {
+        "cota": "Imóvel - R$ 230.000,00",
+        "credito": 230000.0,
+        "parcela_minima": 1156.3,
+        "parcela_maxima": 1156.3
+      },
+      {
+        "cota": "Imóvel - R$ 240.000,00",
+        "credito": 240000.0,
+        "parcela_minima": 1206.58,
+        "parcela_maxima": 1206.58
+      },
+      {
+        "cota": "Imóvel - R$ 250.000,00",
+        "credito": 250000.0,
+        "parcela_minima": 1256.85,
+        "parcela_maxima": 1256.85
+      },
+      {
+        "cota": "Imóvel - R$ 260.000,00",
+        "credito": 260000.0,
+        "parcela_minima": 1307.12,
+        "parcela_maxima": 1307.12
+      },
+      {
+        "cota": "Imóvel - R$ 270.000,00",
+        "credito": 270000.0,
+        "parcela_minima": 1357.4,
+        "parcela_maxima": 1357.4
+      },
+      {
+        "cota": "Imóvel - R$ 280.000,00",
+        "credito": 280000.0,
+        "parcela_minima": 1407.67,
+        "parcela_maxima": 1407.67
+      }
+    ]
   }
 ]
