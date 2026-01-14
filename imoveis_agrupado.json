@@ -92403,591 +92403,870 @@
     ]
   },
   {
-    "grupo": "BI1",
-    "segmento": "Imóvel até 240 mil",
-    "faixa_credito": "120.000 - 240.000",
-    "produto": "BI1",
-    "administradora": "embracon",
-    "taxa_adm": 23.0,
-    "taxa_antecipada": 1.0,
-    "taxa_total": 24.0,
+    "grupo": "BI1-180",
+    "segmento": "BI1 - Imóvel até 240 mil - 180 meses",
+    "parcela_atual": 1,
+    "prazo_total": 180,
+    "taxa": 24.0,
     "fundo_reserva": 2.0,
-    "seguro_vida_opcional": 0.061,
-    "prazo_grupo": 260,
-    "prazos_permitidos_normal": [
-      36,
-      50,
-      60,
-      70,
-      85,
-      100,
-      120,
-      135,
-      150,
-      165,
-      180
-    ],
-    "prazos_permitidos_mais_por_menos": [
-      36,
-      50,
-      60,
-      70,
-      85,
-      100,
-      120,
-      135,
-      150
-    ],
-    "planos_disponiveis": [
-      "Normal",
-      "Mais por Menos"
-    ],
-    "cotas_total": "12900",
-    "num_participantes_grupo": "12901",
-    "vigencia": "07/03/2024",
+    "seguro_prestamista": 0.061,
+    "cotas_total": "20",
+    "administradora": "embracon",
     "cotas": [
       {
-        "credito": 240000.0,
-        "referencia": "8148",
-        "plano": "Normal",
-        "prazo": 180,
-        "parcela": 1666.67,
-        "taxa_antecipada_valor": 2400.0
+        "cota": "BI1 - Imóvel R$ 240.000 - Normal",
+        "credito": 240000,
+        "parcela_minima": 1666.67,
+        "parcela_maxima": 1666.67
       },
       {
-        "credito": 240000.0,
-        "referencia": "8148",
-        "plano": "Mais por Menos",
-        "prazo": 180,
-        "parcela": 1592.0,
-        "taxa_antecipada_valor": 2400.0
+        "cota": "BI1 - Imóvel R$ 240.000 - Mais por Menos",
+        "credito": 240000,
+        "parcela_minima": 1592.0,
+        "parcela_maxima": 1592.0
       },
       {
-        "credito": 230000.0,
-        "referencia": "8155",
-        "plano": "Normal",
-        "prazo": 180,
-        "parcela": 1597.22,
-        "taxa_antecipada_valor": 2300.0
+        "cota": "BI1 - Imóvel R$ 230.000 - Normal",
+        "credito": 230000,
+        "parcela_minima": 1597.22,
+        "parcela_maxima": 1597.22
       },
       {
-        "credito": 230000.0,
-        "referencia": "8155",
-        "plano": "Mais por Menos",
-        "prazo": 180,
-        "parcela": 1525.67,
-        "taxa_antecipada_valor": 2300.0
+        "cota": "BI1 - Imóvel R$ 230.000 - Mais por Menos",
+        "credito": 230000,
+        "parcela_minima": 1525.67,
+        "parcela_maxima": 1525.67
       },
       {
-        "credito": 220000.0,
-        "referencia": "8147",
-        "plano": "Normal",
-        "prazo": 180,
-        "parcela": 1527.78,
-        "taxa_antecipada_valor": 2200.0
+        "cota": "BI1 - Imóvel R$ 220.000 - Normal",
+        "credito": 220000,
+        "parcela_minima": 1527.78,
+        "parcela_maxima": 1527.78
       },
       {
-        "credito": 220000.0,
-        "referencia": "8147",
-        "plano": "Mais por Menos",
-        "prazo": 180,
-        "parcela": 1459.33,
-        "taxa_antecipada_valor": 2200.0
+        "cota": "BI1 - Imóvel R$ 220.000 - Mais por Menos",
+        "credito": 220000,
+        "parcela_minima": 1459.33,
+        "parcela_maxima": 1459.33
       },
       {
-        "credito": 200000.0,
-        "referencia": "8146",
-        "plano": "Normal",
-        "prazo": 180,
-        "parcela": 1388.89,
-        "taxa_antecipada_valor": 2000.0
+        "cota": "BI1 - Imóvel R$ 200.000 - Normal",
+        "credito": 200000,
+        "parcela_minima": 1388.89,
+        "parcela_maxima": 1388.89
       },
       {
-        "credito": 200000.0,
-        "referencia": "8146",
-        "plano": "Mais por Menos",
-        "prazo": 180,
-        "parcela": 1326.67,
-        "taxa_antecipada_valor": 2000.0
+        "cota": "BI1 - Imóvel R$ 200.000 - Mais por Menos",
+        "credito": 200000,
+        "parcela_minima": 1326.67,
+        "parcela_maxima": 1326.67
+      },
+      {
+        "cota": "BI1 - Imóvel R$ 180.000 - Normal",
+        "credito": 180000,
+        "parcela_minima": 1250.0,
+        "parcela_maxima": 1250.0
+      },
+      {
+        "cota": "BI1 - Imóvel R$ 180.000 - Mais por Menos",
+        "credito": 180000,
+        "parcela_minima": 1194.0,
+        "parcela_maxima": 1194.0
       }
     ]
   },
   {
-    "grupo": "PB2",
-    "segmento": "Parceria Imóvel até 240 mil",
-    "faixa_credito": "120.000 - 240.000",
-    "produto": "PB2",
-    "administradora": "embracon",
-    "taxa_adm": 21.0,
-    "taxa_antecipada": 0.0,
-    "taxa_total": 21.0,
+    "grupo": "BI1-165",
+    "segmento": "BI1 - Imóvel até 240 mil - 165 meses",
+    "parcela_atual": 1,
+    "prazo_total": 165,
+    "taxa": 24.0,
     "fundo_reserva": 2.0,
-    "seguro_vida_opcional": 0.061,
-    "prazo_grupo": 260,
-    "prazos_permitidos_normal": [
-      36,
-      50,
-      60,
-      70,
-      85,
-      100,
-      120,
-      135,
-      150,
-      165
-    ],
-    "prazos_permitidos_mais_por_menos": [
-      70,
-      85,
-      100,
-      120,
-      135
-    ],
-    "planos_disponiveis": [
-      "Normal",
-      "Mais por Menos"
-    ],
-    "cotas_total": "12900",
-    "num_participantes_grupo": "12901",
-    "vigencia": "11/06/2025",
+    "seguro_prestamista": 0.061,
+    "cotas_total": "10",
+    "administradora": "embracon",
     "cotas": [
       {
-        "credito": 240000.0,
-        "referencia": "8148",
-        "plano": "Normal",
-        "prazo": 165,
-        "parcela": 1818.18,
-        "taxa_antecipada_valor": 0.0
+        "cota": "BI1 - Imóvel R$ 240.000 - Normal",
+        "credito": 240000,
+        "parcela_minima": 1818.18,
+        "parcela_maxima": 1818.18
       },
       {
-        "credito": 240000.0,
-        "referencia": "8148",
-        "plano": "Mais por Menos",
-        "prazo": 135,
-        "parcela": 1592.0,
-        "taxa_antecipada_valor": 0.0
+        "cota": "BI1 - Imóvel R$ 240.000 - Mais por Menos",
+        "credito": 240000,
+        "parcela_minima": 2222.22,
+        "parcela_maxima": 2222.22
       },
       {
-        "credito": 230000.0,
-        "referencia": "8155",
-        "plano": "Normal",
-        "prazo": 165,
-        "parcela": 1742.42,
-        "taxa_antecipada_valor": 0.0
+        "cota": "BI1 - Imóvel R$ 230.000 - Normal",
+        "credito": 230000,
+        "parcela_minima": 1742.42,
+        "parcela_maxima": 1742.42
       },
       {
-        "credito": 230000.0,
-        "referencia": "8155",
-        "plano": "Mais por Menos",
-        "prazo": 135,
-        "parcela": 1525.67,
-        "taxa_antecipada_valor": 0.0
+        "cota": "BI1 - Imóvel R$ 230.000 - Mais por Menos",
+        "credito": 230000,
+        "parcela_minima": 2129.63,
+        "parcela_maxima": 2129.63
+      },
+      {
+        "cota": "BI1 - Imóvel R$ 220.000 - Normal",
+        "credito": 220000,
+        "parcela_minima": 1666.67,
+        "parcela_maxima": 1666.67
+      },
+      {
+        "cota": "BI1 - Imóvel R$ 220.000 - Mais por Menos",
+        "credito": 220000,
+        "parcela_minima": 2037.04,
+        "parcela_maxima": 2037.04
       }
     ]
   },
   {
-    "grupo": "TSS",
-    "segmento": "Select Smart Imóvel",
-    "faixa_credito": "120.000 - 240.000",
-    "produto": "TSS",
-    "administradora": "embracon",
-    "taxa_adm": 13.0,
-    "taxa_antecipada": 2.0,
-    "taxa_total": 15.0,
+    "grupo": "BI1-150",
+    "segmento": "BI1 - Imóvel até 240 mil - 150 meses",
+    "parcela_atual": 1,
+    "prazo_total": 150,
+    "taxa": 24.0,
     "fundo_reserva": 2.0,
-    "seguro_vida_opcional": 0.061,
-    "prazo_grupo": 120,
-    "prazos_permitidos_normal": [
-      36,
-      50,
-      60,
-      70,
-      85,
-      100,
-      120
-    ],
-    "prazos_permitidos_mais_por_menos": [
-      36,
-      50,
-      60,
-      70,
-      85
-    ],
-    "planos_disponiveis": [
-      "Normal",
-      "Mais por Menos"
-    ],
-    "observacoes": "Não permitida comercialização nos prazos de 120 e 100 meses para Mais por Menos",
-    "cotas_total": "8570",
-    "num_participantes_grupo": "7060",
-    "vigencia": "12/06/2024",
+    "seguro_prestamista": 0.061,
+    "cotas_total": "8",
+    "administradora": "embracon",
     "cotas": [
       {
-        "credito": 240000.0,
-        "referencia": "8148",
-        "plano": "Normal",
-        "prazo": 120,
-        "primeira_parcela": 4800.0,
-        "demais_parcelas": 4720.0,
-        "taxa_antecipada_valor": 2400.0
+        "cota": "BI1 - Imóvel R$ 240.000 - Normal",
+        "credito": 240000,
+        "parcela_minima": 2000.0,
+        "parcela_maxima": 2000.0
       },
       {
-        "credito": 240000.0,
-        "referencia": "8148",
-        "plano": "Mais por Menos",
-        "prazo": 85,
-        "primeira_parcela": 5160.0,
-        "demais_parcelas": 2760.0,
-        "taxa_antecipada_valor": 2400.0
+        "cota": "BI1 - Imóvel R$ 240.000 - Mais por Menos",
+        "credito": 240000,
+        "parcela_minima": 1768.89,
+        "parcela_maxima": 1768.89
       },
       {
-        "credito": 230000.0,
-        "referencia": "8155",
-        "plano": "Normal",
-        "prazo": 120,
-        "primeira_parcela": 4600.0,
-        "demais_parcelas": 4523.33,
-        "taxa_antecipada_valor": 2300.0
+        "cota": "BI1 - Imóvel R$ 230.000 - Normal",
+        "credito": 230000,
+        "parcela_minima": 1916.67,
+        "parcela_maxima": 1916.67
       },
       {
-        "credito": 230000.0,
-        "referencia": "8155",
-        "plano": "Mais por Menos",
-        "prazo": 85,
-        "primeira_parcela": 4945.0,
-        "demais_parcelas": 2645.0,
-        "taxa_antecipada_valor": 2300.0
+        "cota": "BI1 - Imóvel R$ 230.000 - Mais por Menos",
+        "credito": 230000,
+        "parcela_minima": 1695.19,
+        "parcela_maxima": 1695.19
       }
     ]
   },
   {
-    "grupo": "TP",
-    "segmento": "Parcelinha Imóvel",
-    "faixa_credito": "240.000 - 600.000",
-    "produto": "TP",
-    "administradora": "embracon",
-    "taxa_adm": 24.8,
-    "taxa_antecipada": 1.2,
-    "taxa_total": 26.0,
+    "grupo": "PB2-165",
+    "segmento": "PB2 - Parceria Imóvel até 240 mil - 165 meses",
+    "parcela_atual": 1,
+    "prazo_total": 165,
+    "taxa": 21.0,
     "fundo_reserva": 2.0,
-    "seguro_vida_opcional": 0.061,
-    "prazo_grupo": 260,
-    "prazos_permitidos": [
-      200,
-      220,
-      240
-    ],
-    "planos_disponiveis": [
-      "Normal",
-      "Mais por Menos 50%"
-    ],
-    "particularidade": "Meia parcela - 1ª a 12ª parcela diferente das demais",
-    "cotas_total": "12909",
-    "num_participantes_grupo": "12907",
-    "vigencia": "12/06/2024",
+    "seguro_prestamista": 0.061,
+    "cotas_total": "8",
+    "administradora": "embracon",
+    "cotas": [
+      {
+        "cota": "PB2 - Imóvel R$ 240.000 - Normal",
+        "credito": 240000,
+        "parcela_minima": 1818.18,
+        "parcela_maxima": 1818.18
+      },
+      {
+        "cota": "PB2 - Imóvel R$ 240.000 - Mais por Menos",
+        "credito": 240000,
+        "parcela_minima": 1592.0,
+        "parcela_maxima": 1592.0
+      },
+      {
+        "cota": "PB2 - Imóvel R$ 230.000 - Normal",
+        "credito": 230000,
+        "parcela_minima": 1742.42,
+        "parcela_maxima": 1742.42
+      },
+      {
+        "cota": "PB2 - Imóvel R$ 230.000 - Mais por Menos",
+        "credito": 230000,
+        "parcela_minima": 1525.67,
+        "parcela_maxima": 1525.67
+      },
+      {
+        "cota": "PB2 - Imóvel R$ 220.000 - Normal",
+        "credito": 220000,
+        "parcela_minima": 1666.67,
+        "parcela_maxima": 1666.67
+      },
+      {
+        "cota": "PB2 - Imóvel R$ 220.000 - Mais por Menos",
+        "credito": 220000,
+        "parcela_minima": 1459.33,
+        "parcela_maxima": 1459.33
+      }
+    ]
+  },
+  {
+    "grupo": "TSS-120",
+    "segmento": "TSS - Select Smart 120-240 - 120 meses",
+    "parcela_atual": 1,
+    "prazo_total": 120,
+    "taxa": 15.0,
+    "fundo_reserva": 2.0,
+    "seguro_prestamista": 0.061,
+    "cotas_total": "8",
+    "administradora": "embracon",
+    "cotas": [
+      {
+        "cota": "TSS - Imóvel R$ 240.000 - Normal",
+        "credito": 240000,
+        "parcela_minima": 4800.0,
+        "parcela_maxima": 4720.0
+      },
+      {
+        "cota": "TSS - Imóvel R$ 230.000 - Normal",
+        "credito": 230000,
+        "parcela_minima": 4600.0,
+        "parcela_maxima": 4523.33
+      },
+      {
+        "cota": "TSS - Imóvel R$ 220.000 - Normal",
+        "credito": 220000,
+        "parcela_minima": 4400.0,
+        "parcela_maxima": 4326.67
+      },
+      {
+        "cota": "TSS - Imóvel R$ 200.000 - Normal",
+        "credito": 200000,
+        "parcela_minima": 4000.0,
+        "parcela_maxima": 3933.33
+      }
+    ]
+  },
+  {
+    "grupo": "TSS-85",
+    "segmento": "TSS - Select Smart 120-240 - 85 meses",
+    "parcela_atual": 1,
+    "prazo_total": 85,
+    "taxa": 15.0,
+    "fundo_reserva": 2.0,
+    "seguro_prestamista": 0.061,
+    "cotas_total": "4",
+    "administradora": "embracon",
+    "cotas": [
+      {
+        "cota": "TSS - Imóvel R$ 240.000 - Mais por Menos",
+        "credito": 240000,
+        "parcela_minima": 5160.0,
+        "parcela_maxima": 2760.0
+      },
+      {
+        "cota": "TSS - Imóvel R$ 230.000 - Mais por Menos",
+        "credito": 230000,
+        "parcela_minima": 4945.0,
+        "parcela_maxima": 2645.0
+      },
+      {
+        "cota": "TSS - Imóvel R$ 220.000 - Mais por Menos",
+        "credito": 220000,
+        "parcela_minima": 4730.0,
+        "parcela_maxima": 2530.0
+      },
+      {
+        "cota": "TSS - Imóvel R$ 200.000 - Mais por Menos",
+        "credito": 200000,
+        "parcela_minima": 4300.0,
+        "parcela_maxima": 2300.0
+      }
+    ]
+  },
+  {
+    "grupo": "TP-240",
+    "segmento": "TP - Parcelinha 240-600 - 240 meses",
+    "parcela_atual": 1,
+    "prazo_total": 240,
+    "taxa": 26.0,
+    "fundo_reserva": 2.0,
+    "seguro_prestamista": 0.061,
     "antecipacao_cliente": 2.0,
-    "comissao_vendedor": 4.5,
+    "cotas_total": "10",
+    "administradora": "embracon",
     "cotas": [
       {
-        "credito": 600000.0,
-        "referencia": "IE600",
-        "plano": "Normal",
-        "prazo": 240,
-        "primeira_a_decima_segunda_parcela": 3820.0,
-        "demais_parcelas": 3220.0,
-        "taxa_antecipada_valor": 7200.0
+        "cota": "TP - Imóvel R$ 600.000 - Normal",
+        "credito": 600000,
+        "parcela_minima": 3820.0,
+        "parcela_maxima": 3220.0
       },
       {
-        "credito": 600000.0,
-        "referencia": "IE600",
-        "plano": "Mais por Menos 50%",
-        "prazo": 240,
-        "primeira_a_decima_segunda_parcela": 2545.0,
-        "demais_parcelas": 1945.0,
-        "taxa_antecipada_valor": 7200.0
+        "cota": "TP - Imóvel R$ 600.000 - Mais 50%",
+        "credito": 600000,
+        "parcela_minima": 2545.0,
+        "parcela_maxima": 1945.0
       },
       {
-        "credito": 500000.0,
-        "referencia": "IE500",
-        "plano": "Normal",
-        "prazo": 240,
-        "primeira_a_decima_segunda_parcela": 3183.33,
-        "demais_parcelas": 2683.33,
-        "taxa_antecipada_valor": 6000.0
+        "cota": "TP - Imóvel R$ 500.000 - Normal",
+        "credito": 500000,
+        "parcela_minima": 3183.33,
+        "parcela_maxima": 2683.33
       },
       {
-        "credito": 500000.0,
-        "referencia": "IE500",
-        "plano": "Mais por Menos 50%",
-        "prazo": 240,
-        "primeira_a_decima_segunda_parcela": 2120.83,
-        "demais_parcelas": 1620.83,
-        "taxa_antecipada_valor": 6000.0
+        "cota": "TP - Imóvel R$ 500.000 - Mais 50%",
+        "credito": 500000,
+        "parcela_minima": 2120.83,
+        "parcela_maxima": 1620.83
+      },
+      {
+        "cota": "TP - Imóvel R$ 400.000 - Normal",
+        "credito": 400000,
+        "parcela_minima": 2546.67,
+        "parcela_maxima": 2146.67
+      },
+      {
+        "cota": "TP - Imóvel R$ 400.000 - Mais 50%",
+        "credito": 400000,
+        "parcela_minima": 1696.67,
+        "parcela_maxima": 1296.67
+      },
+      {
+        "cota": "TP - Imóvel R$ 300.000 - Normal",
+        "credito": 300000,
+        "parcela_minima": 1910.0,
+        "parcela_maxima": 1610.0
+      },
+      {
+        "cota": "TP - Imóvel R$ 300.000 - Mais 50%",
+        "credito": 300000,
+        "parcela_minima": 1272.5,
+        "parcela_maxima": 972.5
+      },
+      {
+        "cota": "TP - Imóvel R$ 240.000 - Normal",
+        "credito": 240000,
+        "parcela_minima": 1528.0,
+        "parcela_maxima": 1288.0
+      },
+      {
+        "cota": "TP - Imóvel R$ 240.000 - Mais 50%",
+        "credito": 240000,
+        "parcela_minima": 1018.0,
+        "parcela_maxima": 778.0
       }
     ]
   },
   {
-    "grupo": "PSE",
-    "segmento": "Select Estendido Prime",
-    "faixa_credito": "240.000 - 600.000",
-    "produto": "PSE",
-    "administradora": "embracon",
-    "taxa_adm": 18.0,
-    "taxa_antecipada": 2.0,
-    "taxa_total": 20.0,
+    "grupo": "TP-220",
+    "segmento": "TP - Parcelinha 240-600 - 220 meses",
+    "parcela_atual": 1,
+    "prazo_total": 220,
+    "taxa": 26.0,
     "fundo_reserva": 2.0,
-    "seguro_vida_opcional": 0.061,
-    "prazo_grupo": 260,
-    "prazos_permitidos": [
-      200,
-      220,
-      240
-    ],
-    "planos_disponiveis": [
-      "Normal",
-      "Mais por Menos 25%",
-      "Mais por Menos 50%"
-    ],
-    "particularidade": "Redutores de 25% e 50%",
-    "cotas_total": "12909",
-    "num_participantes_grupo": "12908",
-    "vigencia": "12/06/2024",
+    "seguro_prestamista": 0.061,
     "antecipacao_cliente": 2.0,
-    "comissao_vendedor": 4.5,
+    "cotas_total": "6",
+    "administradora": "embracon",
     "cotas": [
       {
-        "credito": 600000.0,
-        "referencia": "IE600",
-        "plano": "Normal",
-        "prazo": 240,
-        "primeira_parcela": 15050.0,
-        "demais_parcelas": 3050.0,
-        "taxa_antecipada_valor": 12000.0
+        "cota": "TP - Imóvel R$ 600.000 - Normal",
+        "credito": 600000,
+        "parcela_minima": 4085.45,
+        "parcela_maxima": 3485.45
       },
       {
-        "credito": 600000.0,
-        "referencia": "IE600",
-        "plano": "Mais por Menos 25%",
-        "prazo": 240,
-        "primeira_parcela": 13775.0,
-        "demais_parcelas": 1775.0,
-        "taxa_antecipada_valor": 12000.0
+        "cota": "TP - Imóvel R$ 600.000 - Mais 50%",
+        "credito": 600000,
+        "parcela_minima": 2694.55,
+        "parcela_maxima": 2094.55
       },
       {
-        "credito": 500000.0,
-        "referencia": "IE500",
-        "plano": "Normal",
-        "prazo": 240,
-        "primeira_parcela": 12541.67,
-        "demais_parcelas": 2541.67,
-        "taxa_antecipada_valor": 10000.0
+        "cota": "TP - Imóvel R$ 500.000 - Normal",
+        "credito": 500000,
+        "parcela_minima": 3404.55,
+        "parcela_maxima": 2904.55
       },
       {
-        "credito": 500000.0,
-        "referencia": "IE500",
-        "plano": "Mais por Menos 25%",
-        "prazo": 240,
-        "primeira_parcela": 11479.17,
-        "demais_parcelas": 1479.17,
-        "taxa_antecipada_valor": 10000.0
+        "cota": "TP - Imóvel R$ 400.000 - Normal",
+        "credito": 400000,
+        "parcela_minima": 2723.64,
+        "parcela_maxima": 2323.64
+      },
+      {
+        "cota": "TP - Imóvel R$ 300.000 - Normal",
+        "credito": 300000,
+        "parcela_minima": 2042.73,
+        "parcela_maxima": 1742.73
       }
     ]
   },
   {
-    "grupo": "EI1",
-    "segmento": "Plano Estendido 1% até 600 mil",
-    "faixa_credito": "120.000 - 600.000",
-    "produto": "EI1",
-    "administradora": "embracon",
-    "taxa_adm": 23.0,
-    "taxa_antecipada": 1.0,
-    "taxa_total": 24.0,
+    "grupo": "PSE-240",
+    "segmento": "PSE - Select Estendido Prime 240-600 - 240 meses",
+    "parcela_atual": 1,
+    "prazo_total": 240,
+    "taxa": 20.0,
     "fundo_reserva": 2.0,
-    "seguro_vida_opcional": 0.061,
-    "prazo_grupo": 260,
-    "prazos_permitidos": [
-      200,
-      220,
-      240
-    ],
-    "planos_disponiveis": [
-      "Normal",
-      "Mais por Menos 25%",
-      "Mais por Menos 50%"
-    ],
-    "cotas_total": "12909",
-    "num_participantes_grupo": "12907",
-    "vigencia": "02/06/2025",
+    "seguro_prestamista": 0.061,
     "antecipacao_cliente": 2.0,
-    "comissao_vendedor": 4.5,
+    "cotas_total": "15",
+    "administradora": "embracon",
     "cotas": [
       {
-        "credito": 600000.0,
-        "referencia": "IE600",
-        "plano": "Normal",
-        "prazo": 240,
-        "primeira_parcela": 9175.0,
-        "demais_parcelas": 3175.0,
-        "taxa_antecipada_valor": 6000.0
+        "cota": "PSE - Imóvel R$ 600.000 - Normal",
+        "credito": 600000,
+        "parcela_minima": 15050.0,
+        "parcela_maxima": 3050.0
       },
       {
-        "credito": 600000.0,
-        "referencia": "IE600",
-        "plano": "Mais por Menos 25%",
-        "prazo": 240,
-        "primeira_parcela": 7900.0,
-        "demais_parcelas": 1900.0,
-        "taxa_antecipada_valor": 6000.0
+        "cota": "PSE - Imóvel R$ 600.000 - Mais 25%",
+        "credito": 600000,
+        "parcela_minima": 13775.0,
+        "parcela_maxima": 1775.0
       },
       {
-        "credito": 500000.0,
-        "referencia": "IE500",
-        "plano": "Normal",
-        "prazo": 240,
-        "primeira_parcela": 7645.83,
-        "demais_parcelas": 2645.83,
-        "taxa_antecipada_valor": 5000.0
+        "cota": "PSE - Imóvel R$ 600.000 - Mais 50%",
+        "credito": 600000,
+        "parcela_minima": 14412.5,
+        "parcela_maxima": 2412.5
       },
       {
-        "credito": 500000.0,
-        "referencia": "IE500",
-        "plano": "Mais por Menos 25%",
-        "prazo": 240,
-        "primeira_parcela": 6583.33,
-        "demais_parcelas": 1583.33,
-        "taxa_antecipada_valor": 5000.0
+        "cota": "PSE - Imóvel R$ 500.000 - Normal",
+        "credito": 500000,
+        "parcela_minima": 12541.67,
+        "parcela_maxima": 2541.67
+      },
+      {
+        "cota": "PSE - Imóvel R$ 500.000 - Mais 25%",
+        "credito": 500000,
+        "parcela_minima": 11479.17,
+        "parcela_maxima": 1479.17
+      },
+      {
+        "cota": "PSE - Imóvel R$ 500.000 - Mais 50%",
+        "credito": 500000,
+        "parcela_minima": 12010.42,
+        "parcela_maxima": 2010.42
+      },
+      {
+        "cota": "PSE - Imóvel R$ 400.000 - Normal",
+        "credito": 400000,
+        "parcela_minima": 10033.33,
+        "parcela_maxima": 2033.33
+      },
+      {
+        "cota": "PSE - Imóvel R$ 400.000 - Mais 25%",
+        "credito": 400000,
+        "parcela_minima": 9183.33,
+        "parcela_maxima": 1183.33
+      },
+      {
+        "cota": "PSE - Imóvel R$ 400.000 - Mais 50%",
+        "credito": 400000,
+        "parcela_minima": 9608.33,
+        "parcela_maxima": 1608.33
+      },
+      {
+        "cota": "PSE - Imóvel R$ 300.000 - Normal",
+        "credito": 300000,
+        "parcela_minima": 7525.0,
+        "parcela_maxima": 1525.0
+      },
+      {
+        "cota": "PSE - Imóvel R$ 300.000 - Mais 25%",
+        "credito": 300000,
+        "parcela_minima": 6887.5,
+        "parcela_maxima": 887.5
+      },
+      {
+        "cota": "PSE - Imóvel R$ 300.000 - Mais 50%",
+        "credito": 300000,
+        "parcela_minima": 7206.25,
+        "parcela_maxima": 1206.25
+      },
+      {
+        "cota": "PSE - Imóvel R$ 240.000 - Normal",
+        "credito": 240000,
+        "parcela_minima": 6020.0,
+        "parcela_maxima": 1220.0
+      },
+      {
+        "cota": "PSE - Imóvel R$ 240.000 - Mais 25%",
+        "credito": 240000,
+        "parcela_minima": 5510.0,
+        "parcela_maxima": 710.0
+      },
+      {
+        "cota": "PSE - Imóvel R$ 240.000 - Mais 50%",
+        "credito": 240000,
+        "parcela_minima": 5765.0,
+        "parcela_maxima": 965.0
       }
     ]
   },
   {
-    "grupo": "SEP",
-    "segmento": "Select Estendido Prime",
-    "faixa_credito": "600.000 - 1.200.000",
-    "produto": "SEP",
-    "administradora": "embracon",
-    "taxa_adm": 16.0,
-    "taxa_antecipada": 2.0,
-    "taxa_total": 18.0,
+    "grupo": "PSE-220",
+    "segmento": "PSE - Select Estendido Prime 240-600 - 220 meses",
+    "parcela_atual": 1,
+    "prazo_total": 220,
+    "taxa": 20.0,
     "fundo_reserva": 2.0,
-    "seguro_vida_opcional": 0.061,
-    "prazo_grupo": 240,
-    "prazos_permitidos": [
-      200,
-      220,
-      240
-    ],
-    "planos_disponiveis": [
-      "Normal",
-      "Mais por Menos 25%",
-      "Mais por Menos 50%"
-    ],
-    "cotas_total": "12909",
-    "num_participantes_grupo": "12908",
-    "vigencia": "08/08/2024",
+    "seguro_prestamista": 0.061,
     "antecipacao_cliente": 2.0,
-    "comissao_vendedor": 4.5,
+    "cotas_total": "8",
+    "administradora": "embracon",
     "cotas": [
       {
-        "credito": 1200000.0,
-        "referencia": "IE1200",
-        "plano": "Normal",
-        "prazo": 240,
-        "primeira_parcela": 30000.0,
-        "demais_parcelas": 6000.0,
-        "taxa_antecipada_valor": 30000.0
+        "cota": "PSE - Imóvel R$ 600.000 - Normal",
+        "credito": 600000,
+        "parcela_minima": 15300.0,
+        "parcela_maxima": 3300.0
       },
       {
-        "credito": 1200000.0,
-        "referencia": "IE1200",
-        "plano": "Mais por Menos 25%",
-        "prazo": 240,
-        "primeira_parcela": 27450.0,
-        "demais_parcelas": 3450.0,
-        "taxa_antecipada_valor": 30000.0
+        "cota": "PSE - Imóvel R$ 600.000 - Mais 25%",
+        "credito": 600000,
+        "parcela_minima": 13909.09,
+        "parcela_maxima": 1909.09
       },
       {
-        "credito": 1000000.0,
-        "referencia": "IE1000",
-        "plano": "Normal",
-        "prazo": 240,
-        "primeira_parcela": 25000.0,
-        "demais_parcelas": 5000.0,
-        "taxa_antecipada_valor": 25000.0
+        "cota": "PSE - Imóvel R$ 500.000 - Normal",
+        "credito": 500000,
+        "parcela_minima": 12750.0,
+        "parcela_maxima": 2750.0
       },
       {
-        "credito": 1000000.0,
-        "referencia": "IE1000",
-        "plano": "Mais por Menos 25%",
-        "prazo": 240,
-        "primeira_parcela": 22875.0,
-        "demais_parcelas": 2875.0,
-        "taxa_antecipada_valor": 25000.0
+        "cota": "PSE - Imóvel R$ 500.000 - Mais 25%",
+        "credito": 500000,
+        "parcela_minima": 11590.91,
+        "parcela_maxima": 1590.91
+      },
+      {
+        "cota": "PSE - Imóvel R$ 400.000 - Normal",
+        "credito": 400000,
+        "parcela_minima": 10200.0,
+        "parcela_maxima": 2200.0
+      },
+      {
+        "cota": "PSE - Imóvel R$ 400.000 - Mais 25%",
+        "credito": 400000,
+        "parcela_minima": 9272.73,
+        "parcela_maxima": 1272.73
+      },
+      {
+        "cota": "PSE - Imóvel R$ 300.000 - Normal",
+        "credito": 300000,
+        "parcela_minima": 7650.0,
+        "parcela_maxima": 1650.0
+      },
+      {
+        "cota": "PSE - Imóvel R$ 240.000 - Normal",
+        "credito": 240000,
+        "parcela_minima": 6120.0,
+        "parcela_maxima": 1320.0
       }
     ]
   },
   {
-    "grupo": "SUE",
-    "segmento": "Super Crédito Estendido",
-    "faixa_credito": "1.000.000 - 2.000.000",
-    "produto": "SUE",
-    "administradora": "embracon",
-    "taxa_adm": 19.0,
-    "taxa_antecipada": 1.0,
-    "taxa_total": 20.0,
+    "grupo": "PSE-200",
+    "segmento": "PSE - Select Estendido Prime 240-600 - 200 meses",
+    "parcela_atual": 1,
+    "prazo_total": 200,
+    "taxa": 20.0,
     "fundo_reserva": 2.0,
-    "seguro_vida_opcional": 0.061,
-    "prazo_grupo": 260,
-    "prazos_permitidos": [
-      200,
-      220,
-      240
-    ],
-    "planos_disponiveis": [
-      "Normal",
-      "Mais por Menos 25%",
-      "Mais por Menos 50%"
-    ],
-    "cotas_total": "12909",
-    "num_participantes_grupo": "12908",
-    "vigencia": "16/07/2025",
+    "seguro_prestamista": 0.061,
     "antecipacao_cliente": 2.0,
-    "comissao_vendedor": 4.5,
+    "cotas_total": "6",
+    "administradora": "embracon",
     "cotas": [
       {
-        "credito": 2000000.0,
-        "referencia": "IE2000",
-        "plano": "Normal",
-        "prazo": 240,
-        "primeira_parcela": 30416.67,
-        "demais_parcelas": 10416.67,
-        "taxa_antecipada_valor": 20000.0
+        "cota": "PSE - Imóvel R$ 600.000 - Normal",
+        "credito": 600000,
+        "parcela_minima": 15600.0,
+        "parcela_maxima": 3600.0
       },
       {
-        "credito": 2000000.0,
-        "referencia": "IE2000",
-        "plano": "Mais por Menos 25%",
-        "prazo": 240,
-        "primeira_parcela": 26166.67,
-        "demais_parcelas": 6166.67,
-        "taxa_antecipada_valor": 20000.0
+        "cota": "PSE - Imóvel R$ 500.000 - Normal",
+        "credito": 500000,
+        "parcela_minima": 13000.0,
+        "parcela_maxima": 3000.0
       },
       {
-        "credito": 1700000.0,
-        "referencia": "IE1700",
-        "plano": "Normal",
-        "prazo": 240,
-        "primeira_parcela": 25854.17,
-        "demais_parcelas": 8854.17,
-        "taxa_antecipada_valor": 17000.0
+        "cota": "PSE - Imóvel R$ 400.000 - Normal",
+        "credito": 400000,
+        "parcela_minima": 10400.0,
+        "parcela_maxima": 2400.0
       },
       {
-        "credito": 1700000.0,
-        "referencia": "IE1700",
-        "plano": "Mais por Menos 25%",
-        "prazo": 240,
-        "primeira_parcela": 22241.67,
-        "demais_parcelas": 5241.67,
-        "taxa_antecipada_valor": 17000.0
+        "cota": "PSE - Imóvel R$ 300.000 - Normal",
+        "credito": 300000,
+        "parcela_minima": 7800.0,
+        "parcela_maxima": 1800.0
+      },
+      {
+        "cota": "PSE - Imóvel R$ 240.000 - Normal",
+        "credito": 240000,
+        "parcela_minima": 6240.0,
+        "parcela_maxima": 1440.0
+      }
+    ]
+  },
+  {
+    "grupo": "EI1-240",
+    "segmento": "EI1 - Plano Estendido 1% até 600 mil - 240 meses",
+    "parcela_atual": 1,
+    "prazo_total": 240,
+    "taxa": 24.0,
+    "fundo_reserva": 2.0,
+    "seguro_prestamista": 0.061,
+    "antecipacao_cliente": 2.0,
+    "cotas_total": "12",
+    "administradora": "embracon",
+    "cotas": [
+      {
+        "cota": "EI1 - Imóvel R$ 600.000 - Normal",
+        "credito": 600000,
+        "parcela_minima": 9175.0,
+        "parcela_maxima": 3175.0
+      },
+      {
+        "cota": "EI1 - Imóvel R$ 600.000 - Mais 25%",
+        "credito": 600000,
+        "parcela_minima": 7900.0,
+        "parcela_maxima": 1900.0
+      },
+      {
+        "cota": "EI1 - Imóvel R$ 600.000 - Mais 50%",
+        "credito": 600000,
+        "parcela_minima": 8537.5,
+        "parcela_maxima": 2537.5
+      },
+      {
+        "cota": "EI1 - Imóvel R$ 500.000 - Normal",
+        "credito": 500000,
+        "parcela_minima": 7645.83,
+        "parcela_maxima": 2645.83
+      },
+      {
+        "cota": "EI1 - Imóvel R$ 500.000 - Mais 25%",
+        "credito": 500000,
+        "parcela_minima": 6583.33,
+        "parcela_maxima": 1583.33
+      },
+      {
+        "cota": "EI1 - Imóvel R$ 500.000 - Mais 50%",
+        "credito": 500000,
+        "parcela_minima": 7114.58,
+        "parcela_maxima": 2114.58
+      },
+      {
+        "cota": "EI1 - Imóvel R$ 400.000 - Normal",
+        "credito": 400000,
+        "parcela_minima": 6116.67,
+        "parcela_maxima": 2116.67
+      },
+      {
+        "cota": "EI1 - Imóvel R$ 400.000 - Mais 25%",
+        "credito": 400000,
+        "parcela_minima": 5266.67,
+        "parcela_maxima": 1266.67
+      },
+      {
+        "cota": "EI1 - Imóvel R$ 400.000 - Mais 50%",
+        "credito": 400000,
+        "parcela_minima": 5691.67,
+        "parcela_maxima": 1691.67
+      },
+      {
+        "cota": "EI1 - Imóvel R$ 300.000 - Normal",
+        "credito": 300000,
+        "parcela_minima": 4587.5,
+        "parcela_maxima": 1587.5
+      },
+      {
+        "cota": "EI1 - Imóvel R$ 300.000 - Mais 25%",
+        "credito": 300000,
+        "parcela_minima": 3950.0,
+        "parcela_maxima": 950.0
+      },
+      {
+        "cota": "EI1 - Imóvel R$ 300.000 - Mais 50%",
+        "credito": 300000,
+        "parcela_minima": 4268.75,
+        "parcela_maxima": 1268.75
+      }
+    ]
+  },
+  {
+    "grupo": "SEP-240",
+    "segmento": "SEP - Select Estendido Prime 600-1.2M - 240 meses",
+    "parcela_atual": 1,
+    "prazo_total": 240,
+    "taxa": 18.0,
+    "fundo_reserva": 2.0,
+    "seguro_prestamista": 0.061,
+    "antecipacao_cliente": 2.0,
+    "cotas_total": "12",
+    "administradora": "embracon",
+    "cotas": [
+      {
+        "cota": "SEP - Imóvel R$ 1.200.000 - Normal",
+        "credito": 1200000,
+        "parcela_minima": 30000.0,
+        "parcela_maxima": 6000.0
+      },
+      {
+        "cota": "SEP - Imóvel R$ 1.200.000 - Mais 25%",
+        "credito": 1200000,
+        "parcela_minima": 27450.0,
+        "parcela_maxima": 3450.0
+      },
+      {
+        "cota": "SEP - Imóvel R$ 1.200.000 - Mais 50%",
+        "credito": 1200000,
+        "parcela_minima": 28725.0,
+        "parcela_maxima": 4725.0
+      },
+      {
+        "cota": "SEP - Imóvel R$ 1.000.000 - Normal",
+        "credito": 1000000,
+        "parcela_minima": 25000.0,
+        "parcela_maxima": 5000.0
+      },
+      {
+        "cota": "SEP - Imóvel R$ 1.000.000 - Mais 25%",
+        "credito": 1000000,
+        "parcela_minima": 22875.0,
+        "parcela_maxima": 2875.0
+      },
+      {
+        "cota": "SEP - Imóvel R$ 1.000.000 - Mais 50%",
+        "credito": 1000000,
+        "parcela_minima": 23937.5,
+        "parcela_maxima": 3937.5
+      },
+      {
+        "cota": "SEP - Imóvel R$ 800.000 - Normal",
+        "credito": 800000,
+        "parcela_minima": 20000.0,
+        "parcela_maxima": 4000.0
+      },
+      {
+        "cota": "SEP - Imóvel R$ 800.000 - Mais 25%",
+        "credito": 800000,
+        "parcela_minima": 18300.0,
+        "parcela_maxima": 2300.0
+      },
+      {
+        "cota": "SEP - Imóvel R$ 800.000 - Mais 50%",
+        "credito": 800000,
+        "parcela_minima": 19150.0,
+        "parcela_maxima": 3150.0
+      },
+      {
+        "cota": "SEP - Imóvel R$ 600.000 - Normal",
+        "credito": 600000,
+        "parcela_minima": 15000.0,
+        "parcela_maxima": 3000.0
+      },
+      {
+        "cota": "SEP - Imóvel R$ 600.000 - Mais 25%",
+        "credito": 600000,
+        "parcela_minima": 13725.0,
+        "parcela_maxima": 1725.0
+      },
+      {
+        "cota": "SEP - Imóvel R$ 600.000 - Mais 50%",
+        "credito": 600000,
+        "parcela_minima": 14362.5,
+        "parcela_maxima": 2362.5
+      }
+    ]
+  },
+  {
+    "grupo": "SUE-240",
+    "segmento": "SUE - Super Crédito Estendido 1-2M - 240 meses",
+    "parcela_atual": 1,
+    "prazo_total": 240,
+    "taxa": 20.0,
+    "fundo_reserva": 2.0,
+    "seguro_prestamista": 0.061,
+    "antecipacao_cliente": 2.0,
+    "cotas_total": "12",
+    "administradora": "embracon",
+    "cotas": [
+      {
+        "cota": "SUE - Imóvel R$ 2.000.000 - Normal",
+        "credito": 2000000,
+        "parcela_minima": 30416.67,
+        "parcela_maxima": 10416.67
+      },
+      {
+        "cota": "SUE - Imóvel R$ 2.000.000 - Mais 25%",
+        "credito": 2000000,
+        "parcela_minima": 26166.67,
+        "parcela_maxima": 6166.67
+      },
+      {
+        "cota": "SUE - Imóvel R$ 2.000.000 - Mais 50%",
+        "credito": 2000000,
+        "parcela_minima": 28291.67,
+        "parcela_maxima": 8291.67
+      },
+      {
+        "cota": "SUE - Imóvel R$ 1.700.000 - Normal",
+        "credito": 1700000,
+        "parcela_minima": 25854.17,
+        "parcela_maxima": 8854.17
+      },
+      {
+        "cota": "SUE - Imóvel R$ 1.700.000 - Mais 25%",
+        "credito": 1700000,
+        "parcela_minima": 22241.67,
+        "parcela_maxima": 5241.67
+      },
+      {
+        "cota": "SUE - Imóvel R$ 1.700.000 - Mais 50%",
+        "credito": 1700000,
+        "parcela_minima": 24047.92,
+        "parcela_maxima": 7047.92
+      },
+      {
+        "cota": "SUE - Imóvel R$ 1.400.000 - Normal",
+        "credito": 1400000,
+        "parcela_minima": 21291.67,
+        "parcela_maxima": 7291.67
+      },
+      {
+        "cota": "SUE - Imóvel R$ 1.400.000 - Mais 25%",
+        "credito": 1400000,
+        "parcela_minima": 18316.67,
+        "parcela_maxima": 4316.67
+      },
+      {
+        "cota": "SUE - Imóvel R$ 1.400.000 - Mais 50%",
+        "credito": 1400000,
+        "parcela_minima": 19804.17,
+        "parcela_maxima": 5804.17
+      },
+      {
+        "cota": "SUE - Imóvel R$ 1.200.000 - Normal",
+        "credito": 1200000,
+        "parcela_minima": 18250.0,
+        "parcela_maxima": 6250.0
+      },
+      {
+        "cota": "SUE - Imóvel R$ 1.200.000 - Mais 25%",
+        "credito": 1200000,
+        "parcela_minima": 15700.0,
+        "parcela_maxima": 3700.0
+      },
+      {
+        "cota": "SUE - Imóvel R$ 1.200.000 - Mais 50%",
+        "credito": 1200000,
+        "parcela_minima": 16975.0,
+        "parcela_maxima": 4975.0
       }
     ]
   }
