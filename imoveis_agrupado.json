@@ -92401,5 +92401,594 @@
         "parcela_maxima": 1407.67
       }
     ]
+  },
+  {
+    "grupo": "BI1",
+    "segmento": "Imóvel até 240 mil",
+    "faixa_credito": "120.000 - 240.000",
+    "produto": "BI1",
+    "administradora": "embracon",
+    "taxa_adm": 23.0,
+    "taxa_antecipada": 1.0,
+    "taxa_total": 24.0,
+    "fundo_reserva": 2.0,
+    "seguro_vida_opcional": 0.061,
+    "prazo_grupo": 260,
+    "prazos_permitidos_normal": [
+      36,
+      50,
+      60,
+      70,
+      85,
+      100,
+      120,
+      135,
+      150,
+      165,
+      180
+    ],
+    "prazos_permitidos_mais_por_menos": [
+      36,
+      50,
+      60,
+      70,
+      85,
+      100,
+      120,
+      135,
+      150
+    ],
+    "planos_disponiveis": [
+      "Normal",
+      "Mais por Menos"
+    ],
+    "cotas_total": "12900",
+    "num_participantes_grupo": "12901",
+    "vigencia": "07/03/2024",
+    "cotas": [
+      {
+        "credito": 240000.0,
+        "referencia": "8148",
+        "plano": "Normal",
+        "prazo": 180,
+        "parcela": 1666.67,
+        "taxa_antecipada_valor": 2400.0
+      },
+      {
+        "credito": 240000.0,
+        "referencia": "8148",
+        "plano": "Mais por Menos",
+        "prazo": 180,
+        "parcela": 1592.0,
+        "taxa_antecipada_valor": 2400.0
+      },
+      {
+        "credito": 230000.0,
+        "referencia": "8155",
+        "plano": "Normal",
+        "prazo": 180,
+        "parcela": 1597.22,
+        "taxa_antecipada_valor": 2300.0
+      },
+      {
+        "credito": 230000.0,
+        "referencia": "8155",
+        "plano": "Mais por Menos",
+        "prazo": 180,
+        "parcela": 1525.67,
+        "taxa_antecipada_valor": 2300.0
+      },
+      {
+        "credito": 220000.0,
+        "referencia": "8147",
+        "plano": "Normal",
+        "prazo": 180,
+        "parcela": 1527.78,
+        "taxa_antecipada_valor": 2200.0
+      },
+      {
+        "credito": 220000.0,
+        "referencia": "8147",
+        "plano": "Mais por Menos",
+        "prazo": 180,
+        "parcela": 1459.33,
+        "taxa_antecipada_valor": 2200.0
+      },
+      {
+        "credito": 200000.0,
+        "referencia": "8146",
+        "plano": "Normal",
+        "prazo": 180,
+        "parcela": 1388.89,
+        "taxa_antecipada_valor": 2000.0
+      },
+      {
+        "credito": 200000.0,
+        "referencia": "8146",
+        "plano": "Mais por Menos",
+        "prazo": 180,
+        "parcela": 1326.67,
+        "taxa_antecipada_valor": 2000.0
+      }
+    ]
+  },
+  {
+    "grupo": "PB2",
+    "segmento": "Parceria Imóvel até 240 mil",
+    "faixa_credito": "120.000 - 240.000",
+    "produto": "PB2",
+    "administradora": "embracon",
+    "taxa_adm": 21.0,
+    "taxa_antecipada": 0.0,
+    "taxa_total": 21.0,
+    "fundo_reserva": 2.0,
+    "seguro_vida_opcional": 0.061,
+    "prazo_grupo": 260,
+    "prazos_permitidos_normal": [
+      36,
+      50,
+      60,
+      70,
+      85,
+      100,
+      120,
+      135,
+      150,
+      165
+    ],
+    "prazos_permitidos_mais_por_menos": [
+      70,
+      85,
+      100,
+      120,
+      135
+    ],
+    "planos_disponiveis": [
+      "Normal",
+      "Mais por Menos"
+    ],
+    "cotas_total": "12900",
+    "num_participantes_grupo": "12901",
+    "vigencia": "11/06/2025",
+    "cotas": [
+      {
+        "credito": 240000.0,
+        "referencia": "8148",
+        "plano": "Normal",
+        "prazo": 165,
+        "parcela": 1818.18,
+        "taxa_antecipada_valor": 0.0
+      },
+      {
+        "credito": 240000.0,
+        "referencia": "8148",
+        "plano": "Mais por Menos",
+        "prazo": 135,
+        "parcela": 1592.0,
+        "taxa_antecipada_valor": 0.0
+      },
+      {
+        "credito": 230000.0,
+        "referencia": "8155",
+        "plano": "Normal",
+        "prazo": 165,
+        "parcela": 1742.42,
+        "taxa_antecipada_valor": 0.0
+      },
+      {
+        "credito": 230000.0,
+        "referencia": "8155",
+        "plano": "Mais por Menos",
+        "prazo": 135,
+        "parcela": 1525.67,
+        "taxa_antecipada_valor": 0.0
+      }
+    ]
+  },
+  {
+    "grupo": "TSS",
+    "segmento": "Select Smart Imóvel",
+    "faixa_credito": "120.000 - 240.000",
+    "produto": "TSS",
+    "administradora": "embracon",
+    "taxa_adm": 13.0,
+    "taxa_antecipada": 2.0,
+    "taxa_total": 15.0,
+    "fundo_reserva": 2.0,
+    "seguro_vida_opcional": 0.061,
+    "prazo_grupo": 120,
+    "prazos_permitidos_normal": [
+      36,
+      50,
+      60,
+      70,
+      85,
+      100,
+      120
+    ],
+    "prazos_permitidos_mais_por_menos": [
+      36,
+      50,
+      60,
+      70,
+      85
+    ],
+    "planos_disponiveis": [
+      "Normal",
+      "Mais por Menos"
+    ],
+    "observacoes": "Não permitida comercialização nos prazos de 120 e 100 meses para Mais por Menos",
+    "cotas_total": "8570",
+    "num_participantes_grupo": "7060",
+    "vigencia": "12/06/2024",
+    "cotas": [
+      {
+        "credito": 240000.0,
+        "referencia": "8148",
+        "plano": "Normal",
+        "prazo": 120,
+        "primeira_parcela": 4800.0,
+        "demais_parcelas": 4720.0,
+        "taxa_antecipada_valor": 2400.0
+      },
+      {
+        "credito": 240000.0,
+        "referencia": "8148",
+        "plano": "Mais por Menos",
+        "prazo": 85,
+        "primeira_parcela": 5160.0,
+        "demais_parcelas": 2760.0,
+        "taxa_antecipada_valor": 2400.0
+      },
+      {
+        "credito": 230000.0,
+        "referencia": "8155",
+        "plano": "Normal",
+        "prazo": 120,
+        "primeira_parcela": 4600.0,
+        "demais_parcelas": 4523.33,
+        "taxa_antecipada_valor": 2300.0
+      },
+      {
+        "credito": 230000.0,
+        "referencia": "8155",
+        "plano": "Mais por Menos",
+        "prazo": 85,
+        "primeira_parcela": 4945.0,
+        "demais_parcelas": 2645.0,
+        "taxa_antecipada_valor": 2300.0
+      }
+    ]
+  },
+  {
+    "grupo": "TP",
+    "segmento": "Parcelinha Imóvel",
+    "faixa_credito": "240.000 - 600.000",
+    "produto": "TP",
+    "administradora": "embracon",
+    "taxa_adm": 24.8,
+    "taxa_antecipada": 1.2,
+    "taxa_total": 26.0,
+    "fundo_reserva": 2.0,
+    "seguro_vida_opcional": 0.061,
+    "prazo_grupo": 260,
+    "prazos_permitidos": [
+      200,
+      220,
+      240
+    ],
+    "planos_disponiveis": [
+      "Normal",
+      "Mais por Menos 50%"
+    ],
+    "particularidade": "Meia parcela - 1ª a 12ª parcela diferente das demais",
+    "cotas_total": "12909",
+    "num_participantes_grupo": "12907",
+    "vigencia": "12/06/2024",
+    "antecipacao_cliente": 2.0,
+    "comissao_vendedor": 4.5,
+    "cotas": [
+      {
+        "credito": 600000.0,
+        "referencia": "IE600",
+        "plano": "Normal",
+        "prazo": 240,
+        "primeira_a_decima_segunda_parcela": 3820.0,
+        "demais_parcelas": 3220.0,
+        "taxa_antecipada_valor": 7200.0
+      },
+      {
+        "credito": 600000.0,
+        "referencia": "IE600",
+        "plano": "Mais por Menos 50%",
+        "prazo": 240,
+        "primeira_a_decima_segunda_parcela": 2545.0,
+        "demais_parcelas": 1945.0,
+        "taxa_antecipada_valor": 7200.0
+      },
+      {
+        "credito": 500000.0,
+        "referencia": "IE500",
+        "plano": "Normal",
+        "prazo": 240,
+        "primeira_a_decima_segunda_parcela": 3183.33,
+        "demais_parcelas": 2683.33,
+        "taxa_antecipada_valor": 6000.0
+      },
+      {
+        "credito": 500000.0,
+        "referencia": "IE500",
+        "plano": "Mais por Menos 50%",
+        "prazo": 240,
+        "primeira_a_decima_segunda_parcela": 2120.83,
+        "demais_parcelas": 1620.83,
+        "taxa_antecipada_valor": 6000.0
+      }
+    ]
+  },
+  {
+    "grupo": "PSE",
+    "segmento": "Select Estendido Prime",
+    "faixa_credito": "240.000 - 600.000",
+    "produto": "PSE",
+    "administradora": "embracon",
+    "taxa_adm": 18.0,
+    "taxa_antecipada": 2.0,
+    "taxa_total": 20.0,
+    "fundo_reserva": 2.0,
+    "seguro_vida_opcional": 0.061,
+    "prazo_grupo": 260,
+    "prazos_permitidos": [
+      200,
+      220,
+      240
+    ],
+    "planos_disponiveis": [
+      "Normal",
+      "Mais por Menos 25%",
+      "Mais por Menos 50%"
+    ],
+    "particularidade": "Redutores de 25% e 50%",
+    "cotas_total": "12909",
+    "num_participantes_grupo": "12908",
+    "vigencia": "12/06/2024",
+    "antecipacao_cliente": 2.0,
+    "comissao_vendedor": 4.5,
+    "cotas": [
+      {
+        "credito": 600000.0,
+        "referencia": "IE600",
+        "plano": "Normal",
+        "prazo": 240,
+        "primeira_parcela": 15050.0,
+        "demais_parcelas": 3050.0,
+        "taxa_antecipada_valor": 12000.0
+      },
+      {
+        "credito": 600000.0,
+        "referencia": "IE600",
+        "plano": "Mais por Menos 25%",
+        "prazo": 240,
+        "primeira_parcela": 13775.0,
+        "demais_parcelas": 1775.0,
+        "taxa_antecipada_valor": 12000.0
+      },
+      {
+        "credito": 500000.0,
+        "referencia": "IE500",
+        "plano": "Normal",
+        "prazo": 240,
+        "primeira_parcela": 12541.67,
+        "demais_parcelas": 2541.67,
+        "taxa_antecipada_valor": 10000.0
+      },
+      {
+        "credito": 500000.0,
+        "referencia": "IE500",
+        "plano": "Mais por Menos 25%",
+        "prazo": 240,
+        "primeira_parcela": 11479.17,
+        "demais_parcelas": 1479.17,
+        "taxa_antecipada_valor": 10000.0
+      }
+    ]
+  },
+  {
+    "grupo": "EI1",
+    "segmento": "Plano Estendido 1% até 600 mil",
+    "faixa_credito": "120.000 - 600.000",
+    "produto": "EI1",
+    "administradora": "embracon",
+    "taxa_adm": 23.0,
+    "taxa_antecipada": 1.0,
+    "taxa_total": 24.0,
+    "fundo_reserva": 2.0,
+    "seguro_vida_opcional": 0.061,
+    "prazo_grupo": 260,
+    "prazos_permitidos": [
+      200,
+      220,
+      240
+    ],
+    "planos_disponiveis": [
+      "Normal",
+      "Mais por Menos 25%",
+      "Mais por Menos 50%"
+    ],
+    "cotas_total": "12909",
+    "num_participantes_grupo": "12907",
+    "vigencia": "02/06/2025",
+    "antecipacao_cliente": 2.0,
+    "comissao_vendedor": 4.5,
+    "cotas": [
+      {
+        "credito": 600000.0,
+        "referencia": "IE600",
+        "plano": "Normal",
+        "prazo": 240,
+        "primeira_parcela": 9175.0,
+        "demais_parcelas": 3175.0,
+        "taxa_antecipada_valor": 6000.0
+      },
+      {
+        "credito": 600000.0,
+        "referencia": "IE600",
+        "plano": "Mais por Menos 25%",
+        "prazo": 240,
+        "primeira_parcela": 7900.0,
+        "demais_parcelas": 1900.0,
+        "taxa_antecipada_valor": 6000.0
+      },
+      {
+        "credito": 500000.0,
+        "referencia": "IE500",
+        "plano": "Normal",
+        "prazo": 240,
+        "primeira_parcela": 7645.83,
+        "demais_parcelas": 2645.83,
+        "taxa_antecipada_valor": 5000.0
+      },
+      {
+        "credito": 500000.0,
+        "referencia": "IE500",
+        "plano": "Mais por Menos 25%",
+        "prazo": 240,
+        "primeira_parcela": 6583.33,
+        "demais_parcelas": 1583.33,
+        "taxa_antecipada_valor": 5000.0
+      }
+    ]
+  },
+  {
+    "grupo": "SEP",
+    "segmento": "Select Estendido Prime",
+    "faixa_credito": "600.000 - 1.200.000",
+    "produto": "SEP",
+    "administradora": "embracon",
+    "taxa_adm": 16.0,
+    "taxa_antecipada": 2.0,
+    "taxa_total": 18.0,
+    "fundo_reserva": 2.0,
+    "seguro_vida_opcional": 0.061,
+    "prazo_grupo": 240,
+    "prazos_permitidos": [
+      200,
+      220,
+      240
+    ],
+    "planos_disponiveis": [
+      "Normal",
+      "Mais por Menos 25%",
+      "Mais por Menos 50%"
+    ],
+    "cotas_total": "12909",
+    "num_participantes_grupo": "12908",
+    "vigencia": "08/08/2024",
+    "antecipacao_cliente": 2.0,
+    "comissao_vendedor": 4.5,
+    "cotas": [
+      {
+        "credito": 1200000.0,
+        "referencia": "IE1200",
+        "plano": "Normal",
+        "prazo": 240,
+        "primeira_parcela": 30000.0,
+        "demais_parcelas": 6000.0,
+        "taxa_antecipada_valor": 30000.0
+      },
+      {
+        "credito": 1200000.0,
+        "referencia": "IE1200",
+        "plano": "Mais por Menos 25%",
+        "prazo": 240,
+        "primeira_parcela": 27450.0,
+        "demais_parcelas": 3450.0,
+        "taxa_antecipada_valor": 30000.0
+      },
+      {
+        "credito": 1000000.0,
+        "referencia": "IE1000",
+        "plano": "Normal",
+        "prazo": 240,
+        "primeira_parcela": 25000.0,
+        "demais_parcelas": 5000.0,
+        "taxa_antecipada_valor": 25000.0
+      },
+      {
+        "credito": 1000000.0,
+        "referencia": "IE1000",
+        "plano": "Mais por Menos 25%",
+        "prazo": 240,
+        "primeira_parcela": 22875.0,
+        "demais_parcelas": 2875.0,
+        "taxa_antecipada_valor": 25000.0
+      }
+    ]
+  },
+  {
+    "grupo": "SUE",
+    "segmento": "Super Crédito Estendido",
+    "faixa_credito": "1.000.000 - 2.000.000",
+    "produto": "SUE",
+    "administradora": "embracon",
+    "taxa_adm": 19.0,
+    "taxa_antecipada": 1.0,
+    "taxa_total": 20.0,
+    "fundo_reserva": 2.0,
+    "seguro_vida_opcional": 0.061,
+    "prazo_grupo": 260,
+    "prazos_permitidos": [
+      200,
+      220,
+      240
+    ],
+    "planos_disponiveis": [
+      "Normal",
+      "Mais por Menos 25%",
+      "Mais por Menos 50%"
+    ],
+    "cotas_total": "12909",
+    "num_participantes_grupo": "12908",
+    "vigencia": "16/07/2025",
+    "antecipacao_cliente": 2.0,
+    "comissao_vendedor": 4.5,
+    "cotas": [
+      {
+        "credito": 2000000.0,
+        "referencia": "IE2000",
+        "plano": "Normal",
+        "prazo": 240,
+        "primeira_parcela": 30416.67,
+        "demais_parcelas": 10416.67,
+        "taxa_antecipada_valor": 20000.0
+      },
+      {
+        "credito": 2000000.0,
+        "referencia": "IE2000",
+        "plano": "Mais por Menos 25%",
+        "prazo": 240,
+        "primeira_parcela": 26166.67,
+        "demais_parcelas": 6166.67,
+        "taxa_antecipada_valor": 20000.0
+      },
+      {
+        "credito": 1700000.0,
+        "referencia": "IE1700",
+        "plano": "Normal",
+        "prazo": 240,
+        "primeira_parcela": 25854.17,
+        "demais_parcelas": 8854.17,
+        "taxa_antecipada_valor": 17000.0
+      },
+      {
+        "credito": 1700000.0,
+        "referencia": "IE1700",
+        "plano": "Mais por Menos 25%",
+        "prazo": 240,
+        "primeira_parcela": 22241.67,
+        "demais_parcelas": 5241.67,
+        "taxa_antecipada_valor": 17000.0
+      }
+    ]
   }
 ]
